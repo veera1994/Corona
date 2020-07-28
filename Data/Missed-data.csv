@@ -1,0 +1,3196 @@
+Municipalities,New_cases,Number,Provincienaam,date
+Appingedam,0.0,1.0,Groningen,2020-03-31
+Appingedam,0.0,1.0,Groningen,2020-04-01
+Appingedam,0.0,1.0,Groningen,2020-04-02
+Appingedam,0.0,1.0,Groningen,2020-04-03
+Appingedam,0.0,1.0,Groningen,2020-04-04
+Appingedam,0.0,1.0,Groningen,2020-04-05
+Appingedam,0.0,1.0,Groningen,2020-04-06
+Appingedam,0.0,1.0,Groningen,2020-04-07
+Appingedam,0.0,1.0,Groningen,2020-04-08
+Delfzijl,0.0,7.0,Groningen,2020-03-31
+Delfzijl,0.0,7.0,Groningen,2020-04-01
+Delfzijl,0.0,7.0,Groningen,2020-04-02
+Delfzijl,0.0,7.0,Groningen,2020-04-03
+Delfzijl,0.0,7.0,Groningen,2020-04-04
+Delfzijl,0.0,7.0,Groningen,2020-04-05
+Delfzijl,0.0,7.0,Groningen,2020-04-06
+Delfzijl,0.0,7.0,Groningen,2020-04-07
+Delfzijl,0.0,7.0,Groningen,2020-04-08
+Groningen,2.0,90.0,Groningen,2020-03-31
+Groningen,3.0,93.0,Groningen,2020-04-01
+Groningen,3.0,96.0,Groningen,2020-04-02
+Groningen,3.0,99.0,Groningen,2020-04-03
+Groningen,3.0,102.0,Groningen,2020-04-04
+Groningen,4.0,106.0,Groningen,2020-04-05
+Groningen,3.0,109.0,Groningen,2020-04-06
+Groningen,2.0,111.0,Groningen,2020-04-07
+Groningen,3.0,114.0,Groningen,2020-04-08
+Loppersum,0.0,1.0,Groningen,2020-03-31
+Loppersum,0.0,1.0,Groningen,2020-04-01
+Loppersum,0.0,1.0,Groningen,2020-04-02
+Loppersum,0.0,1.0,Groningen,2020-04-03
+Loppersum,0.0,1.0,Groningen,2020-04-04
+Loppersum,0.0,1.0,Groningen,2020-04-05
+Loppersum,0.0,1.0,Groningen,2020-04-06
+Loppersum,0.0,1.0,Groningen,2020-04-07
+Loppersum,0.0,1.0,Groningen,2020-04-08
+Almere,6.0,66.0,Flevoland,2020-03-31
+Almere,8.0,74.0,Flevoland,2020-04-01
+Almere,8.0,82.0,Flevoland,2020-04-02
+Almere,8.0,90.0,Flevoland,2020-04-03
+Almere,7.0,97.0,Flevoland,2020-04-04
+Almere,9.0,106.0,Flevoland,2020-04-05
+Almere,7.0,113.0,Flevoland,2020-04-06
+Almere,6.0,119.0,Flevoland,2020-04-07
+Almere,7.0,126.0,Flevoland,2020-04-08
+Stadskanaal,0.0,1.0,Groningen,2020-03-31
+Stadskanaal,0.0,1.0,Groningen,2020-04-01
+Stadskanaal,0.0,1.0,Groningen,2020-04-02
+Stadskanaal,0.0,1.0,Groningen,2020-04-03
+Stadskanaal,0.0,1.0,Groningen,2020-04-04
+Stadskanaal,0.0,1.0,Groningen,2020-04-05
+Stadskanaal,0.0,1.0,Groningen,2020-04-06
+Stadskanaal,0.0,1.0,Groningen,2020-04-07
+Stadskanaal,0.0,1.0,Groningen,2020-04-08
+Veendam,0.0,2.0,Groningen,2020-03-31
+Veendam,0.0,2.0,Groningen,2020-04-01
+Veendam,0.0,2.0,Groningen,2020-04-02
+Veendam,0.0,2.0,Groningen,2020-04-03
+Veendam,0.0,2.0,Groningen,2020-04-04
+Veendam,0.0,2.0,Groningen,2020-04-05
+Veendam,0.0,2.0,Groningen,2020-04-06
+Veendam,0.0,2.0,Groningen,2020-04-07
+Veendam,0.0,2.0,Groningen,2020-04-08
+Zeewolde,0.0,9.0,Flevoland,2020-03-31
+Zeewolde,0.0,9.0,Flevoland,2020-04-01
+Zeewolde,0.0,9.0,Flevoland,2020-04-02
+Zeewolde,0.0,9.0,Flevoland,2020-04-03
+Zeewolde,0.0,9.0,Flevoland,2020-04-04
+Zeewolde,0.0,9.0,Flevoland,2020-04-05
+Zeewolde,0.0,9.0,Flevoland,2020-04-06
+Zeewolde,0.0,9.0,Flevoland,2020-04-07
+Zeewolde,0.0,9.0,Flevoland,2020-04-08
+Achtkarspelen,0.0,2.0,Friesland,2020-03-31
+Achtkarspelen,0.0,2.0,Friesland,2020-04-01
+Achtkarspelen,0.0,2.0,Friesland,2020-04-02
+Achtkarspelen,0.0,2.0,Friesland,2020-04-03
+Achtkarspelen,0.0,2.0,Friesland,2020-04-04
+Achtkarspelen,0.0,2.0,Friesland,2020-04-05
+Achtkarspelen,0.0,2.0,Friesland,2020-04-06
+Achtkarspelen,0.0,2.0,Friesland,2020-04-07
+Achtkarspelen,0.0,2.0,Friesland,2020-04-08
+Ameland,0.0,0.0,Friesland,2020-03-31
+Ameland,0.0,0.0,Friesland,2020-04-01
+Ameland,0.0,0.0,Friesland,2020-04-02
+Ameland,0.0,0.0,Friesland,2020-04-03
+Ameland,0.0,0.0,Friesland,2020-04-04
+Ameland,0.0,0.0,Friesland,2020-04-05
+Ameland,0.0,0.0,Friesland,2020-04-06
+Ameland,0.0,0.0,Friesland,2020-04-07
+Ameland,0.0,0.0,Friesland,2020-04-08
+Harlingen,0.0,4.0,Friesland,2020-03-31
+Harlingen,0.0,4.0,Friesland,2020-04-01
+Harlingen,0.0,4.0,Friesland,2020-04-02
+Harlingen,0.0,4.0,Friesland,2020-04-03
+Harlingen,0.0,4.0,Friesland,2020-04-04
+Harlingen,0.0,4.0,Friesland,2020-04-05
+Harlingen,0.0,4.0,Friesland,2020-04-06
+Harlingen,0.0,4.0,Friesland,2020-04-07
+Harlingen,0.0,4.0,Friesland,2020-04-08
+Heerenveen,2.0,11.0,Friesland,2020-03-31
+Heerenveen,2.0,13.0,Friesland,2020-04-01
+Heerenveen,2.0,15.0,Friesland,2020-04-02
+Heerenveen,2.0,17.0,Friesland,2020-04-03
+Heerenveen,2.0,19.0,Friesland,2020-04-04
+Heerenveen,3.0,22.0,Friesland,2020-04-05
+Heerenveen,2.0,24.0,Friesland,2020-04-06
+Heerenveen,2.0,26.0,Friesland,2020-04-07
+Heerenveen,2.0,28.0,Friesland,2020-04-08
+Leeuwarden,1.0,24.0,Friesland,2020-03-31
+Leeuwarden,2.0,26.0,Friesland,2020-04-01
+Leeuwarden,2.0,28.0,Friesland,2020-04-02
+Leeuwarden,2.0,30.0,Friesland,2020-04-03
+Leeuwarden,1.0,31.0,Friesland,2020-04-04
+Leeuwarden,2.0,33.0,Friesland,2020-04-05
+Leeuwarden,2.0,35.0,Friesland,2020-04-06
+Leeuwarden,1.0,36.0,Friesland,2020-04-07
+Leeuwarden,2.0,38.0,Friesland,2020-04-08
+Ooststellingwerf,0.0,1.0,Friesland,2020-03-31
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-01
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-02
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-03
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-04
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-05
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-06
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-07
+Ooststellingwerf,0.0,1.0,Friesland,2020-04-08
+Opsterland,0.0,7.0,Friesland,2020-03-31
+Opsterland,0.0,7.0,Friesland,2020-04-01
+Opsterland,0.0,7.0,Friesland,2020-04-02
+Opsterland,0.0,7.0,Friesland,2020-04-03
+Opsterland,0.0,7.0,Friesland,2020-04-04
+Opsterland,0.0,7.0,Friesland,2020-04-05
+Opsterland,0.0,7.0,Friesland,2020-04-06
+Opsterland,0.0,7.0,Friesland,2020-04-07
+Opsterland,0.0,7.0,Friesland,2020-04-08
+Schiermonnikoog,0.0,0.0,Friesland,2020-03-31
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-01
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-02
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-03
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-04
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-05
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-06
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-07
+Schiermonnikoog,0.0,0.0,Friesland,2020-04-08
+Smallingerland,0.0,10.0,Friesland,2020-03-31
+Smallingerland,0.0,10.0,Friesland,2020-04-01
+Smallingerland,0.0,10.0,Friesland,2020-04-02
+Smallingerland,0.0,10.0,Friesland,2020-04-03
+Smallingerland,0.0,10.0,Friesland,2020-04-04
+Smallingerland,0.0,10.0,Friesland,2020-04-05
+Smallingerland,0.0,10.0,Friesland,2020-04-06
+Smallingerland,0.0,10.0,Friesland,2020-04-07
+Smallingerland,0.0,10.0,Friesland,2020-04-08
+Terschelling,0.0,0.0,Friesland,2020-03-31
+Terschelling,0.0,0.0,Friesland,2020-04-01
+Terschelling,0.0,0.0,Friesland,2020-04-02
+Terschelling,0.0,0.0,Friesland,2020-04-03
+Terschelling,0.0,0.0,Friesland,2020-04-04
+Terschelling,0.0,0.0,Friesland,2020-04-05
+Terschelling,0.0,0.0,Friesland,2020-04-06
+Terschelling,0.0,0.0,Friesland,2020-04-07
+Terschelling,0.0,0.0,Friesland,2020-04-08
+Vlieland,0.0,0.0,Friesland,2020-03-31
+Vlieland,0.0,0.0,Friesland,2020-04-01
+Vlieland,0.0,0.0,Friesland,2020-04-02
+Vlieland,0.0,0.0,Friesland,2020-04-03
+Vlieland,0.0,0.0,Friesland,2020-04-04
+Vlieland,0.0,0.0,Friesland,2020-04-05
+Vlieland,0.0,0.0,Friesland,2020-04-06
+Vlieland,0.0,0.0,Friesland,2020-04-07
+Vlieland,0.0,0.0,Friesland,2020-04-08
+Weststellingwerf,0.0,3.0,Friesland,2020-03-31
+Weststellingwerf,0.0,3.0,Friesland,2020-04-01
+Weststellingwerf,0.0,3.0,Friesland,2020-04-02
+Weststellingwerf,0.0,3.0,Friesland,2020-04-03
+Weststellingwerf,0.0,3.0,Friesland,2020-04-04
+Weststellingwerf,0.0,3.0,Friesland,2020-04-05
+Weststellingwerf,0.0,3.0,Friesland,2020-04-06
+Weststellingwerf,0.0,3.0,Friesland,2020-04-07
+Weststellingwerf,0.0,3.0,Friesland,2020-04-08
+Assen,0.0,12.0,Drenthe,2020-03-31
+Assen,1.0,13.0,Drenthe,2020-04-01
+Assen,1.0,14.0,Drenthe,2020-04-02
+Assen,1.0,15.0,Drenthe,2020-04-03
+Assen,1.0,16.0,Drenthe,2020-04-04
+Assen,1.0,17.0,Drenthe,2020-04-05
+Assen,1.0,18.0,Drenthe,2020-04-06
+Assen,0.0,18.0,Drenthe,2020-04-07
+Assen,1.0,19.0,Drenthe,2020-04-08
+Coevorden,1.0,21.0,Drenthe,2020-03-31
+Coevorden,1.0,22.0,Drenthe,2020-04-01
+Coevorden,1.0,23.0,Drenthe,2020-04-02
+Coevorden,1.0,24.0,Drenthe,2020-04-03
+Coevorden,1.0,25.0,Drenthe,2020-04-04
+Coevorden,1.0,26.0,Drenthe,2020-04-05
+Coevorden,1.0,27.0,Drenthe,2020-04-06
+Coevorden,0.0,27.0,Drenthe,2020-04-07
+Coevorden,1.0,28.0,Drenthe,2020-04-08
+Emmen,2.0,17.0,Drenthe,2020-03-31
+Emmen,2.0,19.0,Drenthe,2020-04-01
+Emmen,2.0,21.0,Drenthe,2020-04-02
+Emmen,2.0,23.0,Drenthe,2020-04-03
+Emmen,2.0,25.0,Drenthe,2020-04-04
+Emmen,2.0,27.0,Drenthe,2020-04-05
+Emmen,2.0,29.0,Drenthe,2020-04-06
+Emmen,1.0,30.0,Drenthe,2020-04-07
+Emmen,2.0,32.0,Drenthe,2020-04-08
+Hoogeveen,1.0,14.0,Drenthe,2020-03-31
+Hoogeveen,1.0,15.0,Drenthe,2020-04-01
+Hoogeveen,1.0,16.0,Drenthe,2020-04-02
+Hoogeveen,1.0,17.0,Drenthe,2020-04-03
+Hoogeveen,1.0,18.0,Drenthe,2020-04-04
+Hoogeveen,1.0,19.0,Drenthe,2020-04-05
+Hoogeveen,1.0,20.0,Drenthe,2020-04-06
+Hoogeveen,1.0,21.0,Drenthe,2020-04-07
+Hoogeveen,1.0,22.0,Drenthe,2020-04-08
+Meppel,1.0,9.0,Drenthe,2020-03-31
+Meppel,1.0,10.0,Drenthe,2020-04-01
+Meppel,1.0,11.0,Drenthe,2020-04-02
+Meppel,1.0,12.0,Drenthe,2020-04-03
+Meppel,1.0,13.0,Drenthe,2020-04-04
+Meppel,1.0,14.0,Drenthe,2020-04-05
+Meppel,1.0,15.0,Drenthe,2020-04-06
+Meppel,1.0,16.0,Drenthe,2020-04-07
+Meppel,1.0,17.0,Drenthe,2020-04-08
+Almelo,2.0,22.0,Overijssel,2020-03-31
+Almelo,3.0,25.0,Overijssel,2020-04-01
+Almelo,3.0,28.0,Overijssel,2020-04-02
+Almelo,3.0,31.0,Overijssel,2020-04-03
+Almelo,2.0,33.0,Overijssel,2020-04-04
+Almelo,3.0,36.0,Overijssel,2020-04-05
+Almelo,2.0,38.0,Overijssel,2020-04-06
+Almelo,2.0,40.0,Overijssel,2020-04-07
+Almelo,2.0,42.0,Overijssel,2020-04-08
+Borne,1.0,22.0,Overijssel,2020-03-31
+Borne,1.0,23.0,Overijssel,2020-04-01
+Borne,1.0,24.0,Overijssel,2020-04-02
+Borne,1.0,25.0,Overijssel,2020-04-03
+Borne,1.0,26.0,Overijssel,2020-04-04
+Borne,1.0,27.0,Overijssel,2020-04-05
+Borne,1.0,28.0,Overijssel,2020-04-06
+Borne,1.0,29.0,Overijssel,2020-04-07
+Borne,1.0,30.0,Overijssel,2020-04-08
+Dalfsen,2.0,18.0,Overijssel,2020-03-31
+Dalfsen,2.0,20.0,Overijssel,2020-04-01
+Dalfsen,2.0,22.0,Overijssel,2020-04-02
+Dalfsen,2.0,24.0,Overijssel,2020-04-03
+Dalfsen,2.0,26.0,Overijssel,2020-04-04
+Dalfsen,2.0,28.0,Overijssel,2020-04-05
+Dalfsen,2.0,30.0,Overijssel,2020-04-06
+Dalfsen,1.0,31.0,Overijssel,2020-04-07
+Dalfsen,2.0,33.0,Overijssel,2020-04-08
+Deventer,3.0,56.0,Overijssel,2020-03-31
+Deventer,3.0,59.0,Overijssel,2020-04-01
+Deventer,4.0,63.0,Overijssel,2020-04-02
+Deventer,3.0,66.0,Overijssel,2020-04-03
+Deventer,3.0,69.0,Overijssel,2020-04-04
+Deventer,4.0,73.0,Overijssel,2020-04-05
+Deventer,3.0,76.0,Overijssel,2020-04-06
+Deventer,3.0,79.0,Overijssel,2020-04-07
+Deventer,3.0,82.0,Overijssel,2020-04-08
+Enschede,5.0,60.0,Overijssel,2020-03-31
+Enschede,7.0,67.0,Overijssel,2020-04-01
+Enschede,7.0,74.0,Overijssel,2020-04-02
+Enschede,7.0,81.0,Overijssel,2020-04-03
+Enschede,6.0,87.0,Overijssel,2020-04-04
+Enschede,8.0,95.0,Overijssel,2020-04-05
+Enschede,6.0,101.0,Overijssel,2020-04-06
+Enschede,5.0,106.0,Overijssel,2020-04-07
+Enschede,6.0,112.0,Overijssel,2020-04-08
+Haaksbergen,1.0,11.0,Overijssel,2020-03-31
+Haaksbergen,1.0,12.0,Overijssel,2020-04-01
+Haaksbergen,1.0,13.0,Overijssel,2020-04-02
+Haaksbergen,1.0,14.0,Overijssel,2020-04-03
+Haaksbergen,1.0,15.0,Overijssel,2020-04-04
+Haaksbergen,1.0,16.0,Overijssel,2020-04-05
+Haaksbergen,1.0,17.0,Overijssel,2020-04-06
+Haaksbergen,1.0,18.0,Overijssel,2020-04-07
+Haaksbergen,1.0,19.0,Overijssel,2020-04-08
+Hardenberg,5.0,26.0,Overijssel,2020-03-31
+Hardenberg,6.0,32.0,Overijssel,2020-04-01
+Hardenberg,6.0,38.0,Overijssel,2020-04-02
+Hardenberg,6.0,44.0,Overijssel,2020-04-03
+Hardenberg,5.0,49.0,Overijssel,2020-04-04
+Hardenberg,7.0,56.0,Overijssel,2020-04-05
+Hardenberg,5.0,61.0,Overijssel,2020-04-06
+Hardenberg,4.0,65.0,Overijssel,2020-04-07
+Hardenberg,5.0,70.0,Overijssel,2020-04-08
+Hellendoorn,2.0,16.0,Overijssel,2020-03-31
+Hellendoorn,2.0,18.0,Overijssel,2020-04-01
+Hellendoorn,2.0,20.0,Overijssel,2020-04-02
+Hellendoorn,2.0,22.0,Overijssel,2020-04-03
+Hellendoorn,2.0,24.0,Overijssel,2020-04-04
+Hellendoorn,3.0,27.0,Overijssel,2020-04-05
+Hellendoorn,2.0,29.0,Overijssel,2020-04-06
+Hellendoorn,1.0,30.0,Overijssel,2020-04-07
+Hellendoorn,2.0,32.0,Overijssel,2020-04-08
+Hengelo,2.0,42.0,Overijssel,2020-03-31
+Hengelo,3.0,45.0,Overijssel,2020-04-01
+Hengelo,3.0,48.0,Overijssel,2020-04-02
+Hengelo,3.0,51.0,Overijssel,2020-04-03
+Hengelo,2.0,53.0,Overijssel,2020-04-04
+Hengelo,4.0,57.0,Overijssel,2020-04-05
+Hengelo,3.0,60.0,Overijssel,2020-04-06
+Hengelo,2.0,62.0,Overijssel,2020-04-07
+Hengelo,3.0,65.0,Overijssel,2020-04-08
+Kampen,7.0,76.0,Overijssel,2020-03-31
+Kampen,8.0,84.0,Overijssel,2020-04-01
+Kampen,8.0,92.0,Overijssel,2020-04-02
+Kampen,8.0,100.0,Overijssel,2020-04-03
+Kampen,7.0,107.0,Overijssel,2020-04-04
+Kampen,10.0,117.0,Overijssel,2020-04-05
+Kampen,7.0,124.0,Overijssel,2020-04-06
+Kampen,6.0,130.0,Overijssel,2020-04-07
+Kampen,8.0,138.0,Overijssel,2020-04-08
+Losser,0.0,3.0,Overijssel,2020-03-31
+Losser,0.0,3.0,Overijssel,2020-04-01
+Losser,0.0,3.0,Overijssel,2020-04-02
+Losser,0.0,3.0,Overijssel,2020-04-03
+Losser,0.0,3.0,Overijssel,2020-04-04
+Losser,1.0,4.0,Overijssel,2020-04-05
+Losser,0.0,4.0,Overijssel,2020-04-06
+Losser,0.0,4.0,Overijssel,2020-04-07
+Losser,0.0,4.0,Overijssel,2020-04-08
+Noordoostpolder,0.0,11.0,Flevoland,2020-03-31
+Noordoostpolder,0.0,11.0,Flevoland,2020-04-01
+Noordoostpolder,0.0,11.0,Flevoland,2020-04-02
+Noordoostpolder,0.0,11.0,Flevoland,2020-04-03
+Noordoostpolder,0.0,11.0,Flevoland,2020-04-04
+Noordoostpolder,1.0,12.0,Flevoland,2020-04-05
+Noordoostpolder,0.0,12.0,Flevoland,2020-04-06
+Noordoostpolder,0.0,12.0,Flevoland,2020-04-07
+Noordoostpolder,0.0,12.0,Flevoland,2020-04-08
+Oldenzaal,0.0,22.0,Overijssel,2020-03-31
+Oldenzaal,0.0,22.0,Overijssel,2020-04-01
+Oldenzaal,0.0,22.0,Overijssel,2020-04-02
+Oldenzaal,0.0,22.0,Overijssel,2020-04-03
+Oldenzaal,0.0,22.0,Overijssel,2020-04-04
+Oldenzaal,0.0,22.0,Overijssel,2020-04-05
+Oldenzaal,0.0,22.0,Overijssel,2020-04-06
+Oldenzaal,0.0,22.0,Overijssel,2020-04-07
+Oldenzaal,0.0,22.0,Overijssel,2020-04-08
+Ommen,1.0,11.0,Overijssel,2020-03-31
+Ommen,1.0,12.0,Overijssel,2020-04-01
+Ommen,1.0,13.0,Overijssel,2020-04-02
+Ommen,1.0,14.0,Overijssel,2020-04-03
+Ommen,1.0,15.0,Overijssel,2020-04-04
+Ommen,2.0,17.0,Overijssel,2020-04-05
+Ommen,1.0,18.0,Overijssel,2020-04-06
+Ommen,1.0,19.0,Overijssel,2020-04-07
+Ommen,1.0,20.0,Overijssel,2020-04-08
+Raalte,1.0,21.0,Overijssel,2020-03-31
+Raalte,2.0,23.0,Overijssel,2020-04-01
+Raalte,2.0,25.0,Overijssel,2020-04-02
+Raalte,2.0,27.0,Overijssel,2020-04-03
+Raalte,1.0,28.0,Overijssel,2020-04-04
+Raalte,2.0,30.0,Overijssel,2020-04-05
+Raalte,2.0,32.0,Overijssel,2020-04-06
+Raalte,1.0,33.0,Overijssel,2020-04-07
+Raalte,2.0,35.0,Overijssel,2020-04-08
+Staphorst,1.0,7.0,Overijssel,2020-03-31
+Staphorst,2.0,9.0,Overijssel,2020-04-01
+Staphorst,2.0,11.0,Overijssel,2020-04-02
+Staphorst,2.0,13.0,Overijssel,2020-04-03
+Staphorst,1.0,14.0,Overijssel,2020-04-04
+Staphorst,2.0,16.0,Overijssel,2020-04-05
+Staphorst,2.0,18.0,Overijssel,2020-04-06
+Staphorst,1.0,19.0,Overijssel,2020-04-07
+Staphorst,2.0,21.0,Overijssel,2020-04-08
+Tubbergen,3.0,17.0,Overijssel,2020-03-31
+Tubbergen,4.0,21.0,Overijssel,2020-04-01
+Tubbergen,4.0,25.0,Overijssel,2020-04-02
+Tubbergen,4.0,29.0,Overijssel,2020-04-03
+Tubbergen,3.0,32.0,Overijssel,2020-04-04
+Tubbergen,5.0,37.0,Overijssel,2020-04-05
+Tubbergen,3.0,40.0,Overijssel,2020-04-06
+Tubbergen,3.0,43.0,Overijssel,2020-04-07
+Tubbergen,3.0,46.0,Overijssel,2020-04-08
+Urk,1.0,15.0,Flevoland,2020-03-31
+Urk,1.0,16.0,Flevoland,2020-04-01
+Urk,1.0,17.0,Flevoland,2020-04-02
+Urk,1.0,18.0,Flevoland,2020-04-03
+Urk,1.0,19.0,Flevoland,2020-04-04
+Urk,1.0,20.0,Flevoland,2020-04-05
+Urk,1.0,21.0,Flevoland,2020-04-06
+Urk,1.0,22.0,Flevoland,2020-04-07
+Urk,1.0,23.0,Flevoland,2020-04-08
+Wierden,0.0,9.0,Overijssel,2020-03-31
+Wierden,1.0,10.0,Overijssel,2020-04-01
+Wierden,1.0,11.0,Overijssel,2020-04-02
+Wierden,1.0,12.0,Overijssel,2020-04-03
+Wierden,1.0,13.0,Overijssel,2020-04-04
+Wierden,1.0,14.0,Overijssel,2020-04-05
+Wierden,1.0,15.0,Overijssel,2020-04-06
+Wierden,0.0,15.0,Overijssel,2020-04-07
+Wierden,1.0,16.0,Overijssel,2020-04-08
+Zwolle,7.0,99.0,Overijssel,2020-03-31
+Zwolle,9.0,108.0,Overijssel,2020-04-01
+Zwolle,9.0,117.0,Overijssel,2020-04-02
+Zwolle,9.0,126.0,Overijssel,2020-04-03
+Zwolle,8.0,134.0,Overijssel,2020-04-04
+Zwolle,10.0,144.0,Overijssel,2020-04-05
+Zwolle,8.0,152.0,Overijssel,2020-04-06
+Zwolle,6.0,158.0,Overijssel,2020-04-07
+Zwolle,8.0,166.0,Overijssel,2020-04-08
+Aalten,1.0,6.0,Gelderland,2020-03-31
+Aalten,1.0,7.0,Gelderland,2020-04-01
+Aalten,1.0,8.0,Gelderland,2020-04-02
+Aalten,1.0,9.0,Gelderland,2020-04-03
+Aalten,1.0,10.0,Gelderland,2020-04-04
+Aalten,1.0,11.0,Gelderland,2020-04-05
+Aalten,1.0,12.0,Gelderland,2020-04-06
+Aalten,1.0,13.0,Gelderland,2020-04-07
+Aalten,1.0,14.0,Gelderland,2020-04-08
+Apeldoorn,6.0,66.0,Gelderland,2020-03-31
+Apeldoorn,7.0,73.0,Gelderland,2020-04-01
+Apeldoorn,7.0,80.0,Gelderland,2020-04-02
+Apeldoorn,7.0,87.0,Gelderland,2020-04-03
+Apeldoorn,6.0,93.0,Gelderland,2020-04-04
+Apeldoorn,8.0,101.0,Gelderland,2020-04-05
+Apeldoorn,6.0,107.0,Gelderland,2020-04-06
+Apeldoorn,5.0,112.0,Gelderland,2020-04-07
+Apeldoorn,6.0,118.0,Gelderland,2020-04-08
+Arnhem,4.0,67.0,Gelderland,2020-03-31
+Arnhem,5.0,72.0,Gelderland,2020-04-01
+Arnhem,5.0,77.0,Gelderland,2020-04-02
+Arnhem,5.0,82.0,Gelderland,2020-04-03
+Arnhem,4.0,86.0,Gelderland,2020-04-04
+Arnhem,6.0,92.0,Gelderland,2020-04-05
+Arnhem,5.0,97.0,Gelderland,2020-04-06
+Arnhem,4.0,101.0,Gelderland,2020-04-07
+Arnhem,5.0,106.0,Gelderland,2020-04-08
+Barneveld,2.0,24.0,Gelderland,2020-03-31
+Barneveld,3.0,27.0,Gelderland,2020-04-01
+Barneveld,3.0,30.0,Gelderland,2020-04-02
+Barneveld,3.0,33.0,Gelderland,2020-04-03
+Barneveld,3.0,36.0,Gelderland,2020-04-04
+Barneveld,4.0,40.0,Gelderland,2020-04-05
+Barneveld,3.0,43.0,Gelderland,2020-04-06
+Barneveld,2.0,45.0,Gelderland,2020-04-07
+Barneveld,3.0,48.0,Gelderland,2020-04-08
+Beuningen,1.0,25.0,Gelderland,2020-03-31
+Beuningen,1.0,26.0,Gelderland,2020-04-01
+Beuningen,1.0,27.0,Gelderland,2020-04-02
+Beuningen,1.0,28.0,Gelderland,2020-04-03
+Beuningen,1.0,29.0,Gelderland,2020-04-04
+Beuningen,1.0,30.0,Gelderland,2020-04-05
+Beuningen,1.0,31.0,Gelderland,2020-04-06
+Beuningen,1.0,32.0,Gelderland,2020-04-07
+Beuningen,1.0,33.0,Gelderland,2020-04-08
+Brummen,0.0,8.0,Gelderland,2020-03-31
+Brummen,1.0,9.0,Gelderland,2020-04-01
+Brummen,1.0,10.0,Gelderland,2020-04-02
+Brummen,1.0,11.0,Gelderland,2020-04-03
+Brummen,0.0,11.0,Gelderland,2020-04-04
+Brummen,1.0,12.0,Gelderland,2020-04-05
+Brummen,0.0,12.0,Gelderland,2020-04-06
+Brummen,0.0,12.0,Gelderland,2020-04-07
+Brummen,0.0,12.0,Gelderland,2020-04-08
+Buren,0.0,9.0,Gelderland,2020-03-31
+Buren,1.0,10.0,Gelderland,2020-04-01
+Buren,1.0,11.0,Gelderland,2020-04-02
+Buren,1.0,12.0,Gelderland,2020-04-03
+Buren,1.0,13.0,Gelderland,2020-04-04
+Buren,1.0,14.0,Gelderland,2020-04-05
+Buren,1.0,15.0,Gelderland,2020-04-06
+Buren,0.0,15.0,Gelderland,2020-04-07
+Buren,1.0,16.0,Gelderland,2020-04-08
+Culemborg,1.0,21.0,Gelderland,2020-03-31
+Culemborg,1.0,22.0,Gelderland,2020-04-01
+Culemborg,1.0,23.0,Gelderland,2020-04-02
+Culemborg,1.0,24.0,Gelderland,2020-04-03
+Culemborg,1.0,25.0,Gelderland,2020-04-04
+Culemborg,2.0,27.0,Gelderland,2020-04-05
+Culemborg,1.0,28.0,Gelderland,2020-04-06
+Culemborg,1.0,29.0,Gelderland,2020-04-07
+Culemborg,1.0,30.0,Gelderland,2020-04-08
+Doesburg,0.0,6.0,Gelderland,2020-03-31
+Doesburg,0.0,6.0,Gelderland,2020-04-01
+Doesburg,0.0,6.0,Gelderland,2020-04-02
+Doesburg,0.0,6.0,Gelderland,2020-04-03
+Doesburg,0.0,6.0,Gelderland,2020-04-04
+Doesburg,0.0,6.0,Gelderland,2020-04-05
+Doesburg,0.0,6.0,Gelderland,2020-04-06
+Doesburg,0.0,6.0,Gelderland,2020-04-07
+Doesburg,0.0,6.0,Gelderland,2020-04-08
+Doetinchem,1.0,25.0,Gelderland,2020-03-31
+Doetinchem,1.0,26.0,Gelderland,2020-04-01
+Doetinchem,1.0,27.0,Gelderland,2020-04-02
+Doetinchem,1.0,28.0,Gelderland,2020-04-03
+Doetinchem,1.0,29.0,Gelderland,2020-04-04
+Doetinchem,2.0,31.0,Gelderland,2020-04-05
+Doetinchem,1.0,32.0,Gelderland,2020-04-06
+Doetinchem,1.0,33.0,Gelderland,2020-04-07
+Doetinchem,1.0,34.0,Gelderland,2020-04-08
+Druten,1.0,19.0,Gelderland,2020-03-31
+Druten,2.0,21.0,Gelderland,2020-04-01
+Druten,2.0,23.0,Gelderland,2020-04-02
+Druten,2.0,25.0,Gelderland,2020-04-03
+Druten,1.0,26.0,Gelderland,2020-04-04
+Druten,2.0,28.0,Gelderland,2020-04-05
+Druten,2.0,30.0,Gelderland,2020-04-06
+Druten,1.0,31.0,Gelderland,2020-04-07
+Druten,2.0,33.0,Gelderland,2020-04-08
+Duiven,1.0,8.0,Gelderland,2020-03-31
+Duiven,1.0,9.0,Gelderland,2020-04-01
+Duiven,1.0,10.0,Gelderland,2020-04-02
+Duiven,1.0,11.0,Gelderland,2020-04-03
+Duiven,1.0,12.0,Gelderland,2020-04-04
+Duiven,1.0,13.0,Gelderland,2020-04-05
+Duiven,1.0,14.0,Gelderland,2020-04-06
+Duiven,1.0,15.0,Gelderland,2020-04-07
+Duiven,1.0,16.0,Gelderland,2020-04-08
+Ede,4.0,54.0,Gelderland,2020-03-31
+Ede,5.0,59.0,Gelderland,2020-04-01
+Ede,5.0,64.0,Gelderland,2020-04-02
+Ede,5.0,69.0,Gelderland,2020-04-03
+Ede,4.0,73.0,Gelderland,2020-04-04
+Ede,6.0,79.0,Gelderland,2020-04-05
+Ede,4.0,83.0,Gelderland,2020-04-06
+Ede,4.0,87.0,Gelderland,2020-04-07
+Ede,5.0,92.0,Gelderland,2020-04-08
+Elburg,2.0,20.0,Gelderland,2020-03-31
+Elburg,2.0,22.0,Gelderland,2020-04-01
+Elburg,2.0,24.0,Gelderland,2020-04-02
+Elburg,2.0,26.0,Gelderland,2020-04-03
+Elburg,2.0,28.0,Gelderland,2020-04-04
+Elburg,3.0,31.0,Gelderland,2020-04-05
+Elburg,2.0,33.0,Gelderland,2020-04-06
+Elburg,2.0,35.0,Gelderland,2020-04-07
+Elburg,2.0,37.0,Gelderland,2020-04-08
+Epe,2.0,35.0,Gelderland,2020-03-31
+Epe,2.0,37.0,Gelderland,2020-04-01
+Epe,2.0,39.0,Gelderland,2020-04-02
+Epe,2.0,41.0,Gelderland,2020-04-03
+Epe,2.0,43.0,Gelderland,2020-04-04
+Epe,3.0,46.0,Gelderland,2020-04-05
+Epe,2.0,48.0,Gelderland,2020-04-06
+Epe,1.0,49.0,Gelderland,2020-04-07
+Epe,2.0,51.0,Gelderland,2020-04-08
+Ermelo,2.0,25.0,Gelderland,2020-03-31
+Ermelo,3.0,28.0,Gelderland,2020-04-01
+Ermelo,3.0,31.0,Gelderland,2020-04-02
+Ermelo,3.0,34.0,Gelderland,2020-04-03
+Ermelo,2.0,36.0,Gelderland,2020-04-04
+Ermelo,3.0,39.0,Gelderland,2020-04-05
+Ermelo,2.0,41.0,Gelderland,2020-04-06
+Ermelo,2.0,43.0,Gelderland,2020-04-07
+Ermelo,2.0,45.0,Gelderland,2020-04-08
+Harderwijk,2.0,27.0,Gelderland,2020-03-31
+Harderwijk,2.0,29.0,Gelderland,2020-04-01
+Harderwijk,2.0,31.0,Gelderland,2020-04-02
+Harderwijk,2.0,33.0,Gelderland,2020-04-03
+Harderwijk,2.0,35.0,Gelderland,2020-04-04
+Harderwijk,3.0,38.0,Gelderland,2020-04-05
+Harderwijk,2.0,40.0,Gelderland,2020-04-06
+Harderwijk,2.0,42.0,Gelderland,2020-04-07
+Harderwijk,2.0,44.0,Gelderland,2020-04-08
+Hattem,1.0,13.0,Gelderland,2020-03-31
+Hattem,1.0,14.0,Gelderland,2020-04-01
+Hattem,1.0,15.0,Gelderland,2020-04-02
+Hattem,1.0,16.0,Gelderland,2020-04-03
+Hattem,1.0,17.0,Gelderland,2020-04-04
+Hattem,1.0,18.0,Gelderland,2020-04-05
+Hattem,1.0,19.0,Gelderland,2020-04-06
+Hattem,1.0,20.0,Gelderland,2020-04-07
+Hattem,1.0,21.0,Gelderland,2020-04-08
+Heerde,2.0,42.0,Gelderland,2020-03-31
+Heerde,2.0,44.0,Gelderland,2020-04-01
+Heerde,2.0,46.0,Gelderland,2020-04-02
+Heerde,2.0,48.0,Gelderland,2020-04-03
+Heerde,2.0,50.0,Gelderland,2020-04-04
+Heerde,3.0,53.0,Gelderland,2020-04-05
+Heerde,2.0,55.0,Gelderland,2020-04-06
+Heerde,2.0,57.0,Gelderland,2020-04-07
+Heerde,2.0,59.0,Gelderland,2020-04-08
+Heumen,1.0,21.0,Gelderland,2020-03-31
+Heumen,1.0,22.0,Gelderland,2020-04-01
+Heumen,1.0,23.0,Gelderland,2020-04-02
+Heumen,1.0,24.0,Gelderland,2020-04-03
+Heumen,1.0,25.0,Gelderland,2020-04-04
+Heumen,2.0,27.0,Gelderland,2020-04-05
+Heumen,1.0,28.0,Gelderland,2020-04-06
+Heumen,1.0,29.0,Gelderland,2020-04-07
+Heumen,1.0,30.0,Gelderland,2020-04-08
+Lochem,0.0,14.0,Gelderland,2020-03-31
+Lochem,0.0,14.0,Gelderland,2020-04-01
+Lochem,0.0,14.0,Gelderland,2020-04-02
+Lochem,0.0,14.0,Gelderland,2020-04-03
+Lochem,0.0,14.0,Gelderland,2020-04-04
+Lochem,0.0,14.0,Gelderland,2020-04-05
+Lochem,0.0,14.0,Gelderland,2020-04-06
+Lochem,0.0,14.0,Gelderland,2020-04-07
+Lochem,0.0,14.0,Gelderland,2020-04-08
+Maasdriel,0.0,12.0,Gelderland,2020-03-31
+Maasdriel,0.0,12.0,Gelderland,2020-04-01
+Maasdriel,0.0,12.0,Gelderland,2020-04-02
+Maasdriel,0.0,12.0,Gelderland,2020-04-03
+Maasdriel,0.0,12.0,Gelderland,2020-04-04
+Maasdriel,0.0,12.0,Gelderland,2020-04-05
+Maasdriel,0.0,12.0,Gelderland,2020-04-06
+Maasdriel,0.0,12.0,Gelderland,2020-04-07
+Maasdriel,0.0,12.0,Gelderland,2020-04-08
+Nijkerk,1.0,19.0,Gelderland,2020-03-31
+Nijkerk,2.0,21.0,Gelderland,2020-04-01
+Nijkerk,2.0,23.0,Gelderland,2020-04-02
+Nijkerk,2.0,25.0,Gelderland,2020-04-03
+Nijkerk,1.0,26.0,Gelderland,2020-04-04
+Nijkerk,2.0,28.0,Gelderland,2020-04-05
+Nijkerk,2.0,30.0,Gelderland,2020-04-06
+Nijkerk,1.0,31.0,Gelderland,2020-04-07
+Nijkerk,2.0,33.0,Gelderland,2020-04-08
+Nijmegen,11.0,208.0,Gelderland,2020-03-31
+Nijmegen,14.0,222.0,Gelderland,2020-04-01
+Nijmegen,15.0,237.0,Gelderland,2020-04-02
+Nijmegen,14.0,251.0,Gelderland,2020-04-03
+Nijmegen,12.0,263.0,Gelderland,2020-04-04
+Nijmegen,16.0,279.0,Gelderland,2020-04-05
+Nijmegen,13.0,292.0,Gelderland,2020-04-06
+Nijmegen,10.0,302.0,Gelderland,2020-04-07
+Nijmegen,13.0,315.0,Gelderland,2020-04-08
+Oldebroek,2.0,32.0,Gelderland,2020-03-31
+Oldebroek,3.0,35.0,Gelderland,2020-04-01
+Oldebroek,3.0,38.0,Gelderland,2020-04-02
+Oldebroek,3.0,41.0,Gelderland,2020-04-03
+Oldebroek,2.0,43.0,Gelderland,2020-04-04
+Oldebroek,4.0,47.0,Gelderland,2020-04-05
+Oldebroek,3.0,50.0,Gelderland,2020-04-06
+Oldebroek,2.0,52.0,Gelderland,2020-04-07
+Oldebroek,3.0,55.0,Gelderland,2020-04-08
+Putten,0.0,6.0,Gelderland,2020-03-31
+Putten,0.0,6.0,Gelderland,2020-04-01
+Putten,0.0,6.0,Gelderland,2020-04-02
+Putten,0.0,6.0,Gelderland,2020-04-03
+Putten,0.0,6.0,Gelderland,2020-04-04
+Putten,1.0,7.0,Gelderland,2020-04-05
+Putten,0.0,7.0,Gelderland,2020-04-06
+Putten,0.0,7.0,Gelderland,2020-04-07
+Putten,0.0,7.0,Gelderland,2020-04-08
+Renkum,1.0,22.0,Gelderland,2020-03-31
+Renkum,1.0,23.0,Gelderland,2020-04-01
+Renkum,1.0,24.0,Gelderland,2020-04-02
+Renkum,1.0,25.0,Gelderland,2020-04-03
+Renkum,1.0,26.0,Gelderland,2020-04-04
+Renkum,1.0,27.0,Gelderland,2020-04-05
+Renkum,1.0,28.0,Gelderland,2020-04-06
+Renkum,0.0,28.0,Gelderland,2020-04-07
+Renkum,1.0,29.0,Gelderland,2020-04-08
+Rheden,1.0,36.0,Gelderland,2020-03-31
+Rheden,1.0,37.0,Gelderland,2020-04-01
+Rheden,1.0,38.0,Gelderland,2020-04-02
+Rheden,1.0,39.0,Gelderland,2020-04-03
+Rheden,1.0,40.0,Gelderland,2020-04-04
+Rheden,1.0,41.0,Gelderland,2020-04-05
+Rheden,1.0,42.0,Gelderland,2020-04-06
+Rheden,1.0,43.0,Gelderland,2020-04-07
+Rheden,1.0,44.0,Gelderland,2020-04-08
+Rozendaal,0.0,2.0,Gelderland,2020-03-31
+Rozendaal,0.0,2.0,Gelderland,2020-04-01
+Rozendaal,0.0,2.0,Gelderland,2020-04-02
+Rozendaal,0.0,2.0,Gelderland,2020-04-03
+Rozendaal,0.0,2.0,Gelderland,2020-04-04
+Rozendaal,0.0,2.0,Gelderland,2020-04-05
+Rozendaal,0.0,2.0,Gelderland,2020-04-06
+Rozendaal,0.0,2.0,Gelderland,2020-04-07
+Rozendaal,0.0,2.0,Gelderland,2020-04-08
+Scherpenzeel,0.0,4.0,Gelderland,2020-03-31
+Scherpenzeel,1.0,5.0,Gelderland,2020-04-01
+Scherpenzeel,1.0,6.0,Gelderland,2020-04-02
+Scherpenzeel,1.0,7.0,Gelderland,2020-04-03
+Scherpenzeel,0.0,7.0,Gelderland,2020-04-04
+Scherpenzeel,1.0,8.0,Gelderland,2020-04-05
+Scherpenzeel,0.0,8.0,Gelderland,2020-04-06
+Scherpenzeel,0.0,8.0,Gelderland,2020-04-07
+Scherpenzeel,0.0,8.0,Gelderland,2020-04-08
+Tiel,1.0,34.0,Gelderland,2020-03-31
+Tiel,1.0,35.0,Gelderland,2020-04-01
+Tiel,1.0,36.0,Gelderland,2020-04-02
+Tiel,1.0,37.0,Gelderland,2020-04-03
+Tiel,1.0,38.0,Gelderland,2020-04-04
+Tiel,1.0,39.0,Gelderland,2020-04-05
+Tiel,1.0,40.0,Gelderland,2020-04-06
+Tiel,1.0,41.0,Gelderland,2020-04-07
+Tiel,1.0,42.0,Gelderland,2020-04-08
+Voorst,1.0,21.0,Gelderland,2020-03-31
+Voorst,1.0,22.0,Gelderland,2020-04-01
+Voorst,1.0,23.0,Gelderland,2020-04-02
+Voorst,1.0,24.0,Gelderland,2020-04-03
+Voorst,1.0,25.0,Gelderland,2020-04-04
+Voorst,1.0,26.0,Gelderland,2020-04-05
+Voorst,1.0,27.0,Gelderland,2020-04-06
+Voorst,1.0,28.0,Gelderland,2020-04-07
+Voorst,1.0,29.0,Gelderland,2020-04-08
+Wageningen,0.0,8.0,Gelderland,2020-03-31
+Wageningen,1.0,9.0,Gelderland,2020-04-01
+Wageningen,1.0,10.0,Gelderland,2020-04-02
+Wageningen,1.0,11.0,Gelderland,2020-04-03
+Wageningen,0.0,11.0,Gelderland,2020-04-04
+Wageningen,1.0,12.0,Gelderland,2020-04-05
+Wageningen,0.0,12.0,Gelderland,2020-04-06
+Wageningen,0.0,12.0,Gelderland,2020-04-07
+Wageningen,0.0,12.0,Gelderland,2020-04-08
+Westervoort,0.0,5.0,Gelderland,2020-03-31
+Westervoort,0.0,5.0,Gelderland,2020-04-01
+Westervoort,0.0,5.0,Gelderland,2020-04-02
+Westervoort,0.0,5.0,Gelderland,2020-04-03
+Westervoort,0.0,5.0,Gelderland,2020-04-04
+Westervoort,0.0,5.0,Gelderland,2020-04-05
+Westervoort,0.0,5.0,Gelderland,2020-04-06
+Westervoort,0.0,5.0,Gelderland,2020-04-07
+Westervoort,0.0,5.0,Gelderland,2020-04-08
+Winterswijk,0.0,4.0,Gelderland,2020-03-31
+Winterswijk,0.0,4.0,Gelderland,2020-04-01
+Winterswijk,0.0,4.0,Gelderland,2020-04-02
+Winterswijk,0.0,4.0,Gelderland,2020-04-03
+Winterswijk,0.0,4.0,Gelderland,2020-04-04
+Winterswijk,0.0,4.0,Gelderland,2020-04-05
+Winterswijk,0.0,4.0,Gelderland,2020-04-06
+Winterswijk,0.0,4.0,Gelderland,2020-04-07
+Winterswijk,0.0,4.0,Gelderland,2020-04-08
+Wijchen,2.0,45.0,Gelderland,2020-03-31
+Wijchen,2.0,47.0,Gelderland,2020-04-01
+Wijchen,2.0,49.0,Gelderland,2020-04-02
+Wijchen,2.0,51.0,Gelderland,2020-04-03
+Wijchen,2.0,53.0,Gelderland,2020-04-04
+Wijchen,2.0,55.0,Gelderland,2020-04-05
+Wijchen,2.0,57.0,Gelderland,2020-04-06
+Wijchen,1.0,58.0,Gelderland,2020-04-07
+Wijchen,2.0,60.0,Gelderland,2020-04-08
+Zaltbommel,1.0,17.0,Gelderland,2020-03-31
+Zaltbommel,1.0,18.0,Gelderland,2020-04-01
+Zaltbommel,1.0,19.0,Gelderland,2020-04-02
+Zaltbommel,1.0,20.0,Gelderland,2020-04-03
+Zaltbommel,1.0,21.0,Gelderland,2020-04-04
+Zaltbommel,1.0,22.0,Gelderland,2020-04-05
+Zaltbommel,1.0,23.0,Gelderland,2020-04-06
+Zaltbommel,1.0,24.0,Gelderland,2020-04-07
+Zaltbommel,1.0,25.0,Gelderland,2020-04-08
+Zevenaar,1.0,22.0,Gelderland,2020-03-31
+Zevenaar,2.0,24.0,Gelderland,2020-04-01
+Zevenaar,2.0,26.0,Gelderland,2020-04-02
+Zevenaar,2.0,28.0,Gelderland,2020-04-03
+Zevenaar,2.0,30.0,Gelderland,2020-04-04
+Zevenaar,2.0,32.0,Gelderland,2020-04-05
+Zevenaar,2.0,34.0,Gelderland,2020-04-06
+Zevenaar,1.0,35.0,Gelderland,2020-04-07
+Zevenaar,2.0,37.0,Gelderland,2020-04-08
+Zutphen,1.0,17.0,Gelderland,2020-03-31
+Zutphen,1.0,18.0,Gelderland,2020-04-01
+Zutphen,2.0,20.0,Gelderland,2020-04-02
+Zutphen,1.0,21.0,Gelderland,2020-04-03
+Zutphen,1.0,22.0,Gelderland,2020-04-04
+Zutphen,2.0,24.0,Gelderland,2020-04-05
+Zutphen,1.0,25.0,Gelderland,2020-04-06
+Zutphen,1.0,26.0,Gelderland,2020-04-07
+Zutphen,1.0,27.0,Gelderland,2020-04-08
+Nunspeet,3.0,55.0,Gelderland,2020-03-31
+Nunspeet,3.0,58.0,Gelderland,2020-04-01
+Nunspeet,3.0,61.0,Gelderland,2020-04-02
+Nunspeet,3.0,64.0,Gelderland,2020-04-03
+Nunspeet,3.0,67.0,Gelderland,2020-04-04
+Nunspeet,4.0,71.0,Gelderland,2020-04-05
+Nunspeet,3.0,74.0,Gelderland,2020-04-06
+Nunspeet,2.0,76.0,Gelderland,2020-04-07
+Nunspeet,3.0,79.0,Gelderland,2020-04-08
+Dronten,2.0,15.0,Flevoland,2020-03-31
+Dronten,2.0,17.0,Flevoland,2020-04-01
+Dronten,2.0,19.0,Flevoland,2020-04-02
+Dronten,2.0,21.0,Flevoland,2020-04-03
+Dronten,2.0,23.0,Flevoland,2020-04-04
+Dronten,3.0,26.0,Flevoland,2020-04-05
+Dronten,2.0,28.0,Flevoland,2020-04-06
+Dronten,2.0,30.0,Flevoland,2020-04-07
+Dronten,2.0,32.0,Flevoland,2020-04-08
+Amersfoort,2.0,71.0,Utrecht,2020-03-31
+Amersfoort,3.0,74.0,Utrecht,2020-04-01
+Amersfoort,3.0,77.0,Utrecht,2020-04-02
+Amersfoort,3.0,80.0,Utrecht,2020-04-03
+Amersfoort,3.0,83.0,Utrecht,2020-04-04
+Amersfoort,4.0,87.0,Utrecht,2020-04-05
+Amersfoort,3.0,90.0,Utrecht,2020-04-06
+Amersfoort,2.0,92.0,Utrecht,2020-04-07
+Amersfoort,3.0,95.0,Utrecht,2020-04-08
+Baarn,1.0,8.0,Utrecht,2020-03-31
+Baarn,1.0,9.0,Utrecht,2020-04-01
+Baarn,1.0,10.0,Utrecht,2020-04-02
+Baarn,1.0,11.0,Utrecht,2020-04-03
+Baarn,1.0,12.0,Utrecht,2020-04-04
+Baarn,1.0,13.0,Utrecht,2020-04-05
+Baarn,1.0,14.0,Utrecht,2020-04-06
+Baarn,1.0,15.0,Utrecht,2020-04-07
+Baarn,1.0,16.0,Utrecht,2020-04-08
+De Bilt,2.0,44.0,Utrecht,2020-03-31
+De Bilt,3.0,47.0,Utrecht,2020-04-01
+De Bilt,3.0,50.0,Utrecht,2020-04-02
+De Bilt,3.0,53.0,Utrecht,2020-04-03
+De Bilt,2.0,55.0,Utrecht,2020-04-04
+De Bilt,3.0,58.0,Utrecht,2020-04-05
+De Bilt,2.0,60.0,Utrecht,2020-04-06
+De Bilt,2.0,62.0,Utrecht,2020-04-07
+De Bilt,2.0,64.0,Utrecht,2020-04-08
+Bunnik,0.0,10.0,Utrecht,2020-03-31
+Bunnik,0.0,10.0,Utrecht,2020-04-01
+Bunnik,0.0,10.0,Utrecht,2020-04-02
+Bunnik,0.0,10.0,Utrecht,2020-04-03
+Bunnik,0.0,10.0,Utrecht,2020-04-04
+Bunnik,1.0,11.0,Utrecht,2020-04-05
+Bunnik,0.0,11.0,Utrecht,2020-04-06
+Bunnik,0.0,11.0,Utrecht,2020-04-07
+Bunnik,0.0,11.0,Utrecht,2020-04-08
+Bunschoten,1.0,7.0,Utrecht,2020-03-31
+Bunschoten,1.0,8.0,Utrecht,2020-04-01
+Bunschoten,1.0,9.0,Utrecht,2020-04-02
+Bunschoten,1.0,10.0,Utrecht,2020-04-03
+Bunschoten,1.0,11.0,Utrecht,2020-04-04
+Bunschoten,1.0,12.0,Utrecht,2020-04-05
+Bunschoten,1.0,13.0,Utrecht,2020-04-06
+Bunschoten,1.0,14.0,Utrecht,2020-04-07
+Bunschoten,1.0,15.0,Utrecht,2020-04-08
+Eemnes,0.0,2.0,Utrecht,2020-03-31
+Eemnes,0.0,2.0,Utrecht,2020-04-01
+Eemnes,0.0,2.0,Utrecht,2020-04-02
+Eemnes,0.0,2.0,Utrecht,2020-04-03
+Eemnes,0.0,2.0,Utrecht,2020-04-04
+Eemnes,0.0,2.0,Utrecht,2020-04-05
+Eemnes,0.0,2.0,Utrecht,2020-04-06
+Eemnes,0.0,2.0,Utrecht,2020-04-07
+Eemnes,0.0,2.0,Utrecht,2020-04-08
+Houten,1.0,59.0,Utrecht,2020-03-31
+Houten,1.0,60.0,Utrecht,2020-04-01
+Houten,1.0,61.0,Utrecht,2020-04-02
+Houten,1.0,62.0,Utrecht,2020-04-03
+Houten,1.0,63.0,Utrecht,2020-04-04
+Houten,1.0,64.0,Utrecht,2020-04-05
+Houten,1.0,65.0,Utrecht,2020-04-06
+Houten,1.0,66.0,Utrecht,2020-04-07
+Houten,1.0,67.0,Utrecht,2020-04-08
+Leusden,0.0,19.0,Utrecht,2020-03-31
+Leusden,1.0,20.0,Utrecht,2020-04-01
+Leusden,1.0,21.0,Utrecht,2020-04-02
+Leusden,1.0,22.0,Utrecht,2020-04-03
+Leusden,1.0,23.0,Utrecht,2020-04-04
+Leusden,1.0,24.0,Utrecht,2020-04-05
+Leusden,1.0,25.0,Utrecht,2020-04-06
+Leusden,0.0,25.0,Utrecht,2020-04-07
+Leusden,1.0,26.0,Utrecht,2020-04-08
+Lopik,0.0,17.0,Utrecht,2020-03-31
+Lopik,0.0,17.0,Utrecht,2020-04-01
+Lopik,0.0,17.0,Utrecht,2020-04-02
+Lopik,0.0,17.0,Utrecht,2020-04-03
+Lopik,0.0,17.0,Utrecht,2020-04-04
+Lopik,1.0,18.0,Utrecht,2020-04-05
+Lopik,0.0,18.0,Utrecht,2020-04-06
+Lopik,0.0,18.0,Utrecht,2020-04-07
+Lopik,0.0,18.0,Utrecht,2020-04-08
+Montfoort,1.0,16.0,Utrecht,2020-03-31
+Montfoort,1.0,17.0,Utrecht,2020-04-01
+Montfoort,1.0,18.0,Utrecht,2020-04-02
+Montfoort,1.0,19.0,Utrecht,2020-04-03
+Montfoort,1.0,20.0,Utrecht,2020-04-04
+Montfoort,1.0,21.0,Utrecht,2020-04-05
+Montfoort,1.0,22.0,Utrecht,2020-04-06
+Montfoort,1.0,23.0,Utrecht,2020-04-07
+Montfoort,1.0,24.0,Utrecht,2020-04-08
+Renswoude,0.0,1.0,Utrecht,2020-03-31
+Renswoude,0.0,1.0,Utrecht,2020-04-01
+Renswoude,0.0,1.0,Utrecht,2020-04-02
+Renswoude,0.0,1.0,Utrecht,2020-04-03
+Renswoude,0.0,1.0,Utrecht,2020-04-04
+Renswoude,0.0,1.0,Utrecht,2020-04-05
+Renswoude,0.0,1.0,Utrecht,2020-04-06
+Renswoude,0.0,1.0,Utrecht,2020-04-07
+Renswoude,0.0,1.0,Utrecht,2020-04-08
+Rhenen,0.0,6.0,Utrecht,2020-03-31
+Rhenen,0.0,6.0,Utrecht,2020-04-01
+Rhenen,0.0,6.0,Utrecht,2020-04-02
+Rhenen,0.0,6.0,Utrecht,2020-04-03
+Rhenen,0.0,6.0,Utrecht,2020-04-04
+Rhenen,0.0,6.0,Utrecht,2020-04-05
+Rhenen,0.0,6.0,Utrecht,2020-04-06
+Rhenen,0.0,6.0,Utrecht,2020-04-07
+Rhenen,0.0,6.0,Utrecht,2020-04-08
+Soest,2.0,32.0,Utrecht,2020-03-31
+Soest,2.0,34.0,Utrecht,2020-04-01
+Soest,2.0,36.0,Utrecht,2020-04-02
+Soest,2.0,38.0,Utrecht,2020-04-03
+Soest,2.0,40.0,Utrecht,2020-04-04
+Soest,3.0,43.0,Utrecht,2020-04-05
+Soest,2.0,45.0,Utrecht,2020-04-06
+Soest,2.0,47.0,Utrecht,2020-04-07
+Soest,2.0,49.0,Utrecht,2020-04-08
+Utrecht,15.0,322.0,Utrecht,2020-03-31
+Utrecht,18.0,340.0,Utrecht,2020-04-01
+Utrecht,20.0,360.0,Utrecht,2020-04-02
+Utrecht,19.0,379.0,Utrecht,2020-04-03
+Utrecht,16.0,395.0,Utrecht,2020-04-04
+Utrecht,22.0,417.0,Utrecht,2020-04-05
+Utrecht,17.0,434.0,Utrecht,2020-04-06
+Utrecht,14.0,448.0,Utrecht,2020-04-07
+Utrecht,17.0,465.0,Utrecht,2020-04-08
+Veenendaal,3.0,23.0,Utrecht,2020-03-31
+Veenendaal,3.0,26.0,Utrecht,2020-04-01
+Veenendaal,4.0,30.0,Utrecht,2020-04-02
+Veenendaal,3.0,33.0,Utrecht,2020-04-03
+Veenendaal,3.0,36.0,Utrecht,2020-04-04
+Veenendaal,4.0,40.0,Utrecht,2020-04-05
+Veenendaal,3.0,43.0,Utrecht,2020-04-06
+Veenendaal,3.0,46.0,Utrecht,2020-04-07
+Veenendaal,3.0,49.0,Utrecht,2020-04-08
+Woudenberg,0.0,8.0,Utrecht,2020-03-31
+Woudenberg,1.0,9.0,Utrecht,2020-04-01
+Woudenberg,1.0,10.0,Utrecht,2020-04-02
+Woudenberg,1.0,11.0,Utrecht,2020-04-03
+Woudenberg,1.0,12.0,Utrecht,2020-04-04
+Woudenberg,1.0,13.0,Utrecht,2020-04-05
+Woudenberg,1.0,14.0,Utrecht,2020-04-06
+Woudenberg,0.0,14.0,Utrecht,2020-04-07
+Woudenberg,1.0,15.0,Utrecht,2020-04-08
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-03-31
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-01
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-02
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-03
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-04
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-05
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-06
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-07
+Wijk bij Duurstede,0.0,11.0,Utrecht,2020-04-08
+IJsselstein,1.0,39.0,Utrecht,2020-03-31
+IJsselstein,1.0,40.0,Utrecht,2020-04-01
+IJsselstein,1.0,41.0,Utrecht,2020-04-02
+IJsselstein,1.0,42.0,Utrecht,2020-04-03
+IJsselstein,1.0,43.0,Utrecht,2020-04-04
+IJsselstein,2.0,45.0,Utrecht,2020-04-05
+IJsselstein,1.0,46.0,Utrecht,2020-04-06
+IJsselstein,1.0,47.0,Utrecht,2020-04-07
+IJsselstein,1.0,48.0,Utrecht,2020-04-08
+Zeist,2.0,49.0,Utrecht,2020-03-31
+Zeist,3.0,52.0,Utrecht,2020-04-01
+Zeist,3.0,55.0,Utrecht,2020-04-02
+Zeist,3.0,58.0,Utrecht,2020-04-03
+Zeist,2.0,60.0,Utrecht,2020-04-04
+Zeist,4.0,64.0,Utrecht,2020-04-05
+Zeist,3.0,67.0,Utrecht,2020-04-06
+Zeist,2.0,69.0,Utrecht,2020-04-07
+Zeist,3.0,72.0,Utrecht,2020-04-08
+Nieuwegein,2.0,35.0,Utrecht,2020-03-31
+Nieuwegein,2.0,37.0,Utrecht,2020-04-01
+Nieuwegein,3.0,40.0,Utrecht,2020-04-02
+Nieuwegein,2.0,42.0,Utrecht,2020-04-03
+Nieuwegein,2.0,44.0,Utrecht,2020-04-04
+Nieuwegein,3.0,47.0,Utrecht,2020-04-05
+Nieuwegein,2.0,49.0,Utrecht,2020-04-06
+Nieuwegein,2.0,51.0,Utrecht,2020-04-07
+Nieuwegein,2.0,53.0,Utrecht,2020-04-08
+Aalsmeer,0.0,18.0,Noord-Holland,2020-03-31
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-01
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-02
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-03
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-04
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-05
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-06
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-07
+Aalsmeer,0.0,18.0,Noord-Holland,2020-04-08
+Alkmaar,6.0,55.0,Noord-Holland,2020-03-31
+Alkmaar,7.0,62.0,Noord-Holland,2020-04-01
+Alkmaar,8.0,70.0,Noord-Holland,2020-04-02
+Alkmaar,7.0,77.0,Noord-Holland,2020-04-03
+Alkmaar,6.0,83.0,Noord-Holland,2020-04-04
+Alkmaar,9.0,92.0,Noord-Holland,2020-04-05
+Alkmaar,7.0,99.0,Noord-Holland,2020-04-06
+Alkmaar,5.0,104.0,Noord-Holland,2020-04-07
+Alkmaar,7.0,111.0,Noord-Holland,2020-04-08
+Amstelveen,7.0,88.0,Noord-Holland,2020-03-31
+Amstelveen,8.0,96.0,Noord-Holland,2020-04-01
+Amstelveen,9.0,105.0,Noord-Holland,2020-04-02
+Amstelveen,8.0,113.0,Noord-Holland,2020-04-03
+Amstelveen,7.0,120.0,Noord-Holland,2020-04-04
+Amstelveen,10.0,130.0,Noord-Holland,2020-04-05
+Amstelveen,8.0,138.0,Noord-Holland,2020-04-06
+Amstelveen,6.0,144.0,Noord-Holland,2020-04-07
+Amstelveen,8.0,152.0,Noord-Holland,2020-04-08
+Amsterdam,35.0,606.0,Noord-Holland,2020-03-31
+Amsterdam,42.0,648.0,Noord-Holland,2020-04-01
+Amsterdam,45.0,693.0,Noord-Holland,2020-04-02
+Amsterdam,42.0,735.0,Noord-Holland,2020-04-03
+Amsterdam,37.0,772.0,Noord-Holland,2020-04-04
+Amsterdam,51.0,823.0,Noord-Holland,2020-04-05
+Amsterdam,39.0,862.0,Noord-Holland,2020-04-06
+Amsterdam,32.0,894.0,Noord-Holland,2020-04-07
+Amsterdam,40.0,934.0,Noord-Holland,2020-04-08
+Beemster,0.0,6.0,Noord-Holland,2020-03-31
+Beemster,0.0,6.0,Noord-Holland,2020-04-01
+Beemster,0.0,6.0,Noord-Holland,2020-04-02
+Beemster,0.0,6.0,Noord-Holland,2020-04-03
+Beemster,0.0,6.0,Noord-Holland,2020-04-04
+Beemster,0.0,6.0,Noord-Holland,2020-04-05
+Beemster,0.0,6.0,Noord-Holland,2020-04-06
+Beemster,0.0,6.0,Noord-Holland,2020-04-07
+Beemster,0.0,6.0,Noord-Holland,2020-04-08
+Bergen (NH.),1.0,24.0,Noord-Holland,2020-03-31
+Bergen (NH.),1.0,25.0,Noord-Holland,2020-04-01
+Bergen (NH.),1.0,26.0,Noord-Holland,2020-04-02
+Bergen (NH.),1.0,27.0,Noord-Holland,2020-04-03
+Bergen (NH.),1.0,28.0,Noord-Holland,2020-04-04
+Bergen (NH.),1.0,29.0,Noord-Holland,2020-04-05
+Bergen (NH.),1.0,30.0,Noord-Holland,2020-04-06
+Bergen (NH.),1.0,31.0,Noord-Holland,2020-04-07
+Bergen (NH.),1.0,32.0,Noord-Holland,2020-04-08
+Beverwijk,2.0,24.0,Noord-Holland,2020-03-31
+Beverwijk,2.0,26.0,Noord-Holland,2020-04-01
+Beverwijk,3.0,29.0,Noord-Holland,2020-04-02
+Beverwijk,2.0,31.0,Noord-Holland,2020-04-03
+Beverwijk,2.0,33.0,Noord-Holland,2020-04-04
+Beverwijk,3.0,36.0,Noord-Holland,2020-04-05
+Beverwijk,2.0,38.0,Noord-Holland,2020-04-06
+Beverwijk,2.0,40.0,Noord-Holland,2020-04-07
+Beverwijk,2.0,42.0,Noord-Holland,2020-04-08
+Blaricum,0.0,6.0,Noord-Holland,2020-03-31
+Blaricum,0.0,6.0,Noord-Holland,2020-04-01
+Blaricum,0.0,6.0,Noord-Holland,2020-04-02
+Blaricum,0.0,6.0,Noord-Holland,2020-04-03
+Blaricum,0.0,6.0,Noord-Holland,2020-04-04
+Blaricum,0.0,6.0,Noord-Holland,2020-04-05
+Blaricum,0.0,6.0,Noord-Holland,2020-04-06
+Blaricum,0.0,6.0,Noord-Holland,2020-04-07
+Blaricum,0.0,6.0,Noord-Holland,2020-04-08
+Bloemendaal,1.0,20.0,Noord-Holland,2020-03-31
+Bloemendaal,1.0,21.0,Noord-Holland,2020-04-01
+Bloemendaal,1.0,22.0,Noord-Holland,2020-04-02
+Bloemendaal,1.0,23.0,Noord-Holland,2020-04-03
+Bloemendaal,1.0,24.0,Noord-Holland,2020-04-04
+Bloemendaal,1.0,25.0,Noord-Holland,2020-04-05
+Bloemendaal,1.0,26.0,Noord-Holland,2020-04-06
+Bloemendaal,1.0,27.0,Noord-Holland,2020-04-07
+Bloemendaal,1.0,28.0,Noord-Holland,2020-04-08
+Castricum,2.0,26.0,Noord-Holland,2020-03-31
+Castricum,2.0,28.0,Noord-Holland,2020-04-01
+Castricum,2.0,30.0,Noord-Holland,2020-04-02
+Castricum,2.0,32.0,Noord-Holland,2020-04-03
+Castricum,2.0,34.0,Noord-Holland,2020-04-04
+Castricum,3.0,37.0,Noord-Holland,2020-04-05
+Castricum,2.0,39.0,Noord-Holland,2020-04-06
+Castricum,2.0,41.0,Noord-Holland,2020-04-07
+Castricum,2.0,43.0,Noord-Holland,2020-04-08
+Diemen,0.0,9.0,Noord-Holland,2020-03-31
+Diemen,0.0,9.0,Noord-Holland,2020-04-01
+Diemen,0.0,9.0,Noord-Holland,2020-04-02
+Diemen,0.0,9.0,Noord-Holland,2020-04-03
+Diemen,0.0,9.0,Noord-Holland,2020-04-04
+Diemen,1.0,10.0,Noord-Holland,2020-04-05
+Diemen,0.0,10.0,Noord-Holland,2020-04-06
+Diemen,0.0,10.0,Noord-Holland,2020-04-07
+Diemen,0.0,10.0,Noord-Holland,2020-04-08
+Edam-Volendam,1.0,17.0,Noord-Holland,2020-03-31
+Edam-Volendam,1.0,18.0,Noord-Holland,2020-04-01
+Edam-Volendam,1.0,19.0,Noord-Holland,2020-04-02
+Edam-Volendam,1.0,20.0,Noord-Holland,2020-04-03
+Edam-Volendam,1.0,21.0,Noord-Holland,2020-04-04
+Edam-Volendam,2.0,23.0,Noord-Holland,2020-04-05
+Edam-Volendam,1.0,24.0,Noord-Holland,2020-04-06
+Edam-Volendam,1.0,25.0,Noord-Holland,2020-04-07
+Edam-Volendam,1.0,26.0,Noord-Holland,2020-04-08
+Enkhuizen,0.0,18.0,Noord-Holland,2020-03-31
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-01
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-02
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-03
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-04
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-05
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-06
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-07
+Enkhuizen,0.0,18.0,Noord-Holland,2020-04-08
+Haarlem,9.0,95.0,Noord-Holland,2020-03-31
+Haarlem,10.0,105.0,Noord-Holland,2020-04-01
+Haarlem,11.0,116.0,Noord-Holland,2020-04-02
+Haarlem,10.0,126.0,Noord-Holland,2020-04-03
+Haarlem,9.0,135.0,Noord-Holland,2020-04-04
+Haarlem,13.0,148.0,Noord-Holland,2020-04-05
+Haarlem,10.0,158.0,Noord-Holland,2020-04-06
+Haarlem,8.0,166.0,Noord-Holland,2020-04-07
+Haarlem,10.0,176.0,Noord-Holland,2020-04-08
+Haarlemmermeer,6.0,67.0,Noord-Holland,2020-03-31
+Haarlemmermeer,8.0,75.0,Noord-Holland,2020-04-01
+Haarlemmermeer,8.0,83.0,Noord-Holland,2020-04-02
+Haarlemmermeer,8.0,91.0,Noord-Holland,2020-04-03
+Haarlemmermeer,7.0,98.0,Noord-Holland,2020-04-04
+Haarlemmermeer,9.0,107.0,Noord-Holland,2020-04-05
+Haarlemmermeer,7.0,114.0,Noord-Holland,2020-04-06
+Haarlemmermeer,6.0,120.0,Noord-Holland,2020-04-07
+Haarlemmermeer,7.0,127.0,Noord-Holland,2020-04-08
+Heemskerk,3.0,30.0,Noord-Holland,2020-03-31
+Heemskerk,3.0,33.0,Noord-Holland,2020-04-01
+Heemskerk,4.0,37.0,Noord-Holland,2020-04-02
+Heemskerk,3.0,40.0,Noord-Holland,2020-04-03
+Heemskerk,3.0,43.0,Noord-Holland,2020-04-04
+Heemskerk,4.0,47.0,Noord-Holland,2020-04-05
+Heemskerk,3.0,50.0,Noord-Holland,2020-04-06
+Heemskerk,2.0,52.0,Noord-Holland,2020-04-07
+Heemskerk,3.0,55.0,Noord-Holland,2020-04-08
+Heemstede,4.0,36.0,Noord-Holland,2020-03-31
+Heemstede,4.0,40.0,Noord-Holland,2020-04-01
+Heemstede,5.0,45.0,Noord-Holland,2020-04-02
+Heemstede,4.0,49.0,Noord-Holland,2020-04-03
+Heemstede,4.0,53.0,Noord-Holland,2020-04-04
+Heemstede,5.0,58.0,Noord-Holland,2020-04-05
+Heemstede,4.0,62.0,Noord-Holland,2020-04-06
+Heemstede,3.0,65.0,Noord-Holland,2020-04-07
+Heemstede,4.0,69.0,Noord-Holland,2020-04-08
+Heerhugowaard,2.0,33.0,Noord-Holland,2020-03-31
+Heerhugowaard,2.0,35.0,Noord-Holland,2020-04-01
+Heerhugowaard,2.0,37.0,Noord-Holland,2020-04-02
+Heerhugowaard,2.0,39.0,Noord-Holland,2020-04-03
+Heerhugowaard,2.0,41.0,Noord-Holland,2020-04-04
+Heerhugowaard,3.0,44.0,Noord-Holland,2020-04-05
+Heerhugowaard,2.0,46.0,Noord-Holland,2020-04-06
+Heerhugowaard,1.0,47.0,Noord-Holland,2020-04-07
+Heerhugowaard,2.0,49.0,Noord-Holland,2020-04-08
+Heiloo,0.0,17.0,Noord-Holland,2020-03-31
+Heiloo,0.0,17.0,Noord-Holland,2020-04-01
+Heiloo,0.0,17.0,Noord-Holland,2020-04-02
+Heiloo,0.0,17.0,Noord-Holland,2020-04-03
+Heiloo,0.0,17.0,Noord-Holland,2020-04-04
+Heiloo,0.0,17.0,Noord-Holland,2020-04-05
+Heiloo,0.0,17.0,Noord-Holland,2020-04-06
+Heiloo,0.0,17.0,Noord-Holland,2020-04-07
+Heiloo,0.0,17.0,Noord-Holland,2020-04-08
+Den Helder,0.0,11.0,Noord-Holland,2020-03-31
+Den Helder,0.0,11.0,Noord-Holland,2020-04-01
+Den Helder,0.0,11.0,Noord-Holland,2020-04-02
+Den Helder,0.0,11.0,Noord-Holland,2020-04-03
+Den Helder,0.0,11.0,Noord-Holland,2020-04-04
+Den Helder,0.0,11.0,Noord-Holland,2020-04-05
+Den Helder,0.0,11.0,Noord-Holland,2020-04-06
+Den Helder,0.0,11.0,Noord-Holland,2020-04-07
+Den Helder,0.0,11.0,Noord-Holland,2020-04-08
+Hilversum,1.0,26.0,Noord-Holland,2020-03-31
+Hilversum,2.0,28.0,Noord-Holland,2020-04-01
+Hilversum,2.0,30.0,Noord-Holland,2020-04-02
+Hilversum,2.0,32.0,Noord-Holland,2020-04-03
+Hilversum,2.0,34.0,Noord-Holland,2020-04-04
+Hilversum,2.0,36.0,Noord-Holland,2020-04-05
+Hilversum,2.0,38.0,Noord-Holland,2020-04-06
+Hilversum,1.0,39.0,Noord-Holland,2020-04-07
+Hilversum,2.0,41.0,Noord-Holland,2020-04-08
+Hoorn,2.0,25.0,Noord-Holland,2020-03-31
+Hoorn,2.0,27.0,Noord-Holland,2020-04-01
+Hoorn,2.0,29.0,Noord-Holland,2020-04-02
+Hoorn,2.0,31.0,Noord-Holland,2020-04-03
+Hoorn,2.0,33.0,Noord-Holland,2020-04-04
+Hoorn,3.0,36.0,Noord-Holland,2020-04-05
+Hoorn,2.0,38.0,Noord-Holland,2020-04-06
+Hoorn,1.0,39.0,Noord-Holland,2020-04-07
+Hoorn,2.0,41.0,Noord-Holland,2020-04-08
+Huizen,1.0,14.0,Noord-Holland,2020-03-31
+Huizen,2.0,16.0,Noord-Holland,2020-04-01
+Huizen,2.0,18.0,Noord-Holland,2020-04-02
+Huizen,2.0,20.0,Noord-Holland,2020-04-03
+Huizen,1.0,21.0,Noord-Holland,2020-04-04
+Huizen,2.0,23.0,Noord-Holland,2020-04-05
+Huizen,2.0,25.0,Noord-Holland,2020-04-06
+Huizen,1.0,26.0,Noord-Holland,2020-04-07
+Huizen,2.0,28.0,Noord-Holland,2020-04-08
+Landsmeer,0.0,8.0,Noord-Holland,2020-03-31
+Landsmeer,0.0,8.0,Noord-Holland,2020-04-01
+Landsmeer,0.0,8.0,Noord-Holland,2020-04-02
+Landsmeer,0.0,8.0,Noord-Holland,2020-04-03
+Landsmeer,0.0,8.0,Noord-Holland,2020-04-04
+Landsmeer,1.0,9.0,Noord-Holland,2020-04-05
+Landsmeer,0.0,9.0,Noord-Holland,2020-04-06
+Landsmeer,0.0,9.0,Noord-Holland,2020-04-07
+Landsmeer,0.0,9.0,Noord-Holland,2020-04-08
+Langedijk,1.0,17.0,Noord-Holland,2020-03-31
+Langedijk,1.0,18.0,Noord-Holland,2020-04-01
+Langedijk,1.0,19.0,Noord-Holland,2020-04-02
+Langedijk,1.0,20.0,Noord-Holland,2020-04-03
+Langedijk,1.0,21.0,Noord-Holland,2020-04-04
+Langedijk,1.0,22.0,Noord-Holland,2020-04-05
+Langedijk,1.0,23.0,Noord-Holland,2020-04-06
+Langedijk,1.0,24.0,Noord-Holland,2020-04-07
+Langedijk,1.0,25.0,Noord-Holland,2020-04-08
+Laren,0.0,8.0,Noord-Holland,2020-03-31
+Laren,1.0,9.0,Noord-Holland,2020-04-01
+Laren,1.0,10.0,Noord-Holland,2020-04-02
+Laren,1.0,11.0,Noord-Holland,2020-04-03
+Laren,0.0,11.0,Noord-Holland,2020-04-04
+Laren,1.0,12.0,Noord-Holland,2020-04-05
+Laren,0.0,12.0,Noord-Holland,2020-04-06
+Laren,0.0,12.0,Noord-Holland,2020-04-07
+Laren,0.0,12.0,Noord-Holland,2020-04-08
+Medemblik,1.0,23.0,Noord-Holland,2020-03-31
+Medemblik,1.0,24.0,Noord-Holland,2020-04-01
+Medemblik,1.0,25.0,Noord-Holland,2020-04-02
+Medemblik,1.0,26.0,Noord-Holland,2020-04-03
+Medemblik,1.0,27.0,Noord-Holland,2020-04-04
+Medemblik,1.0,28.0,Noord-Holland,2020-04-05
+Medemblik,1.0,29.0,Noord-Holland,2020-04-06
+Medemblik,1.0,30.0,Noord-Holland,2020-04-07
+Medemblik,1.0,31.0,Noord-Holland,2020-04-08
+Oostzaan,0.0,8.0,Noord-Holland,2020-03-31
+Oostzaan,1.0,9.0,Noord-Holland,2020-04-01
+Oostzaan,1.0,10.0,Noord-Holland,2020-04-02
+Oostzaan,1.0,11.0,Noord-Holland,2020-04-03
+Oostzaan,0.0,11.0,Noord-Holland,2020-04-04
+Oostzaan,1.0,12.0,Noord-Holland,2020-04-05
+Oostzaan,0.0,12.0,Noord-Holland,2020-04-06
+Oostzaan,0.0,12.0,Noord-Holland,2020-04-07
+Oostzaan,0.0,12.0,Noord-Holland,2020-04-08
+Opmeer,0.0,3.0,Noord-Holland,2020-03-31
+Opmeer,0.0,3.0,Noord-Holland,2020-04-01
+Opmeer,0.0,3.0,Noord-Holland,2020-04-02
+Opmeer,0.0,3.0,Noord-Holland,2020-04-03
+Opmeer,0.0,3.0,Noord-Holland,2020-04-04
+Opmeer,0.0,3.0,Noord-Holland,2020-04-05
+Opmeer,0.0,3.0,Noord-Holland,2020-04-06
+Opmeer,0.0,3.0,Noord-Holland,2020-04-07
+Opmeer,0.0,3.0,Noord-Holland,2020-04-08
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-03-31
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-01
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-02
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-03
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-04
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-05
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-06
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-07
+Ouder-Amstel,0.0,10.0,Noord-Holland,2020-04-08
+Purmerend,4.0,67.0,Noord-Holland,2020-03-31
+Purmerend,5.0,72.0,Noord-Holland,2020-04-01
+Purmerend,6.0,78.0,Noord-Holland,2020-04-02
+Purmerend,5.0,83.0,Noord-Holland,2020-04-03
+Purmerend,5.0,88.0,Noord-Holland,2020-04-04
+Purmerend,7.0,95.0,Noord-Holland,2020-04-05
+Purmerend,5.0,100.0,Noord-Holland,2020-04-06
+Purmerend,4.0,104.0,Noord-Holland,2020-04-07
+Purmerend,5.0,109.0,Noord-Holland,2020-04-08
+Schagen,2.0,21.0,Noord-Holland,2020-03-31
+Schagen,2.0,23.0,Noord-Holland,2020-04-01
+Schagen,2.0,25.0,Noord-Holland,2020-04-02
+Schagen,2.0,27.0,Noord-Holland,2020-04-03
+Schagen,2.0,29.0,Noord-Holland,2020-04-04
+Schagen,3.0,32.0,Noord-Holland,2020-04-05
+Schagen,2.0,34.0,Noord-Holland,2020-04-06
+Schagen,2.0,36.0,Noord-Holland,2020-04-07
+Schagen,2.0,38.0,Noord-Holland,2020-04-08
+Texel,0.0,3.0,Noord-Holland,2020-03-31
+Texel,0.0,3.0,Noord-Holland,2020-04-01
+Texel,0.0,3.0,Noord-Holland,2020-04-02
+Texel,0.0,3.0,Noord-Holland,2020-04-03
+Texel,0.0,3.0,Noord-Holland,2020-04-04
+Texel,0.0,3.0,Noord-Holland,2020-04-05
+Texel,0.0,3.0,Noord-Holland,2020-04-06
+Texel,0.0,3.0,Noord-Holland,2020-04-07
+Texel,0.0,3.0,Noord-Holland,2020-04-08
+Uitgeest,0.0,9.0,Noord-Holland,2020-03-31
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-01
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-02
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-03
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-04
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-05
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-06
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-07
+Uitgeest,0.0,9.0,Noord-Holland,2020-04-08
+Uithoorn,0.0,17.0,Noord-Holland,2020-03-31
+Uithoorn,1.0,18.0,Noord-Holland,2020-04-01
+Uithoorn,1.0,19.0,Noord-Holland,2020-04-02
+Uithoorn,1.0,20.0,Noord-Holland,2020-04-03
+Uithoorn,0.0,20.0,Noord-Holland,2020-04-04
+Uithoorn,1.0,21.0,Noord-Holland,2020-04-05
+Uithoorn,0.0,21.0,Noord-Holland,2020-04-06
+Uithoorn,0.0,21.0,Noord-Holland,2020-04-07
+Uithoorn,0.0,21.0,Noord-Holland,2020-04-08
+Velsen,8.0,48.0,Noord-Holland,2020-03-31
+Velsen,10.0,58.0,Noord-Holland,2020-04-01
+Velsen,10.0,68.0,Noord-Holland,2020-04-02
+Velsen,10.0,78.0,Noord-Holland,2020-04-03
+Velsen,8.0,86.0,Noord-Holland,2020-04-04
+Velsen,12.0,98.0,Noord-Holland,2020-04-05
+Velsen,9.0,107.0,Noord-Holland,2020-04-06
+Velsen,7.0,114.0,Noord-Holland,2020-04-07
+Velsen,9.0,123.0,Noord-Holland,2020-04-08
+Weesp,1.0,11.0,Noord-Holland,2020-03-31
+Weesp,1.0,12.0,Noord-Holland,2020-04-01
+Weesp,1.0,13.0,Noord-Holland,2020-04-02
+Weesp,1.0,14.0,Noord-Holland,2020-04-03
+Weesp,1.0,15.0,Noord-Holland,2020-04-04
+Weesp,1.0,16.0,Noord-Holland,2020-04-05
+Weesp,1.0,17.0,Noord-Holland,2020-04-06
+Weesp,1.0,18.0,Noord-Holland,2020-04-07
+Weesp,1.0,19.0,Noord-Holland,2020-04-08
+Zandvoort,1.0,11.0,Noord-Holland,2020-03-31
+Zandvoort,1.0,12.0,Noord-Holland,2020-04-01
+Zandvoort,1.0,13.0,Noord-Holland,2020-04-02
+Zandvoort,1.0,14.0,Noord-Holland,2020-04-03
+Zandvoort,1.0,15.0,Noord-Holland,2020-04-04
+Zandvoort,1.0,16.0,Noord-Holland,2020-04-05
+Zandvoort,1.0,17.0,Noord-Holland,2020-04-06
+Zandvoort,1.0,18.0,Noord-Holland,2020-04-07
+Zandvoort,1.0,19.0,Noord-Holland,2020-04-08
+Zaanstad,9.0,84.0,Noord-Holland,2020-03-31
+Zaanstad,11.0,95.0,Noord-Holland,2020-04-01
+Zaanstad,11.0,106.0,Noord-Holland,2020-04-02
+Zaanstad,11.0,117.0,Noord-Holland,2020-04-03
+Zaanstad,9.0,126.0,Noord-Holland,2020-04-04
+Zaanstad,13.0,139.0,Noord-Holland,2020-04-05
+Zaanstad,10.0,149.0,Noord-Holland,2020-04-06
+Zaanstad,8.0,157.0,Noord-Holland,2020-04-07
+Zaanstad,10.0,167.0,Noord-Holland,2020-04-08
+Alblasserdam,0.0,7.0,Zuid-Holland,2020-03-31
+Alblasserdam,1.0,8.0,Zuid-Holland,2020-04-01
+Alblasserdam,1.0,9.0,Zuid-Holland,2020-04-02
+Alblasserdam,1.0,10.0,Zuid-Holland,2020-04-03
+Alblasserdam,0.0,10.0,Zuid-Holland,2020-04-04
+Alblasserdam,1.0,11.0,Zuid-Holland,2020-04-05
+Alblasserdam,0.0,11.0,Zuid-Holland,2020-04-06
+Alblasserdam,0.0,11.0,Zuid-Holland,2020-04-07
+Alblasserdam,0.0,11.0,Zuid-Holland,2020-04-08
+Alphen aan den Rijn,3.0,47.0,Zuid-Holland,2020-03-31
+Alphen aan den Rijn,3.0,50.0,Zuid-Holland,2020-04-01
+Alphen aan den Rijn,4.0,54.0,Zuid-Holland,2020-04-02
+Alphen aan den Rijn,3.0,57.0,Zuid-Holland,2020-04-03
+Alphen aan den Rijn,3.0,60.0,Zuid-Holland,2020-04-04
+Alphen aan den Rijn,4.0,64.0,Zuid-Holland,2020-04-05
+Alphen aan den Rijn,3.0,67.0,Zuid-Holland,2020-04-06
+Alphen aan den Rijn,3.0,70.0,Zuid-Holland,2020-04-07
+Alphen aan den Rijn,3.0,73.0,Zuid-Holland,2020-04-08
+Barendrecht,2.0,32.0,Zuid-Holland,2020-03-31
+Barendrecht,3.0,35.0,Zuid-Holland,2020-04-01
+Barendrecht,3.0,38.0,Zuid-Holland,2020-04-02
+Barendrecht,3.0,41.0,Zuid-Holland,2020-04-03
+Barendrecht,2.0,43.0,Zuid-Holland,2020-04-04
+Barendrecht,3.0,46.0,Zuid-Holland,2020-04-05
+Barendrecht,2.0,48.0,Zuid-Holland,2020-04-06
+Barendrecht,2.0,50.0,Zuid-Holland,2020-04-07
+Barendrecht,2.0,52.0,Zuid-Holland,2020-04-08
+Drechterland,1.0,8.0,Noord-Holland,2020-03-31
+Drechterland,2.0,10.0,Noord-Holland,2020-04-01
+Drechterland,2.0,12.0,Noord-Holland,2020-04-02
+Drechterland,2.0,14.0,Noord-Holland,2020-04-03
+Drechterland,1.0,15.0,Noord-Holland,2020-04-04
+Drechterland,2.0,17.0,Noord-Holland,2020-04-05
+Drechterland,2.0,19.0,Noord-Holland,2020-04-06
+Drechterland,1.0,20.0,Noord-Holland,2020-04-07
+Drechterland,2.0,22.0,Noord-Holland,2020-04-08
+Brielle,0.0,11.0,Zuid-Holland,2020-03-31
+Brielle,1.0,12.0,Zuid-Holland,2020-04-01
+Brielle,1.0,13.0,Zuid-Holland,2020-04-02
+Brielle,1.0,14.0,Zuid-Holland,2020-04-03
+Brielle,0.0,14.0,Zuid-Holland,2020-04-04
+Brielle,1.0,15.0,Zuid-Holland,2020-04-05
+Brielle,0.0,15.0,Zuid-Holland,2020-04-06
+Brielle,0.0,15.0,Zuid-Holland,2020-04-07
+Brielle,0.0,15.0,Zuid-Holland,2020-04-08
+Capelle aan den IJssel,6.0,50.0,Zuid-Holland,2020-03-31
+Capelle aan den IJssel,8.0,58.0,Zuid-Holland,2020-04-01
+Capelle aan den IJssel,8.0,66.0,Zuid-Holland,2020-04-02
+Capelle aan den IJssel,8.0,74.0,Zuid-Holland,2020-04-03
+Capelle aan den IJssel,7.0,81.0,Zuid-Holland,2020-04-04
+Capelle aan den IJssel,9.0,90.0,Zuid-Holland,2020-04-05
+Capelle aan den IJssel,7.0,97.0,Zuid-Holland,2020-04-06
+Capelle aan den IJssel,6.0,103.0,Zuid-Holland,2020-04-07
+Capelle aan den IJssel,7.0,110.0,Zuid-Holland,2020-04-08
+Delft,2.0,36.0,Zuid-Holland,2020-03-31
+Delft,3.0,39.0,Zuid-Holland,2020-04-01
+Delft,3.0,42.0,Zuid-Holland,2020-04-02
+Delft,3.0,45.0,Zuid-Holland,2020-04-03
+Delft,2.0,47.0,Zuid-Holland,2020-04-04
+Delft,3.0,50.0,Zuid-Holland,2020-04-05
+Delft,3.0,53.0,Zuid-Holland,2020-04-06
+Delft,2.0,55.0,Zuid-Holland,2020-04-07
+Delft,3.0,58.0,Zuid-Holland,2020-04-08
+Dordrecht,6.0,52.0,Zuid-Holland,2020-03-31
+Dordrecht,7.0,59.0,Zuid-Holland,2020-04-01
+Dordrecht,8.0,67.0,Zuid-Holland,2020-04-02
+Dordrecht,7.0,74.0,Zuid-Holland,2020-04-03
+Dordrecht,6.0,80.0,Zuid-Holland,2020-04-04
+Dordrecht,9.0,89.0,Zuid-Holland,2020-04-05
+Dordrecht,7.0,96.0,Zuid-Holland,2020-04-06
+Dordrecht,5.0,101.0,Zuid-Holland,2020-04-07
+Dordrecht,7.0,108.0,Zuid-Holland,2020-04-08
+Gorinchem,5.0,30.0,Zuid-Holland,2020-03-31
+Gorinchem,6.0,36.0,Zuid-Holland,2020-04-01
+Gorinchem,7.0,43.0,Zuid-Holland,2020-04-02
+Gorinchem,6.0,49.0,Zuid-Holland,2020-04-03
+Gorinchem,5.0,54.0,Zuid-Holland,2020-04-04
+Gorinchem,7.0,61.0,Zuid-Holland,2020-04-05
+Gorinchem,6.0,67.0,Zuid-Holland,2020-04-06
+Gorinchem,5.0,72.0,Zuid-Holland,2020-04-07
+Gorinchem,6.0,78.0,Zuid-Holland,2020-04-08
+Gouda,4.0,47.0,Zuid-Holland,2020-03-31
+Gouda,5.0,52.0,Zuid-Holland,2020-04-01
+Gouda,6.0,58.0,Zuid-Holland,2020-04-02
+Gouda,5.0,63.0,Zuid-Holland,2020-04-03
+Gouda,5.0,68.0,Zuid-Holland,2020-04-04
+Gouda,7.0,75.0,Zuid-Holland,2020-04-05
+Gouda,5.0,80.0,Zuid-Holland,2020-04-06
+Gouda,4.0,84.0,Zuid-Holland,2020-04-07
+Gouda,5.0,89.0,Zuid-Holland,2020-04-08
+'s-Gravenhage,24.0,206.0,Zuid-Holland,2020-03-31
+'s-Gravenhage,29.0,235.0,Zuid-Holland,2020-04-01
+'s-Gravenhage,31.0,266.0,Zuid-Holland,2020-04-02
+'s-Gravenhage,30.0,296.0,Zuid-Holland,2020-04-03
+'s-Gravenhage,26.0,322.0,Zuid-Holland,2020-04-04
+'s-Gravenhage,35.0,357.0,Zuid-Holland,2020-04-05
+'s-Gravenhage,27.0,384.0,Zuid-Holland,2020-04-06
+'s-Gravenhage,22.0,406.0,Zuid-Holland,2020-04-07
+'s-Gravenhage,28.0,434.0,Zuid-Holland,2020-04-08
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-03-31
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-01
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-02
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-03
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-04
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-05
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-06
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-07
+Hardinxveld-Giessendam,0.0,10.0,Zuid-Holland,2020-04-08
+Hellevoetsluis,1.0,16.0,Zuid-Holland,2020-03-31
+Hellevoetsluis,2.0,18.0,Zuid-Holland,2020-04-01
+Hellevoetsluis,2.0,20.0,Zuid-Holland,2020-04-02
+Hellevoetsluis,2.0,22.0,Zuid-Holland,2020-04-03
+Hellevoetsluis,2.0,24.0,Zuid-Holland,2020-04-04
+Hellevoetsluis,2.0,26.0,Zuid-Holland,2020-04-05
+Hellevoetsluis,2.0,28.0,Zuid-Holland,2020-04-06
+Hellevoetsluis,1.0,29.0,Zuid-Holland,2020-04-07
+Hellevoetsluis,2.0,31.0,Zuid-Holland,2020-04-08
+Hendrik-Ido-Ambacht,0.0,6.0,Zuid-Holland,2020-03-31
+Hendrik-Ido-Ambacht,1.0,7.0,Zuid-Holland,2020-04-01
+Hendrik-Ido-Ambacht,1.0,8.0,Zuid-Holland,2020-04-02
+Hendrik-Ido-Ambacht,1.0,9.0,Zuid-Holland,2020-04-03
+Hendrik-Ido-Ambacht,0.0,9.0,Zuid-Holland,2020-04-04
+Hendrik-Ido-Ambacht,1.0,10.0,Zuid-Holland,2020-04-05
+Hendrik-Ido-Ambacht,0.0,10.0,Zuid-Holland,2020-04-06
+Hendrik-Ido-Ambacht,0.0,10.0,Zuid-Holland,2020-04-07
+Hendrik-Ido-Ambacht,0.0,10.0,Zuid-Holland,2020-04-08
+Stede Broec,0.0,20.0,Noord-Holland,2020-03-31
+Stede Broec,1.0,21.0,Noord-Holland,2020-04-01
+Stede Broec,1.0,22.0,Noord-Holland,2020-04-02
+Stede Broec,1.0,23.0,Noord-Holland,2020-04-03
+Stede Broec,1.0,24.0,Noord-Holland,2020-04-04
+Stede Broec,1.0,25.0,Noord-Holland,2020-04-05
+Stede Broec,1.0,26.0,Noord-Holland,2020-04-06
+Stede Broec,0.0,26.0,Noord-Holland,2020-04-07
+Stede Broec,1.0,27.0,Noord-Holland,2020-04-08
+Hillegom,0.0,6.0,Zuid-Holland,2020-03-31
+Hillegom,1.0,7.0,Zuid-Holland,2020-04-01
+Hillegom,1.0,8.0,Zuid-Holland,2020-04-02
+Hillegom,1.0,9.0,Zuid-Holland,2020-04-03
+Hillegom,1.0,10.0,Zuid-Holland,2020-04-04
+Hillegom,1.0,11.0,Zuid-Holland,2020-04-05
+Hillegom,1.0,12.0,Zuid-Holland,2020-04-06
+Hillegom,0.0,12.0,Zuid-Holland,2020-04-07
+Hillegom,1.0,13.0,Zuid-Holland,2020-04-08
+Katwijk,2.0,26.0,Zuid-Holland,2020-03-31
+Katwijk,3.0,29.0,Zuid-Holland,2020-04-01
+Katwijk,3.0,32.0,Zuid-Holland,2020-04-02
+Katwijk,3.0,35.0,Zuid-Holland,2020-04-03
+Katwijk,2.0,37.0,Zuid-Holland,2020-04-04
+Katwijk,3.0,40.0,Zuid-Holland,2020-04-05
+Katwijk,3.0,43.0,Zuid-Holland,2020-04-06
+Katwijk,2.0,45.0,Zuid-Holland,2020-04-07
+Katwijk,3.0,48.0,Zuid-Holland,2020-04-08
+Krimpen aan den IJssel,1.0,16.0,Zuid-Holland,2020-03-31
+Krimpen aan den IJssel,1.0,17.0,Zuid-Holland,2020-04-01
+Krimpen aan den IJssel,1.0,18.0,Zuid-Holland,2020-04-02
+Krimpen aan den IJssel,1.0,19.0,Zuid-Holland,2020-04-03
+Krimpen aan den IJssel,1.0,20.0,Zuid-Holland,2020-04-04
+Krimpen aan den IJssel,2.0,22.0,Zuid-Holland,2020-04-05
+Krimpen aan den IJssel,1.0,23.0,Zuid-Holland,2020-04-06
+Krimpen aan den IJssel,1.0,24.0,Zuid-Holland,2020-04-07
+Krimpen aan den IJssel,1.0,25.0,Zuid-Holland,2020-04-08
+Leiden,3.0,42.0,Zuid-Holland,2020-03-31
+Leiden,3.0,45.0,Zuid-Holland,2020-04-01
+Leiden,4.0,49.0,Zuid-Holland,2020-04-02
+Leiden,3.0,52.0,Zuid-Holland,2020-04-03
+Leiden,3.0,55.0,Zuid-Holland,2020-04-04
+Leiden,4.0,59.0,Zuid-Holland,2020-04-05
+Leiden,3.0,62.0,Zuid-Holland,2020-04-06
+Leiden,3.0,65.0,Zuid-Holland,2020-04-07
+Leiden,3.0,68.0,Zuid-Holland,2020-04-08
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-03-31
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-01
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-02
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-03
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-04
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-05
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-06
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-07
+Leiderdorp,0.0,7.0,Zuid-Holland,2020-04-08
+Lisse,0.0,4.0,Zuid-Holland,2020-03-31
+Lisse,0.0,4.0,Zuid-Holland,2020-04-01
+Lisse,0.0,4.0,Zuid-Holland,2020-04-02
+Lisse,0.0,4.0,Zuid-Holland,2020-04-03
+Lisse,0.0,4.0,Zuid-Holland,2020-04-04
+Lisse,1.0,5.0,Zuid-Holland,2020-04-05
+Lisse,0.0,5.0,Zuid-Holland,2020-04-06
+Lisse,0.0,5.0,Zuid-Holland,2020-04-07
+Lisse,0.0,5.0,Zuid-Holland,2020-04-08
+Maassluis,1.0,16.0,Zuid-Holland,2020-03-31
+Maassluis,1.0,17.0,Zuid-Holland,2020-04-01
+Maassluis,1.0,18.0,Zuid-Holland,2020-04-02
+Maassluis,1.0,19.0,Zuid-Holland,2020-04-03
+Maassluis,1.0,20.0,Zuid-Holland,2020-04-04
+Maassluis,1.0,21.0,Zuid-Holland,2020-04-05
+Maassluis,1.0,22.0,Zuid-Holland,2020-04-06
+Maassluis,1.0,23.0,Zuid-Holland,2020-04-07
+Maassluis,1.0,24.0,Zuid-Holland,2020-04-08
+Nieuwkoop,1.0,11.0,Zuid-Holland,2020-03-31
+Nieuwkoop,1.0,12.0,Zuid-Holland,2020-04-01
+Nieuwkoop,2.0,14.0,Zuid-Holland,2020-04-02
+Nieuwkoop,1.0,15.0,Zuid-Holland,2020-04-03
+Nieuwkoop,1.0,16.0,Zuid-Holland,2020-04-04
+Nieuwkoop,2.0,18.0,Zuid-Holland,2020-04-05
+Nieuwkoop,1.0,19.0,Zuid-Holland,2020-04-06
+Nieuwkoop,1.0,20.0,Zuid-Holland,2020-04-07
+Nieuwkoop,1.0,21.0,Zuid-Holland,2020-04-08
+Noordwijk,0.0,17.0,Zuid-Holland,2020-03-31
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-01
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-02
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-03
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-04
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-05
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-06
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-07
+Noordwijk,0.0,17.0,Zuid-Holland,2020-04-08
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-03-31
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-01
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-02
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-03
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-04
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-05
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-06
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-07
+Oegstgeest,0.0,15.0,Zuid-Holland,2020-04-08
+Oudewater,1.0,26.0,Utrecht,2020-03-31
+Oudewater,1.0,27.0,Utrecht,2020-04-01
+Oudewater,1.0,28.0,Utrecht,2020-04-02
+Oudewater,1.0,29.0,Utrecht,2020-04-03
+Oudewater,1.0,30.0,Utrecht,2020-04-04
+Oudewater,1.0,31.0,Utrecht,2020-04-05
+Oudewater,1.0,32.0,Utrecht,2020-04-06
+Oudewater,0.0,32.0,Utrecht,2020-04-07
+Oudewater,1.0,33.0,Utrecht,2020-04-08
+Papendrecht,1.0,8.0,Zuid-Holland,2020-03-31
+Papendrecht,1.0,9.0,Zuid-Holland,2020-04-01
+Papendrecht,1.0,10.0,Zuid-Holland,2020-04-02
+Papendrecht,1.0,11.0,Zuid-Holland,2020-04-03
+Papendrecht,1.0,12.0,Zuid-Holland,2020-04-04
+Papendrecht,2.0,14.0,Zuid-Holland,2020-04-05
+Papendrecht,1.0,15.0,Zuid-Holland,2020-04-06
+Papendrecht,1.0,16.0,Zuid-Holland,2020-04-07
+Papendrecht,1.0,17.0,Zuid-Holland,2020-04-08
+Ridderkerk,2.0,36.0,Zuid-Holland,2020-03-31
+Ridderkerk,2.0,38.0,Zuid-Holland,2020-04-01
+Ridderkerk,2.0,40.0,Zuid-Holland,2020-04-02
+Ridderkerk,2.0,42.0,Zuid-Holland,2020-04-03
+Ridderkerk,2.0,44.0,Zuid-Holland,2020-04-04
+Ridderkerk,3.0,47.0,Zuid-Holland,2020-04-05
+Ridderkerk,2.0,49.0,Zuid-Holland,2020-04-06
+Ridderkerk,2.0,51.0,Zuid-Holland,2020-04-07
+Ridderkerk,2.0,53.0,Zuid-Holland,2020-04-08
+Rotterdam,46.0,421.0,Zuid-Holland,2020-03-31
+Rotterdam,56.0,477.0,Zuid-Holland,2020-04-01
+Rotterdam,60.0,537.0,Zuid-Holland,2020-04-02
+Rotterdam,56.0,593.0,Zuid-Holland,2020-04-03
+Rotterdam,50.0,643.0,Zuid-Holland,2020-04-04
+Rotterdam,67.0,710.0,Zuid-Holland,2020-04-05
+Rotterdam,52.0,762.0,Zuid-Holland,2020-04-06
+Rotterdam,43.0,805.0,Zuid-Holland,2020-04-07
+Rotterdam,53.0,858.0,Zuid-Holland,2020-04-08
+Rijswijk,1.0,21.0,Zuid-Holland,2020-03-31
+Rijswijk,1.0,22.0,Zuid-Holland,2020-04-01
+Rijswijk,2.0,24.0,Zuid-Holland,2020-04-02
+Rijswijk,1.0,25.0,Zuid-Holland,2020-04-03
+Rijswijk,1.0,26.0,Zuid-Holland,2020-04-04
+Rijswijk,2.0,28.0,Zuid-Holland,2020-04-05
+Rijswijk,1.0,29.0,Zuid-Holland,2020-04-06
+Rijswijk,1.0,30.0,Zuid-Holland,2020-04-07
+Rijswijk,1.0,31.0,Zuid-Holland,2020-04-08
+Schiedam,2.0,33.0,Zuid-Holland,2020-03-31
+Schiedam,3.0,36.0,Zuid-Holland,2020-04-01
+Schiedam,3.0,39.0,Zuid-Holland,2020-04-02
+Schiedam,3.0,42.0,Zuid-Holland,2020-04-03
+Schiedam,3.0,45.0,Zuid-Holland,2020-04-04
+Schiedam,4.0,49.0,Zuid-Holland,2020-04-05
+Schiedam,3.0,52.0,Zuid-Holland,2020-04-06
+Schiedam,2.0,54.0,Zuid-Holland,2020-04-07
+Schiedam,3.0,57.0,Zuid-Holland,2020-04-08
+Sliedrecht,1.0,8.0,Zuid-Holland,2020-03-31
+Sliedrecht,1.0,9.0,Zuid-Holland,2020-04-01
+Sliedrecht,1.0,10.0,Zuid-Holland,2020-04-02
+Sliedrecht,1.0,11.0,Zuid-Holland,2020-04-03
+Sliedrecht,1.0,12.0,Zuid-Holland,2020-04-04
+Sliedrecht,1.0,13.0,Zuid-Holland,2020-04-05
+Sliedrecht,1.0,14.0,Zuid-Holland,2020-04-06
+Sliedrecht,1.0,15.0,Zuid-Holland,2020-04-07
+Sliedrecht,1.0,16.0,Zuid-Holland,2020-04-08
+Albrandswaard,1.0,26.0,Zuid-Holland,2020-03-31
+Albrandswaard,1.0,27.0,Zuid-Holland,2020-04-01
+Albrandswaard,1.0,28.0,Zuid-Holland,2020-04-02
+Albrandswaard,1.0,29.0,Zuid-Holland,2020-04-03
+Albrandswaard,1.0,30.0,Zuid-Holland,2020-04-04
+Albrandswaard,2.0,32.0,Zuid-Holland,2020-04-05
+Albrandswaard,1.0,33.0,Zuid-Holland,2020-04-06
+Albrandswaard,1.0,34.0,Zuid-Holland,2020-04-07
+Albrandswaard,1.0,35.0,Zuid-Holland,2020-04-08
+Westvoorne,0.0,12.0,Zuid-Holland,2020-03-31
+Westvoorne,0.0,12.0,Zuid-Holland,2020-04-01
+Westvoorne,0.0,12.0,Zuid-Holland,2020-04-02
+Westvoorne,0.0,12.0,Zuid-Holland,2020-04-03
+Westvoorne,0.0,12.0,Zuid-Holland,2020-04-04
+Westvoorne,1.0,13.0,Zuid-Holland,2020-04-05
+Westvoorne,0.0,13.0,Zuid-Holland,2020-04-06
+Westvoorne,0.0,13.0,Zuid-Holland,2020-04-07
+Westvoorne,0.0,13.0,Zuid-Holland,2020-04-08
+Vlaardingen,4.0,47.0,Zuid-Holland,2020-03-31
+Vlaardingen,5.0,52.0,Zuid-Holland,2020-04-01
+Vlaardingen,5.0,57.0,Zuid-Holland,2020-04-02
+Vlaardingen,5.0,62.0,Zuid-Holland,2020-04-03
+Vlaardingen,4.0,66.0,Zuid-Holland,2020-04-04
+Vlaardingen,6.0,72.0,Zuid-Holland,2020-04-05
+Vlaardingen,4.0,76.0,Zuid-Holland,2020-04-06
+Vlaardingen,3.0,79.0,Zuid-Holland,2020-04-07
+Vlaardingen,4.0,83.0,Zuid-Holland,2020-04-08
+Voorschoten,1.0,9.0,Zuid-Holland,2020-03-31
+Voorschoten,1.0,10.0,Zuid-Holland,2020-04-01
+Voorschoten,1.0,11.0,Zuid-Holland,2020-04-02
+Voorschoten,1.0,12.0,Zuid-Holland,2020-04-03
+Voorschoten,1.0,13.0,Zuid-Holland,2020-04-04
+Voorschoten,1.0,14.0,Zuid-Holland,2020-04-05
+Voorschoten,1.0,15.0,Zuid-Holland,2020-04-06
+Voorschoten,1.0,16.0,Zuid-Holland,2020-04-07
+Voorschoten,1.0,17.0,Zuid-Holland,2020-04-08
+Waddinxveen,1.0,10.0,Zuid-Holland,2020-03-31
+Waddinxveen,2.0,12.0,Zuid-Holland,2020-04-01
+Waddinxveen,2.0,14.0,Zuid-Holland,2020-04-02
+Waddinxveen,2.0,16.0,Zuid-Holland,2020-04-03
+Waddinxveen,1.0,17.0,Zuid-Holland,2020-04-04
+Waddinxveen,2.0,19.0,Zuid-Holland,2020-04-05
+Waddinxveen,2.0,21.0,Zuid-Holland,2020-04-06
+Waddinxveen,1.0,22.0,Zuid-Holland,2020-04-07
+Waddinxveen,2.0,24.0,Zuid-Holland,2020-04-08
+Wassenaar,1.0,7.0,Zuid-Holland,2020-03-31
+Wassenaar,1.0,8.0,Zuid-Holland,2020-04-01
+Wassenaar,1.0,9.0,Zuid-Holland,2020-04-02
+Wassenaar,1.0,10.0,Zuid-Holland,2020-04-03
+Wassenaar,1.0,11.0,Zuid-Holland,2020-04-04
+Wassenaar,1.0,12.0,Zuid-Holland,2020-04-05
+Wassenaar,1.0,13.0,Zuid-Holland,2020-04-06
+Wassenaar,1.0,14.0,Zuid-Holland,2020-04-07
+Wassenaar,1.0,15.0,Zuid-Holland,2020-04-08
+Woerden,3.0,47.0,Utrecht,2020-03-31
+Woerden,3.0,50.0,Utrecht,2020-04-01
+Woerden,4.0,54.0,Utrecht,2020-04-02
+Woerden,3.0,57.0,Utrecht,2020-04-03
+Woerden,3.0,60.0,Utrecht,2020-04-04
+Woerden,4.0,64.0,Utrecht,2020-04-05
+Woerden,3.0,67.0,Utrecht,2020-04-06
+Woerden,2.0,69.0,Utrecht,2020-04-07
+Woerden,3.0,72.0,Utrecht,2020-04-08
+Zoetermeer,3.0,31.0,Zuid-Holland,2020-03-31
+Zoetermeer,4.0,35.0,Zuid-Holland,2020-04-01
+Zoetermeer,4.0,39.0,Zuid-Holland,2020-04-02
+Zoetermeer,4.0,43.0,Zuid-Holland,2020-04-03
+Zoetermeer,3.0,46.0,Zuid-Holland,2020-04-04
+Zoetermeer,5.0,51.0,Zuid-Holland,2020-04-05
+Zoetermeer,3.0,54.0,Zuid-Holland,2020-04-06
+Zoetermeer,3.0,57.0,Zuid-Holland,2020-04-07
+Zoetermeer,3.0,60.0,Zuid-Holland,2020-04-08
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-03-31
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-01
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-02
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-03
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-04
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-05
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-06
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-07
+Zoeterwoude,0.0,3.0,Zuid-Holland,2020-04-08
+Zwijndrecht,1.0,19.0,Zuid-Holland,2020-03-31
+Zwijndrecht,1.0,20.0,Zuid-Holland,2020-04-01
+Zwijndrecht,1.0,21.0,Zuid-Holland,2020-04-02
+Zwijndrecht,1.0,22.0,Zuid-Holland,2020-04-03
+Zwijndrecht,1.0,23.0,Zuid-Holland,2020-04-04
+Zwijndrecht,1.0,24.0,Zuid-Holland,2020-04-05
+Zwijndrecht,1.0,25.0,Zuid-Holland,2020-04-06
+Zwijndrecht,1.0,26.0,Zuid-Holland,2020-04-07
+Zwijndrecht,1.0,27.0,Zuid-Holland,2020-04-08
+Borsele,0.0,7.0,Zeeland,2020-03-31
+Borsele,0.0,7.0,Zeeland,2020-04-01
+Borsele,0.0,7.0,Zeeland,2020-04-02
+Borsele,0.0,7.0,Zeeland,2020-04-03
+Borsele,0.0,7.0,Zeeland,2020-04-04
+Borsele,0.0,7.0,Zeeland,2020-04-05
+Borsele,0.0,7.0,Zeeland,2020-04-06
+Borsele,0.0,7.0,Zeeland,2020-04-07
+Borsele,0.0,7.0,Zeeland,2020-04-08
+Goes,1.0,18.0,Zeeland,2020-03-31
+Goes,1.0,19.0,Zeeland,2020-04-01
+Goes,2.0,21.0,Zeeland,2020-04-02
+Goes,1.0,22.0,Zeeland,2020-04-03
+Goes,1.0,23.0,Zeeland,2020-04-04
+Goes,2.0,25.0,Zeeland,2020-04-05
+Goes,1.0,26.0,Zeeland,2020-04-06
+Goes,1.0,27.0,Zeeland,2020-04-07
+Goes,1.0,28.0,Zeeland,2020-04-08
+West Maas en Waal,1.0,20.0,Gelderland,2020-03-31
+West Maas en Waal,1.0,21.0,Gelderland,2020-04-01
+West Maas en Waal,1.0,22.0,Gelderland,2020-04-02
+West Maas en Waal,1.0,23.0,Gelderland,2020-04-03
+West Maas en Waal,1.0,24.0,Gelderland,2020-04-04
+West Maas en Waal,1.0,25.0,Gelderland,2020-04-05
+West Maas en Waal,1.0,26.0,Gelderland,2020-04-06
+West Maas en Waal,1.0,27.0,Gelderland,2020-04-07
+West Maas en Waal,1.0,28.0,Gelderland,2020-04-08
+Hulst,1.0,7.0,Zeeland,2020-03-31
+Hulst,1.0,8.0,Zeeland,2020-04-01
+Hulst,1.0,9.0,Zeeland,2020-04-02
+Hulst,1.0,10.0,Zeeland,2020-04-03
+Hulst,1.0,11.0,Zeeland,2020-04-04
+Hulst,1.0,12.0,Zeeland,2020-04-05
+Hulst,1.0,13.0,Zeeland,2020-04-06
+Hulst,0.0,13.0,Zeeland,2020-04-07
+Hulst,1.0,14.0,Zeeland,2020-04-08
+Kapelle,0.0,2.0,Zeeland,2020-03-31
+Kapelle,0.0,2.0,Zeeland,2020-04-01
+Kapelle,0.0,2.0,Zeeland,2020-04-02
+Kapelle,0.0,2.0,Zeeland,2020-04-03
+Kapelle,0.0,2.0,Zeeland,2020-04-04
+Kapelle,1.0,3.0,Zeeland,2020-04-05
+Kapelle,0.0,3.0,Zeeland,2020-04-06
+Kapelle,0.0,3.0,Zeeland,2020-04-07
+Kapelle,0.0,3.0,Zeeland,2020-04-08
+Middelburg,1.0,15.0,Zeeland,2020-03-31
+Middelburg,1.0,16.0,Zeeland,2020-04-01
+Middelburg,1.0,17.0,Zeeland,2020-04-02
+Middelburg,1.0,18.0,Zeeland,2020-04-03
+Middelburg,1.0,19.0,Zeeland,2020-04-04
+Middelburg,2.0,21.0,Zeeland,2020-04-05
+Middelburg,1.0,22.0,Zeeland,2020-04-06
+Middelburg,1.0,23.0,Zeeland,2020-04-07
+Middelburg,1.0,24.0,Zeeland,2020-04-08
+Reimerswaal,0.0,7.0,Zeeland,2020-03-31
+Reimerswaal,0.0,7.0,Zeeland,2020-04-01
+Reimerswaal,0.0,7.0,Zeeland,2020-04-02
+Reimerswaal,0.0,7.0,Zeeland,2020-04-03
+Reimerswaal,0.0,7.0,Zeeland,2020-04-04
+Reimerswaal,0.0,7.0,Zeeland,2020-04-05
+Reimerswaal,0.0,7.0,Zeeland,2020-04-06
+Reimerswaal,0.0,7.0,Zeeland,2020-04-07
+Reimerswaal,0.0,7.0,Zeeland,2020-04-08
+Terneuzen,2.0,22.0,Zeeland,2020-03-31
+Terneuzen,3.0,25.0,Zeeland,2020-04-01
+Terneuzen,3.0,28.0,Zeeland,2020-04-02
+Terneuzen,3.0,31.0,Zeeland,2020-04-03
+Terneuzen,2.0,33.0,Zeeland,2020-04-04
+Terneuzen,3.0,36.0,Zeeland,2020-04-05
+Terneuzen,3.0,39.0,Zeeland,2020-04-06
+Terneuzen,2.0,41.0,Zeeland,2020-04-07
+Terneuzen,3.0,44.0,Zeeland,2020-04-08
+Tholen,4.0,38.0,Zeeland,2020-03-31
+Tholen,4.0,42.0,Zeeland,2020-04-01
+Tholen,5.0,47.0,Zeeland,2020-04-02
+Tholen,5.0,52.0,Zeeland,2020-04-03
+Tholen,4.0,56.0,Zeeland,2020-04-04
+Tholen,5.0,61.0,Zeeland,2020-04-05
+Tholen,4.0,65.0,Zeeland,2020-04-06
+Tholen,3.0,68.0,Zeeland,2020-04-07
+Tholen,4.0,72.0,Zeeland,2020-04-08
+Veere,0.0,9.0,Zeeland,2020-03-31
+Veere,1.0,10.0,Zeeland,2020-04-01
+Veere,1.0,11.0,Zeeland,2020-04-02
+Veere,1.0,12.0,Zeeland,2020-04-03
+Veere,0.0,12.0,Zeeland,2020-04-04
+Veere,1.0,13.0,Zeeland,2020-04-05
+Veere,0.0,13.0,Zeeland,2020-04-06
+Veere,0.0,13.0,Zeeland,2020-04-07
+Veere,0.0,13.0,Zeeland,2020-04-08
+Vlissingen,2.0,15.0,Zeeland,2020-03-31
+Vlissingen,2.0,17.0,Zeeland,2020-04-01
+Vlissingen,2.0,19.0,Zeeland,2020-04-02
+Vlissingen,2.0,21.0,Zeeland,2020-04-03
+Vlissingen,2.0,23.0,Zeeland,2020-04-04
+Vlissingen,3.0,26.0,Zeeland,2020-04-05
+Vlissingen,2.0,28.0,Zeeland,2020-04-06
+Vlissingen,2.0,30.0,Zeeland,2020-04-07
+Vlissingen,2.0,32.0,Zeeland,2020-04-08
+De Ronde Venen,2.0,26.0,Utrecht,2020-03-31
+De Ronde Venen,2.0,28.0,Utrecht,2020-04-01
+De Ronde Venen,3.0,31.0,Utrecht,2020-04-02
+De Ronde Venen,2.0,33.0,Utrecht,2020-04-03
+De Ronde Venen,2.0,35.0,Utrecht,2020-04-04
+De Ronde Venen,3.0,38.0,Utrecht,2020-04-05
+De Ronde Venen,2.0,40.0,Utrecht,2020-04-06
+De Ronde Venen,2.0,42.0,Utrecht,2020-04-07
+De Ronde Venen,2.0,44.0,Utrecht,2020-04-08
+Tytsjerksteradiel,0.0,4.0,Friesland,2020-03-31
+Tytsjerksteradiel,1.0,5.0,Friesland,2020-04-01
+Tytsjerksteradiel,1.0,6.0,Friesland,2020-04-02
+Tytsjerksteradiel,1.0,7.0,Friesland,2020-04-03
+Tytsjerksteradiel,0.0,7.0,Friesland,2020-04-04
+Tytsjerksteradiel,1.0,8.0,Friesland,2020-04-05
+Tytsjerksteradiel,0.0,8.0,Friesland,2020-04-06
+Tytsjerksteradiel,0.0,8.0,Friesland,2020-04-07
+Tytsjerksteradiel,0.0,8.0,Friesland,2020-04-08
+Asten,0.0,17.0,Noord-Brabant,2020-03-31
+Asten,1.0,18.0,Noord-Brabant,2020-04-01
+Asten,1.0,19.0,Noord-Brabant,2020-04-02
+Asten,1.0,20.0,Noord-Brabant,2020-04-03
+Asten,1.0,21.0,Noord-Brabant,2020-04-04
+Asten,1.0,22.0,Noord-Brabant,2020-04-05
+Asten,1.0,23.0,Noord-Brabant,2020-04-06
+Asten,0.0,23.0,Noord-Brabant,2020-04-07
+Asten,1.0,24.0,Noord-Brabant,2020-04-08
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-03-31
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-01
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-02
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-03
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-04
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-05
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-06
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-07
+Baarle-Nassau,0.0,3.0,Noord-Brabant,2020-04-08
+Bergen op Zoom,2.0,19.0,Noord-Brabant,2020-03-31
+Bergen op Zoom,2.0,21.0,Noord-Brabant,2020-04-01
+Bergen op Zoom,2.0,23.0,Noord-Brabant,2020-04-02
+Bergen op Zoom,2.0,25.0,Noord-Brabant,2020-04-03
+Bergen op Zoom,2.0,27.0,Noord-Brabant,2020-04-04
+Bergen op Zoom,2.0,29.0,Noord-Brabant,2020-04-05
+Bergen op Zoom,2.0,31.0,Noord-Brabant,2020-04-06
+Bergen op Zoom,1.0,32.0,Noord-Brabant,2020-04-07
+Bergen op Zoom,2.0,34.0,Noord-Brabant,2020-04-08
+Best,1.0,28.0,Noord-Brabant,2020-03-31
+Best,1.0,29.0,Noord-Brabant,2020-04-01
+Best,1.0,30.0,Noord-Brabant,2020-04-02
+Best,1.0,31.0,Noord-Brabant,2020-04-03
+Best,1.0,32.0,Noord-Brabant,2020-04-04
+Best,1.0,33.0,Noord-Brabant,2020-04-05
+Best,1.0,34.0,Noord-Brabant,2020-04-06
+Best,1.0,35.0,Noord-Brabant,2020-04-07
+Best,1.0,36.0,Noord-Brabant,2020-04-08
+Boekel,1.0,62.0,Noord-Brabant,2020-03-31
+Boekel,1.0,63.0,Noord-Brabant,2020-04-01
+Boekel,1.0,64.0,Noord-Brabant,2020-04-02
+Boekel,1.0,65.0,Noord-Brabant,2020-04-03
+Boekel,1.0,66.0,Noord-Brabant,2020-04-04
+Boekel,1.0,67.0,Noord-Brabant,2020-04-05
+Boekel,1.0,68.0,Noord-Brabant,2020-04-06
+Boekel,0.0,68.0,Noord-Brabant,2020-04-07
+Boekel,1.0,69.0,Noord-Brabant,2020-04-08
+Boxmeer,2.0,27.0,Noord-Brabant,2020-03-31
+Boxmeer,2.0,29.0,Noord-Brabant,2020-04-01
+Boxmeer,2.0,31.0,Noord-Brabant,2020-04-02
+Boxmeer,2.0,33.0,Noord-Brabant,2020-04-03
+Boxmeer,2.0,35.0,Noord-Brabant,2020-04-04
+Boxmeer,3.0,38.0,Noord-Brabant,2020-04-05
+Boxmeer,2.0,40.0,Noord-Brabant,2020-04-06
+Boxmeer,2.0,42.0,Noord-Brabant,2020-04-07
+Boxmeer,2.0,44.0,Noord-Brabant,2020-04-08
+Boxtel,0.0,26.0,Noord-Brabant,2020-03-31
+Boxtel,0.0,26.0,Noord-Brabant,2020-04-01
+Boxtel,0.0,26.0,Noord-Brabant,2020-04-02
+Boxtel,0.0,26.0,Noord-Brabant,2020-04-03
+Boxtel,0.0,26.0,Noord-Brabant,2020-04-04
+Boxtel,1.0,27.0,Noord-Brabant,2020-04-05
+Boxtel,0.0,27.0,Noord-Brabant,2020-04-06
+Boxtel,0.0,27.0,Noord-Brabant,2020-04-07
+Boxtel,0.0,27.0,Noord-Brabant,2020-04-08
+Breda,7.0,252.0,Noord-Brabant,2020-03-31
+Breda,8.0,260.0,Noord-Brabant,2020-04-01
+Breda,9.0,269.0,Noord-Brabant,2020-04-02
+Breda,8.0,277.0,Noord-Brabant,2020-04-03
+Breda,7.0,284.0,Noord-Brabant,2020-04-04
+Breda,10.0,294.0,Noord-Brabant,2020-04-05
+Breda,8.0,302.0,Noord-Brabant,2020-04-06
+Breda,6.0,308.0,Noord-Brabant,2020-04-07
+Breda,8.0,316.0,Noord-Brabant,2020-04-08
+Deurne,3.0,61.0,Noord-Brabant,2020-03-31
+Deurne,3.0,64.0,Noord-Brabant,2020-04-01
+Deurne,4.0,68.0,Noord-Brabant,2020-04-02
+Deurne,3.0,71.0,Noord-Brabant,2020-04-03
+Deurne,3.0,74.0,Noord-Brabant,2020-04-04
+Deurne,4.0,78.0,Noord-Brabant,2020-04-05
+Deurne,3.0,81.0,Noord-Brabant,2020-04-06
+Deurne,2.0,83.0,Noord-Brabant,2020-04-07
+Deurne,3.0,86.0,Noord-Brabant,2020-04-08
+Pekela,0.0,3.0,Groningen,2020-03-31
+Pekela,0.0,3.0,Groningen,2020-04-01
+Pekela,0.0,3.0,Groningen,2020-04-02
+Pekela,0.0,3.0,Groningen,2020-04-03
+Pekela,0.0,3.0,Groningen,2020-04-04
+Pekela,0.0,3.0,Groningen,2020-04-05
+Pekela,0.0,3.0,Groningen,2020-04-06
+Pekela,0.0,3.0,Groningen,2020-04-07
+Pekela,0.0,3.0,Groningen,2020-04-08
+Dongen,2.0,23.0,Noord-Brabant,2020-03-31
+Dongen,2.0,25.0,Noord-Brabant,2020-04-01
+Dongen,2.0,27.0,Noord-Brabant,2020-04-02
+Dongen,2.0,29.0,Noord-Brabant,2020-04-03
+Dongen,2.0,31.0,Noord-Brabant,2020-04-04
+Dongen,3.0,34.0,Noord-Brabant,2020-04-05
+Dongen,2.0,36.0,Noord-Brabant,2020-04-06
+Dongen,2.0,38.0,Noord-Brabant,2020-04-07
+Dongen,2.0,40.0,Noord-Brabant,2020-04-08
+Eersel,1.0,24.0,Noord-Brabant,2020-03-31
+Eersel,1.0,25.0,Noord-Brabant,2020-04-01
+Eersel,1.0,26.0,Noord-Brabant,2020-04-02
+Eersel,1.0,27.0,Noord-Brabant,2020-04-03
+Eersel,1.0,28.0,Noord-Brabant,2020-04-04
+Eersel,1.0,29.0,Noord-Brabant,2020-04-05
+Eersel,1.0,30.0,Noord-Brabant,2020-04-06
+Eersel,1.0,31.0,Noord-Brabant,2020-04-07
+Eersel,1.0,32.0,Noord-Brabant,2020-04-08
+Eindhoven,10.0,153.0,Noord-Brabant,2020-03-31
+Eindhoven,12.0,165.0,Noord-Brabant,2020-04-01
+Eindhoven,13.0,178.0,Noord-Brabant,2020-04-02
+Eindhoven,12.0,190.0,Noord-Brabant,2020-04-03
+Eindhoven,11.0,201.0,Noord-Brabant,2020-04-04
+Eindhoven,15.0,216.0,Noord-Brabant,2020-04-05
+Eindhoven,11.0,227.0,Noord-Brabant,2020-04-06
+Eindhoven,9.0,236.0,Noord-Brabant,2020-04-07
+Eindhoven,12.0,248.0,Noord-Brabant,2020-04-08
+Etten-Leur,3.0,57.0,Noord-Brabant,2020-03-31
+Etten-Leur,4.0,61.0,Noord-Brabant,2020-04-01
+Etten-Leur,4.0,65.0,Noord-Brabant,2020-04-02
+Etten-Leur,4.0,69.0,Noord-Brabant,2020-04-03
+Etten-Leur,3.0,72.0,Noord-Brabant,2020-04-04
+Etten-Leur,5.0,77.0,Noord-Brabant,2020-04-05
+Etten-Leur,4.0,81.0,Noord-Brabant,2020-04-06
+Etten-Leur,3.0,84.0,Noord-Brabant,2020-04-07
+Etten-Leur,4.0,88.0,Noord-Brabant,2020-04-08
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-03-31
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-01
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-02
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-03
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-04
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-05
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-06
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-07
+Geertruidenberg,0.0,15.0,Noord-Brabant,2020-04-08
+Gilze en Rijen,1.0,30.0,Noord-Brabant,2020-03-31
+Gilze en Rijen,1.0,31.0,Noord-Brabant,2020-04-01
+Gilze en Rijen,1.0,32.0,Noord-Brabant,2020-04-02
+Gilze en Rijen,1.0,33.0,Noord-Brabant,2020-04-03
+Gilze en Rijen,1.0,34.0,Noord-Brabant,2020-04-04
+Gilze en Rijen,2.0,36.0,Noord-Brabant,2020-04-05
+Gilze en Rijen,1.0,37.0,Noord-Brabant,2020-04-06
+Gilze en Rijen,1.0,38.0,Noord-Brabant,2020-04-07
+Gilze en Rijen,1.0,39.0,Noord-Brabant,2020-04-08
+Goirle,1.0,35.0,Noord-Brabant,2020-03-31
+Goirle,1.0,36.0,Noord-Brabant,2020-04-01
+Goirle,1.0,37.0,Noord-Brabant,2020-04-02
+Goirle,1.0,38.0,Noord-Brabant,2020-04-03
+Goirle,1.0,39.0,Noord-Brabant,2020-04-04
+Goirle,2.0,41.0,Noord-Brabant,2020-04-05
+Goirle,1.0,42.0,Noord-Brabant,2020-04-06
+Goirle,1.0,43.0,Noord-Brabant,2020-04-07
+Goirle,1.0,44.0,Noord-Brabant,2020-04-08
+Grave,1.0,26.0,Noord-Brabant,2020-03-31
+Grave,1.0,27.0,Noord-Brabant,2020-04-01
+Grave,1.0,28.0,Noord-Brabant,2020-04-02
+Grave,1.0,29.0,Noord-Brabant,2020-04-03
+Grave,1.0,30.0,Noord-Brabant,2020-04-04
+Grave,1.0,31.0,Noord-Brabant,2020-04-05
+Grave,1.0,32.0,Noord-Brabant,2020-04-06
+Grave,0.0,32.0,Noord-Brabant,2020-04-07
+Grave,1.0,33.0,Noord-Brabant,2020-04-08
+Haaren,0.0,23.0,Noord-Brabant,2020-03-31
+Haaren,0.0,23.0,Noord-Brabant,2020-04-01
+Haaren,0.0,23.0,Noord-Brabant,2020-04-02
+Haaren,0.0,23.0,Noord-Brabant,2020-04-03
+Haaren,0.0,23.0,Noord-Brabant,2020-04-04
+Haaren,0.0,23.0,Noord-Brabant,2020-04-05
+Haaren,0.0,23.0,Noord-Brabant,2020-04-06
+Haaren,0.0,23.0,Noord-Brabant,2020-04-07
+Haaren,0.0,23.0,Noord-Brabant,2020-04-08
+Helmond,5.0,110.0,Noord-Brabant,2020-03-31
+Helmond,6.0,116.0,Noord-Brabant,2020-04-01
+Helmond,7.0,123.0,Noord-Brabant,2020-04-02
+Helmond,6.0,129.0,Noord-Brabant,2020-04-03
+Helmond,5.0,134.0,Noord-Brabant,2020-04-04
+Helmond,7.0,141.0,Noord-Brabant,2020-04-05
+Helmond,6.0,147.0,Noord-Brabant,2020-04-06
+Helmond,5.0,152.0,Noord-Brabant,2020-04-07
+Helmond,6.0,158.0,Noord-Brabant,2020-04-08
+'s-Hertogenbosch,8.0,158.0,Noord-Brabant,2020-03-31
+'s-Hertogenbosch,9.0,167.0,Noord-Brabant,2020-04-01
+'s-Hertogenbosch,10.0,177.0,Noord-Brabant,2020-04-02
+'s-Hertogenbosch,9.0,186.0,Noord-Brabant,2020-04-03
+'s-Hertogenbosch,8.0,194.0,Noord-Brabant,2020-04-04
+'s-Hertogenbosch,11.0,205.0,Noord-Brabant,2020-04-05
+'s-Hertogenbosch,9.0,214.0,Noord-Brabant,2020-04-06
+'s-Hertogenbosch,7.0,221.0,Noord-Brabant,2020-04-07
+'s-Hertogenbosch,9.0,230.0,Noord-Brabant,2020-04-08
+Heusden,1.0,47.0,Noord-Brabant,2020-03-31
+Heusden,2.0,49.0,Noord-Brabant,2020-04-01
+Heusden,2.0,51.0,Noord-Brabant,2020-04-02
+Heusden,2.0,53.0,Noord-Brabant,2020-04-03
+Heusden,1.0,54.0,Noord-Brabant,2020-04-04
+Heusden,2.0,56.0,Noord-Brabant,2020-04-05
+Heusden,2.0,58.0,Noord-Brabant,2020-04-06
+Heusden,1.0,59.0,Noord-Brabant,2020-04-07
+Heusden,2.0,61.0,Noord-Brabant,2020-04-08
+Hilvarenbeek,0.0,13.0,Noord-Brabant,2020-03-31
+Hilvarenbeek,0.0,13.0,Noord-Brabant,2020-04-01
+Hilvarenbeek,0.0,13.0,Noord-Brabant,2020-04-02
+Hilvarenbeek,0.0,13.0,Noord-Brabant,2020-04-03
+Hilvarenbeek,0.0,13.0,Noord-Brabant,2020-04-04
+Hilvarenbeek,1.0,14.0,Noord-Brabant,2020-04-05
+Hilvarenbeek,0.0,14.0,Noord-Brabant,2020-04-06
+Hilvarenbeek,0.0,14.0,Noord-Brabant,2020-04-07
+Hilvarenbeek,0.0,14.0,Noord-Brabant,2020-04-08
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-03-31
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-01
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-02
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-03
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-04
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-05
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-06
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-07
+Loon op Zand,0.0,31.0,Noord-Brabant,2020-04-08
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-03-31
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-01
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-02
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-03
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-04
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-05
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-06
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-07
+Mill en Sint Hubert,0.0,11.0,Noord-Brabant,2020-04-08
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-03-31
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-01
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-02
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-03
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-04
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-05
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-06
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-07
+"Nuenen, Gerwen en Nederwetten",0.0,16.0,Noord-Brabant,2020-04-08
+Oirschot,1.0,15.0,Noord-Brabant,2020-03-31
+Oirschot,1.0,16.0,Noord-Brabant,2020-04-01
+Oirschot,1.0,17.0,Noord-Brabant,2020-04-02
+Oirschot,1.0,18.0,Noord-Brabant,2020-04-03
+Oirschot,1.0,19.0,Noord-Brabant,2020-04-04
+Oirschot,2.0,21.0,Noord-Brabant,2020-04-05
+Oirschot,1.0,22.0,Noord-Brabant,2020-04-06
+Oirschot,1.0,23.0,Noord-Brabant,2020-04-07
+Oirschot,1.0,24.0,Noord-Brabant,2020-04-08
+Oisterwijk,1.0,28.0,Noord-Brabant,2020-03-31
+Oisterwijk,1.0,29.0,Noord-Brabant,2020-04-01
+Oisterwijk,1.0,30.0,Noord-Brabant,2020-04-02
+Oisterwijk,1.0,31.0,Noord-Brabant,2020-04-03
+Oisterwijk,1.0,32.0,Noord-Brabant,2020-04-04
+Oisterwijk,1.0,33.0,Noord-Brabant,2020-04-05
+Oisterwijk,1.0,34.0,Noord-Brabant,2020-04-06
+Oisterwijk,0.0,34.0,Noord-Brabant,2020-04-07
+Oisterwijk,1.0,35.0,Noord-Brabant,2020-04-08
+Oosterhout,1.0,45.0,Noord-Brabant,2020-03-31
+Oosterhout,1.0,46.0,Noord-Brabant,2020-04-01
+Oosterhout,1.0,47.0,Noord-Brabant,2020-04-02
+Oosterhout,1.0,48.0,Noord-Brabant,2020-04-03
+Oosterhout,1.0,49.0,Noord-Brabant,2020-04-04
+Oosterhout,2.0,51.0,Noord-Brabant,2020-04-05
+Oosterhout,1.0,52.0,Noord-Brabant,2020-04-06
+Oosterhout,1.0,53.0,Noord-Brabant,2020-04-07
+Oosterhout,1.0,54.0,Noord-Brabant,2020-04-08
+Oss,8.0,182.0,Noord-Brabant,2020-03-31
+Oss,10.0,192.0,Noord-Brabant,2020-04-01
+Oss,11.0,203.0,Noord-Brabant,2020-04-02
+Oss,10.0,213.0,Noord-Brabant,2020-04-03
+Oss,9.0,222.0,Noord-Brabant,2020-04-04
+Oss,12.0,234.0,Noord-Brabant,2020-04-05
+Oss,9.0,243.0,Noord-Brabant,2020-04-06
+Oss,8.0,251.0,Noord-Brabant,2020-04-07
+Oss,10.0,261.0,Noord-Brabant,2020-04-08
+Rucphen,1.0,11.0,Noord-Brabant,2020-03-31
+Rucphen,1.0,12.0,Noord-Brabant,2020-04-01
+Rucphen,1.0,13.0,Noord-Brabant,2020-04-02
+Rucphen,1.0,14.0,Noord-Brabant,2020-04-03
+Rucphen,1.0,15.0,Noord-Brabant,2020-04-04
+Rucphen,1.0,16.0,Noord-Brabant,2020-04-05
+Rucphen,1.0,17.0,Noord-Brabant,2020-04-06
+Rucphen,1.0,18.0,Noord-Brabant,2020-04-07
+Rucphen,1.0,19.0,Noord-Brabant,2020-04-08
+Sint-Michielsgestel,1.0,34.0,Noord-Brabant,2020-03-31
+Sint-Michielsgestel,2.0,36.0,Noord-Brabant,2020-04-01
+Sint-Michielsgestel,2.0,38.0,Noord-Brabant,2020-04-02
+Sint-Michielsgestel,2.0,40.0,Noord-Brabant,2020-04-03
+Sint-Michielsgestel,1.0,41.0,Noord-Brabant,2020-04-04
+Sint-Michielsgestel,2.0,43.0,Noord-Brabant,2020-04-05
+Sint-Michielsgestel,1.0,44.0,Noord-Brabant,2020-04-06
+Sint-Michielsgestel,1.0,45.0,Noord-Brabant,2020-04-07
+Sint-Michielsgestel,1.0,46.0,Noord-Brabant,2020-04-08
+Someren,1.0,30.0,Noord-Brabant,2020-03-31
+Someren,1.0,31.0,Noord-Brabant,2020-04-01
+Someren,2.0,33.0,Noord-Brabant,2020-04-02
+Someren,1.0,34.0,Noord-Brabant,2020-04-03
+Someren,1.0,35.0,Noord-Brabant,2020-04-04
+Someren,2.0,37.0,Noord-Brabant,2020-04-05
+Someren,1.0,38.0,Noord-Brabant,2020-04-06
+Someren,1.0,39.0,Noord-Brabant,2020-04-07
+Someren,1.0,40.0,Noord-Brabant,2020-04-08
+Son en Breugel,0.0,24.0,Noord-Brabant,2020-03-31
+Son en Breugel,1.0,25.0,Noord-Brabant,2020-04-01
+Son en Breugel,1.0,26.0,Noord-Brabant,2020-04-02
+Son en Breugel,1.0,27.0,Noord-Brabant,2020-04-03
+Son en Breugel,1.0,28.0,Noord-Brabant,2020-04-04
+Son en Breugel,1.0,29.0,Noord-Brabant,2020-04-05
+Son en Breugel,1.0,30.0,Noord-Brabant,2020-04-06
+Son en Breugel,0.0,30.0,Noord-Brabant,2020-04-07
+Son en Breugel,1.0,31.0,Noord-Brabant,2020-04-08
+Steenbergen,1.0,18.0,Noord-Brabant,2020-03-31
+Steenbergen,1.0,19.0,Noord-Brabant,2020-04-01
+Steenbergen,1.0,20.0,Noord-Brabant,2020-04-02
+Steenbergen,1.0,21.0,Noord-Brabant,2020-04-03
+Steenbergen,1.0,22.0,Noord-Brabant,2020-04-04
+Steenbergen,1.0,23.0,Noord-Brabant,2020-04-05
+Steenbergen,1.0,24.0,Noord-Brabant,2020-04-06
+Steenbergen,1.0,25.0,Noord-Brabant,2020-04-07
+Steenbergen,1.0,26.0,Noord-Brabant,2020-04-08
+Waterland,0.0,14.0,Noord-Holland,2020-03-31
+Waterland,0.0,14.0,Noord-Holland,2020-04-01
+Waterland,0.0,14.0,Noord-Holland,2020-04-02
+Waterland,0.0,14.0,Noord-Holland,2020-04-03
+Waterland,0.0,14.0,Noord-Holland,2020-04-04
+Waterland,0.0,14.0,Noord-Holland,2020-04-05
+Waterland,0.0,14.0,Noord-Holland,2020-04-06
+Waterland,0.0,14.0,Noord-Holland,2020-04-07
+Waterland,0.0,14.0,Noord-Holland,2020-04-08
+Tilburg,8.0,338.0,Noord-Brabant,2020-03-31
+Tilburg,10.0,348.0,Noord-Brabant,2020-04-01
+Tilburg,11.0,359.0,Noord-Brabant,2020-04-02
+Tilburg,10.0,369.0,Noord-Brabant,2020-04-03
+Tilburg,9.0,378.0,Noord-Brabant,2020-04-04
+Tilburg,12.0,390.0,Noord-Brabant,2020-04-05
+Tilburg,10.0,400.0,Noord-Brabant,2020-04-06
+Tilburg,8.0,408.0,Noord-Brabant,2020-04-07
+Tilburg,10.0,418.0,Noord-Brabant,2020-04-08
+Uden,3.0,157.0,Noord-Brabant,2020-03-31
+Uden,4.0,161.0,Noord-Brabant,2020-04-01
+Uden,4.0,165.0,Noord-Brabant,2020-04-02
+Uden,4.0,169.0,Noord-Brabant,2020-04-03
+Uden,4.0,173.0,Noord-Brabant,2020-04-04
+Uden,5.0,178.0,Noord-Brabant,2020-04-05
+Uden,4.0,182.0,Noord-Brabant,2020-04-06
+Uden,3.0,185.0,Noord-Brabant,2020-04-07
+Uden,4.0,189.0,Noord-Brabant,2020-04-08
+Valkenswaard,3.0,39.0,Noord-Brabant,2020-03-31
+Valkenswaard,4.0,43.0,Noord-Brabant,2020-04-01
+Valkenswaard,5.0,48.0,Noord-Brabant,2020-04-02
+Valkenswaard,4.0,52.0,Noord-Brabant,2020-04-03
+Valkenswaard,4.0,56.0,Noord-Brabant,2020-04-04
+Valkenswaard,5.0,61.0,Noord-Brabant,2020-04-05
+Valkenswaard,4.0,65.0,Noord-Brabant,2020-04-06
+Valkenswaard,3.0,68.0,Noord-Brabant,2020-04-07
+Valkenswaard,4.0,72.0,Noord-Brabant,2020-04-08
+Veldhoven,2.0,30.0,Noord-Brabant,2020-03-31
+Veldhoven,2.0,32.0,Noord-Brabant,2020-04-01
+Veldhoven,3.0,35.0,Noord-Brabant,2020-04-02
+Veldhoven,2.0,37.0,Noord-Brabant,2020-04-03
+Veldhoven,2.0,39.0,Noord-Brabant,2020-04-04
+Veldhoven,3.0,42.0,Noord-Brabant,2020-04-05
+Veldhoven,2.0,44.0,Noord-Brabant,2020-04-06
+Veldhoven,2.0,46.0,Noord-Brabant,2020-04-07
+Veldhoven,2.0,48.0,Noord-Brabant,2020-04-08
+Vught,2.0,40.0,Noord-Brabant,2020-03-31
+Vught,2.0,42.0,Noord-Brabant,2020-04-01
+Vught,3.0,45.0,Noord-Brabant,2020-04-02
+Vught,2.0,47.0,Noord-Brabant,2020-04-03
+Vught,2.0,49.0,Noord-Brabant,2020-04-04
+Vught,3.0,52.0,Noord-Brabant,2020-04-05
+Vught,2.0,54.0,Noord-Brabant,2020-04-06
+Vught,2.0,56.0,Noord-Brabant,2020-04-07
+Vught,2.0,58.0,Noord-Brabant,2020-04-08
+Waalre,1.0,9.0,Noord-Brabant,2020-03-31
+Waalre,1.0,10.0,Noord-Brabant,2020-04-01
+Waalre,1.0,11.0,Noord-Brabant,2020-04-02
+Waalre,1.0,12.0,Noord-Brabant,2020-04-03
+Waalre,1.0,13.0,Noord-Brabant,2020-04-04
+Waalre,1.0,14.0,Noord-Brabant,2020-04-05
+Waalre,1.0,15.0,Noord-Brabant,2020-04-06
+Waalre,1.0,16.0,Noord-Brabant,2020-04-07
+Waalre,1.0,17.0,Noord-Brabant,2020-04-08
+Waalwijk,1.0,60.0,Noord-Brabant,2020-03-31
+Waalwijk,2.0,62.0,Noord-Brabant,2020-04-01
+Waalwijk,2.0,64.0,Noord-Brabant,2020-04-02
+Waalwijk,2.0,66.0,Noord-Brabant,2020-04-03
+Waalwijk,1.0,67.0,Noord-Brabant,2020-04-04
+Waalwijk,2.0,69.0,Noord-Brabant,2020-04-05
+Waalwijk,2.0,71.0,Noord-Brabant,2020-04-06
+Waalwijk,1.0,72.0,Noord-Brabant,2020-04-07
+Waalwijk,2.0,74.0,Noord-Brabant,2020-04-08
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-03-31
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-01
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-02
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-03
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-04
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-05
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-06
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-07
+Woensdrecht,0.0,6.0,Noord-Brabant,2020-04-08
+Zundert,1.0,26.0,Noord-Brabant,2020-03-31
+Zundert,1.0,27.0,Noord-Brabant,2020-04-01
+Zundert,1.0,28.0,Noord-Brabant,2020-04-02
+Zundert,1.0,29.0,Noord-Brabant,2020-04-03
+Zundert,1.0,30.0,Noord-Brabant,2020-04-04
+Zundert,1.0,31.0,Noord-Brabant,2020-04-05
+Zundert,1.0,32.0,Noord-Brabant,2020-04-06
+Zundert,1.0,33.0,Noord-Brabant,2020-04-07
+Zundert,1.0,34.0,Noord-Brabant,2020-04-08
+Wormerland,1.0,14.0,Noord-Holland,2020-03-31
+Wormerland,1.0,15.0,Noord-Holland,2020-04-01
+Wormerland,1.0,16.0,Noord-Holland,2020-04-02
+Wormerland,1.0,17.0,Noord-Holland,2020-04-03
+Wormerland,1.0,18.0,Noord-Holland,2020-04-04
+Wormerland,1.0,19.0,Noord-Holland,2020-04-05
+Wormerland,1.0,20.0,Noord-Holland,2020-04-06
+Wormerland,1.0,21.0,Noord-Holland,2020-04-07
+Wormerland,1.0,22.0,Noord-Holland,2020-04-08
+Landgraaf,3.0,35.0,Limburg,2020-03-31
+Landgraaf,3.0,38.0,Limburg,2020-04-01
+Landgraaf,3.0,41.0,Limburg,2020-04-02
+Landgraaf,3.0,44.0,Limburg,2020-04-03
+Landgraaf,3.0,47.0,Limburg,2020-04-04
+Landgraaf,4.0,51.0,Limburg,2020-04-05
+Landgraaf,3.0,54.0,Limburg,2020-04-06
+Landgraaf,2.0,56.0,Limburg,2020-04-07
+Landgraaf,3.0,59.0,Limburg,2020-04-08
+Beek,0.0,15.0,Limburg,2020-03-31
+Beek,0.0,15.0,Limburg,2020-04-01
+Beek,0.0,15.0,Limburg,2020-04-02
+Beek,0.0,15.0,Limburg,2020-04-03
+Beek,0.0,15.0,Limburg,2020-04-04
+Beek,0.0,15.0,Limburg,2020-04-05
+Beek,0.0,15.0,Limburg,2020-04-06
+Beek,0.0,15.0,Limburg,2020-04-07
+Beek,0.0,15.0,Limburg,2020-04-08
+Beesel,0.0,15.0,Limburg,2020-03-31
+Beesel,0.0,15.0,Limburg,2020-04-01
+Beesel,0.0,15.0,Limburg,2020-04-02
+Beesel,0.0,15.0,Limburg,2020-04-03
+Beesel,0.0,15.0,Limburg,2020-04-04
+Beesel,1.0,16.0,Limburg,2020-04-05
+Beesel,0.0,16.0,Limburg,2020-04-06
+Beesel,0.0,16.0,Limburg,2020-04-07
+Beesel,0.0,16.0,Limburg,2020-04-08
+Bergen (L.),0.0,4.0,Limburg,2020-03-31
+Bergen (L.),0.0,4.0,Limburg,2020-04-01
+Bergen (L.),0.0,4.0,Limburg,2020-04-02
+Bergen (L.),0.0,4.0,Limburg,2020-04-03
+Bergen (L.),0.0,4.0,Limburg,2020-04-04
+Bergen (L.),0.0,4.0,Limburg,2020-04-05
+Bergen (L.),0.0,4.0,Limburg,2020-04-06
+Bergen (L.),0.0,4.0,Limburg,2020-04-07
+Bergen (L.),0.0,4.0,Limburg,2020-04-08
+Brunssum,1.0,32.0,Limburg,2020-03-31
+Brunssum,1.0,33.0,Limburg,2020-04-01
+Brunssum,1.0,34.0,Limburg,2020-04-02
+Brunssum,1.0,35.0,Limburg,2020-04-03
+Brunssum,1.0,36.0,Limburg,2020-04-04
+Brunssum,1.0,37.0,Limburg,2020-04-05
+Brunssum,1.0,38.0,Limburg,2020-04-06
+Brunssum,1.0,39.0,Limburg,2020-04-07
+Brunssum,1.0,40.0,Limburg,2020-04-08
+Gennep,1.0,20.0,Limburg,2020-03-31
+Gennep,1.0,21.0,Limburg,2020-04-01
+Gennep,1.0,22.0,Limburg,2020-04-02
+Gennep,1.0,23.0,Limburg,2020-04-03
+Gennep,1.0,24.0,Limburg,2020-04-04
+Gennep,1.0,25.0,Limburg,2020-04-05
+Gennep,1.0,26.0,Limburg,2020-04-06
+Gennep,1.0,27.0,Limburg,2020-04-07
+Gennep,1.0,28.0,Limburg,2020-04-08
+Heerlen,6.0,93.0,Limburg,2020-03-31
+Heerlen,7.0,100.0,Limburg,2020-04-01
+Heerlen,7.0,107.0,Limburg,2020-04-02
+Heerlen,7.0,114.0,Limburg,2020-04-03
+Heerlen,6.0,120.0,Limburg,2020-04-04
+Heerlen,8.0,128.0,Limburg,2020-04-05
+Heerlen,6.0,134.0,Limburg,2020-04-06
+Heerlen,5.0,139.0,Limburg,2020-04-07
+Heerlen,7.0,146.0,Limburg,2020-04-08
+Kerkrade,3.0,39.0,Limburg,2020-03-31
+Kerkrade,3.0,42.0,Limburg,2020-04-01
+Kerkrade,4.0,46.0,Limburg,2020-04-02
+Kerkrade,3.0,49.0,Limburg,2020-04-03
+Kerkrade,3.0,52.0,Limburg,2020-04-04
+Kerkrade,4.0,56.0,Limburg,2020-04-05
+Kerkrade,3.0,59.0,Limburg,2020-04-06
+Kerkrade,2.0,61.0,Limburg,2020-04-07
+Kerkrade,3.0,64.0,Limburg,2020-04-08
+Maastricht,12.0,197.0,Limburg,2020-03-31
+Maastricht,15.0,212.0,Limburg,2020-04-01
+Maastricht,16.0,228.0,Limburg,2020-04-02
+Maastricht,15.0,243.0,Limburg,2020-04-03
+Maastricht,13.0,256.0,Limburg,2020-04-04
+Maastricht,18.0,274.0,Limburg,2020-04-05
+Maastricht,14.0,288.0,Limburg,2020-04-06
+Maastricht,11.0,299.0,Limburg,2020-04-07
+Maastricht,14.0,313.0,Limburg,2020-04-08
+Meerssen,2.0,15.0,Limburg,2020-03-31
+Meerssen,2.0,17.0,Limburg,2020-04-01
+Meerssen,2.0,19.0,Limburg,2020-04-02
+Meerssen,2.0,21.0,Limburg,2020-04-03
+Meerssen,2.0,23.0,Limburg,2020-04-04
+Meerssen,3.0,26.0,Limburg,2020-04-05
+Meerssen,2.0,28.0,Limburg,2020-04-06
+Meerssen,1.0,29.0,Limburg,2020-04-07
+Meerssen,2.0,31.0,Limburg,2020-04-08
+Mook en Middelaar,0.0,8.0,Limburg,2020-03-31
+Mook en Middelaar,1.0,9.0,Limburg,2020-04-01
+Mook en Middelaar,1.0,10.0,Limburg,2020-04-02
+Mook en Middelaar,1.0,11.0,Limburg,2020-04-03
+Mook en Middelaar,0.0,11.0,Limburg,2020-04-04
+Mook en Middelaar,1.0,12.0,Limburg,2020-04-05
+Mook en Middelaar,0.0,12.0,Limburg,2020-04-06
+Mook en Middelaar,0.0,12.0,Limburg,2020-04-07
+Mook en Middelaar,0.0,12.0,Limburg,2020-04-08
+Nederweert,0.0,27.0,Limburg,2020-03-31
+Nederweert,1.0,28.0,Limburg,2020-04-01
+Nederweert,1.0,29.0,Limburg,2020-04-02
+Nederweert,1.0,30.0,Limburg,2020-04-03
+Nederweert,1.0,31.0,Limburg,2020-04-04
+Nederweert,1.0,32.0,Limburg,2020-04-05
+Nederweert,1.0,33.0,Limburg,2020-04-06
+Nederweert,0.0,33.0,Limburg,2020-04-07
+Nederweert,1.0,34.0,Limburg,2020-04-08
+Roermond,3.0,41.0,Limburg,2020-03-31
+Roermond,4.0,45.0,Limburg,2020-04-01
+Roermond,4.0,49.0,Limburg,2020-04-02
+Roermond,4.0,53.0,Limburg,2020-04-03
+Roermond,3.0,56.0,Limburg,2020-04-04
+Roermond,4.0,60.0,Limburg,2020-04-05
+Roermond,3.0,63.0,Limburg,2020-04-06
+Roermond,3.0,66.0,Limburg,2020-04-07
+Roermond,3.0,69.0,Limburg,2020-04-08
+Simpelveld,0.0,14.0,Limburg,2020-03-31
+Simpelveld,1.0,15.0,Limburg,2020-04-01
+Simpelveld,1.0,16.0,Limburg,2020-04-02
+Simpelveld,1.0,17.0,Limburg,2020-04-03
+Simpelveld,0.0,17.0,Limburg,2020-04-04
+Simpelveld,1.0,18.0,Limburg,2020-04-05
+Simpelveld,0.0,18.0,Limburg,2020-04-06
+Simpelveld,0.0,18.0,Limburg,2020-04-07
+Simpelveld,0.0,18.0,Limburg,2020-04-08
+Stein,1.0,35.0,Limburg,2020-03-31
+Stein,1.0,36.0,Limburg,2020-04-01
+Stein,2.0,38.0,Limburg,2020-04-02
+Stein,1.0,39.0,Limburg,2020-04-03
+Stein,1.0,40.0,Limburg,2020-04-04
+Stein,2.0,42.0,Limburg,2020-04-05
+Stein,1.0,43.0,Limburg,2020-04-06
+Stein,1.0,44.0,Limburg,2020-04-07
+Stein,1.0,45.0,Limburg,2020-04-08
+Vaals,0.0,9.0,Limburg,2020-03-31
+Vaals,0.0,9.0,Limburg,2020-04-01
+Vaals,0.0,9.0,Limburg,2020-04-02
+Vaals,0.0,9.0,Limburg,2020-04-03
+Vaals,0.0,9.0,Limburg,2020-04-04
+Vaals,0.0,9.0,Limburg,2020-04-05
+Vaals,0.0,9.0,Limburg,2020-04-06
+Vaals,0.0,9.0,Limburg,2020-04-07
+Vaals,0.0,9.0,Limburg,2020-04-08
+Venlo,6.0,102.0,Limburg,2020-03-31
+Venlo,7.0,109.0,Limburg,2020-04-01
+Venlo,8.0,117.0,Limburg,2020-04-02
+Venlo,7.0,124.0,Limburg,2020-04-03
+Venlo,6.0,130.0,Limburg,2020-04-04
+Venlo,9.0,139.0,Limburg,2020-04-05
+Venlo,7.0,146.0,Limburg,2020-04-06
+Venlo,5.0,151.0,Limburg,2020-04-07
+Venlo,7.0,158.0,Limburg,2020-04-08
+Venray,2.0,39.0,Limburg,2020-03-31
+Venray,2.0,41.0,Limburg,2020-04-01
+Venray,2.0,43.0,Limburg,2020-04-02
+Venray,2.0,45.0,Limburg,2020-04-03
+Venray,2.0,47.0,Limburg,2020-04-04
+Venray,2.0,49.0,Limburg,2020-04-05
+Venray,2.0,51.0,Limburg,2020-04-06
+Venray,1.0,52.0,Limburg,2020-04-07
+Venray,2.0,54.0,Limburg,2020-04-08
+Voerendaal,0.0,13.0,Limburg,2020-03-31
+Voerendaal,0.0,13.0,Limburg,2020-04-01
+Voerendaal,0.0,13.0,Limburg,2020-04-02
+Voerendaal,0.0,13.0,Limburg,2020-04-03
+Voerendaal,0.0,13.0,Limburg,2020-04-04
+Voerendaal,1.0,14.0,Limburg,2020-04-05
+Voerendaal,0.0,14.0,Limburg,2020-04-06
+Voerendaal,0.0,14.0,Limburg,2020-04-07
+Voerendaal,0.0,14.0,Limburg,2020-04-08
+Weert,3.0,46.0,Limburg,2020-03-31
+Weert,4.0,50.0,Limburg,2020-04-01
+Weert,4.0,54.0,Limburg,2020-04-02
+Weert,4.0,58.0,Limburg,2020-04-03
+Weert,4.0,62.0,Limburg,2020-04-04
+Weert,5.0,67.0,Limburg,2020-04-05
+Weert,4.0,71.0,Limburg,2020-04-06
+Weert,3.0,74.0,Limburg,2020-04-07
+Weert,4.0,78.0,Limburg,2020-04-08
+Valkenburg aan de Geul,2.0,17.0,Limburg,2020-03-31
+Valkenburg aan de Geul,3.0,20.0,Limburg,2020-04-01
+Valkenburg aan de Geul,3.0,23.0,Limburg,2020-04-02
+Valkenburg aan de Geul,3.0,26.0,Limburg,2020-04-03
+Valkenburg aan de Geul,2.0,28.0,Limburg,2020-04-04
+Valkenburg aan de Geul,3.0,31.0,Limburg,2020-04-05
+Valkenburg aan de Geul,2.0,33.0,Limburg,2020-04-06
+Valkenburg aan de Geul,2.0,35.0,Limburg,2020-04-07
+Valkenburg aan de Geul,2.0,37.0,Limburg,2020-04-08
+Lelystad,2.0,36.0,Flevoland,2020-03-31
+Lelystad,2.0,38.0,Flevoland,2020-04-01
+Lelystad,2.0,40.0,Flevoland,2020-04-02
+Lelystad,2.0,42.0,Flevoland,2020-04-03
+Lelystad,2.0,44.0,Flevoland,2020-04-04
+Lelystad,2.0,46.0,Flevoland,2020-04-05
+Lelystad,2.0,48.0,Flevoland,2020-04-06
+Lelystad,1.0,49.0,Flevoland,2020-04-07
+Lelystad,2.0,51.0,Flevoland,2020-04-08
+Horst aan de Maas,2.0,36.0,Limburg,2020-03-31
+Horst aan de Maas,3.0,39.0,Limburg,2020-04-01
+Horst aan de Maas,3.0,42.0,Limburg,2020-04-02
+Horst aan de Maas,3.0,45.0,Limburg,2020-04-03
+Horst aan de Maas,2.0,47.0,Limburg,2020-04-04
+Horst aan de Maas,3.0,50.0,Limburg,2020-04-05
+Horst aan de Maas,3.0,53.0,Limburg,2020-04-06
+Horst aan de Maas,2.0,55.0,Limburg,2020-04-07
+Horst aan de Maas,3.0,58.0,Limburg,2020-04-08
+Oude IJsselstreek,1.0,11.0,Gelderland,2020-03-31
+Oude IJsselstreek,1.0,12.0,Gelderland,2020-04-01
+Oude IJsselstreek,1.0,13.0,Gelderland,2020-04-02
+Oude IJsselstreek,1.0,14.0,Gelderland,2020-04-03
+Oude IJsselstreek,1.0,15.0,Gelderland,2020-04-04
+Oude IJsselstreek,1.0,16.0,Gelderland,2020-04-05
+Oude IJsselstreek,1.0,17.0,Gelderland,2020-04-06
+Oude IJsselstreek,1.0,18.0,Gelderland,2020-04-07
+Oude IJsselstreek,1.0,19.0,Gelderland,2020-04-08
+Teylingen,1.0,14.0,Zuid-Holland,2020-03-31
+Teylingen,1.0,15.0,Zuid-Holland,2020-04-01
+Teylingen,1.0,16.0,Zuid-Holland,2020-04-02
+Teylingen,1.0,17.0,Zuid-Holland,2020-04-03
+Teylingen,1.0,18.0,Zuid-Holland,2020-04-04
+Teylingen,1.0,19.0,Zuid-Holland,2020-04-05
+Teylingen,1.0,20.0,Zuid-Holland,2020-04-06
+Teylingen,1.0,21.0,Zuid-Holland,2020-04-07
+Teylingen,1.0,22.0,Zuid-Holland,2020-04-08
+Utrechtse Heuvelrug,2.0,34.0,Utrecht,2020-03-31
+Utrechtse Heuvelrug,2.0,36.0,Utrecht,2020-04-01
+Utrechtse Heuvelrug,2.0,38.0,Utrecht,2020-04-02
+Utrechtse Heuvelrug,2.0,40.0,Utrecht,2020-04-03
+Utrechtse Heuvelrug,2.0,42.0,Utrecht,2020-04-04
+Utrechtse Heuvelrug,3.0,45.0,Utrecht,2020-04-05
+Utrechtse Heuvelrug,2.0,47.0,Utrecht,2020-04-06
+Utrechtse Heuvelrug,1.0,48.0,Utrecht,2020-04-07
+Utrechtse Heuvelrug,2.0,50.0,Utrecht,2020-04-08
+Oost Gelre,1.0,12.0,Gelderland,2020-03-31
+Oost Gelre,1.0,13.0,Gelderland,2020-04-01
+Oost Gelre,1.0,14.0,Gelderland,2020-04-02
+Oost Gelre,1.0,15.0,Gelderland,2020-04-03
+Oost Gelre,1.0,16.0,Gelderland,2020-04-04
+Oost Gelre,1.0,17.0,Gelderland,2020-04-05
+Oost Gelre,1.0,18.0,Gelderland,2020-04-06
+Oost Gelre,1.0,19.0,Gelderland,2020-04-07
+Oost Gelre,1.0,20.0,Gelderland,2020-04-08
+Koggenland,0.0,10.0,Noord-Holland,2020-03-31
+Koggenland,1.0,11.0,Noord-Holland,2020-04-01
+Koggenland,1.0,12.0,Noord-Holland,2020-04-02
+Koggenland,1.0,13.0,Noord-Holland,2020-04-03
+Koggenland,0.0,13.0,Noord-Holland,2020-04-04
+Koggenland,1.0,14.0,Noord-Holland,2020-04-05
+Koggenland,0.0,14.0,Noord-Holland,2020-04-06
+Koggenland,0.0,14.0,Noord-Holland,2020-04-07
+Koggenland,0.0,14.0,Noord-Holland,2020-04-08
+Lansingerland,4.0,53.0,Zuid-Holland,2020-03-31
+Lansingerland,5.0,58.0,Zuid-Holland,2020-04-01
+Lansingerland,5.0,63.0,Zuid-Holland,2020-04-02
+Lansingerland,5.0,68.0,Zuid-Holland,2020-04-03
+Lansingerland,4.0,72.0,Zuid-Holland,2020-04-04
+Lansingerland,6.0,78.0,Zuid-Holland,2020-04-05
+Lansingerland,4.0,82.0,Zuid-Holland,2020-04-06
+Lansingerland,3.0,85.0,Zuid-Holland,2020-04-07
+Lansingerland,4.0,89.0,Zuid-Holland,2020-04-08
+Leudal,3.0,55.0,Limburg,2020-03-31
+Leudal,3.0,58.0,Limburg,2020-04-01
+Leudal,4.0,62.0,Limburg,2020-04-02
+Leudal,3.0,65.0,Limburg,2020-04-03
+Leudal,3.0,68.0,Limburg,2020-04-04
+Leudal,4.0,72.0,Limburg,2020-04-05
+Leudal,3.0,75.0,Limburg,2020-04-06
+Leudal,3.0,78.0,Limburg,2020-04-07
+Leudal,3.0,81.0,Limburg,2020-04-08
+Maasgouw,2.0,15.0,Limburg,2020-03-31
+Maasgouw,3.0,18.0,Limburg,2020-04-01
+Maasgouw,3.0,21.0,Limburg,2020-04-02
+Maasgouw,3.0,24.0,Limburg,2020-04-03
+Maasgouw,2.0,26.0,Limburg,2020-04-04
+Maasgouw,3.0,29.0,Limburg,2020-04-05
+Maasgouw,3.0,32.0,Limburg,2020-04-06
+Maasgouw,2.0,34.0,Limburg,2020-04-07
+Maasgouw,3.0,37.0,Limburg,2020-04-08
+Gemert-Bakel,2.0,96.0,Noord-Brabant,2020-03-31
+Gemert-Bakel,2.0,98.0,Noord-Brabant,2020-04-01
+Gemert-Bakel,3.0,101.0,Noord-Brabant,2020-04-02
+Gemert-Bakel,2.0,103.0,Noord-Brabant,2020-04-03
+Gemert-Bakel,2.0,105.0,Noord-Brabant,2020-04-04
+Gemert-Bakel,3.0,108.0,Noord-Brabant,2020-04-05
+Gemert-Bakel,2.0,110.0,Noord-Brabant,2020-04-06
+Gemert-Bakel,2.0,112.0,Noord-Brabant,2020-04-07
+Gemert-Bakel,2.0,114.0,Noord-Brabant,2020-04-08
+Halderberge,1.0,15.0,Noord-Brabant,2020-03-31
+Halderberge,2.0,17.0,Noord-Brabant,2020-04-01
+Halderberge,2.0,19.0,Noord-Brabant,2020-04-02
+Halderberge,2.0,21.0,Noord-Brabant,2020-04-03
+Halderberge,1.0,22.0,Noord-Brabant,2020-04-04
+Halderberge,2.0,24.0,Noord-Brabant,2020-04-05
+Halderberge,2.0,26.0,Noord-Brabant,2020-04-06
+Halderberge,1.0,27.0,Noord-Brabant,2020-04-07
+Halderberge,2.0,29.0,Noord-Brabant,2020-04-08
+Heeze-Leende,1.0,17.0,Noord-Brabant,2020-03-31
+Heeze-Leende,1.0,18.0,Noord-Brabant,2020-04-01
+Heeze-Leende,2.0,20.0,Noord-Brabant,2020-04-02
+Heeze-Leende,1.0,21.0,Noord-Brabant,2020-04-03
+Heeze-Leende,1.0,22.0,Noord-Brabant,2020-04-04
+Heeze-Leende,2.0,24.0,Noord-Brabant,2020-04-05
+Heeze-Leende,1.0,25.0,Noord-Brabant,2020-04-06
+Heeze-Leende,1.0,26.0,Noord-Brabant,2020-04-07
+Heeze-Leende,1.0,27.0,Noord-Brabant,2020-04-08
+Laarbeek,1.0,46.0,Noord-Brabant,2020-03-31
+Laarbeek,2.0,48.0,Noord-Brabant,2020-04-01
+Laarbeek,2.0,50.0,Noord-Brabant,2020-04-02
+Laarbeek,2.0,52.0,Noord-Brabant,2020-04-03
+Laarbeek,2.0,54.0,Noord-Brabant,2020-04-04
+Laarbeek,2.0,56.0,Noord-Brabant,2020-04-05
+Laarbeek,2.0,58.0,Noord-Brabant,2020-04-06
+Laarbeek,1.0,59.0,Noord-Brabant,2020-04-07
+Laarbeek,2.0,61.0,Noord-Brabant,2020-04-08
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-03-31
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-01
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-02
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-03
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-04
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-05
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-06
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-07
+Reusel-De Mierden,0.0,7.0,Noord-Brabant,2020-04-08
+Roerdalen,1.0,19.0,Limburg,2020-03-31
+Roerdalen,1.0,20.0,Limburg,2020-04-01
+Roerdalen,1.0,21.0,Limburg,2020-04-02
+Roerdalen,1.0,22.0,Limburg,2020-04-03
+Roerdalen,1.0,23.0,Limburg,2020-04-04
+Roerdalen,1.0,24.0,Limburg,2020-04-05
+Roerdalen,1.0,25.0,Limburg,2020-04-06
+Roerdalen,1.0,26.0,Limburg,2020-04-07
+Roerdalen,1.0,27.0,Limburg,2020-04-08
+Roosendaal,4.0,30.0,Noord-Brabant,2020-03-31
+Roosendaal,6.0,36.0,Noord-Brabant,2020-04-01
+Roosendaal,6.0,42.0,Noord-Brabant,2020-04-02
+Roosendaal,6.0,48.0,Noord-Brabant,2020-04-03
+Roosendaal,5.0,53.0,Noord-Brabant,2020-04-04
+Roosendaal,7.0,60.0,Noord-Brabant,2020-04-05
+Roosendaal,5.0,65.0,Noord-Brabant,2020-04-06
+Roosendaal,4.0,69.0,Noord-Brabant,2020-04-07
+Roosendaal,5.0,74.0,Noord-Brabant,2020-04-08
+Schouwen-Duiveland,0.0,10.0,Zeeland,2020-03-31
+Schouwen-Duiveland,1.0,11.0,Zeeland,2020-04-01
+Schouwen-Duiveland,1.0,12.0,Zeeland,2020-04-02
+Schouwen-Duiveland,1.0,13.0,Zeeland,2020-04-03
+Schouwen-Duiveland,0.0,13.0,Zeeland,2020-04-04
+Schouwen-Duiveland,1.0,14.0,Zeeland,2020-04-05
+Schouwen-Duiveland,0.0,14.0,Zeeland,2020-04-06
+Schouwen-Duiveland,0.0,14.0,Zeeland,2020-04-07
+Schouwen-Duiveland,0.0,14.0,Zeeland,2020-04-08
+Aa en Hunze,0.0,5.0,Drenthe,2020-03-31
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-01
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-02
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-03
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-04
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-05
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-06
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-07
+Aa en Hunze,0.0,5.0,Drenthe,2020-04-08
+Borger-Odoorn,0.0,2.0,Drenthe,2020-03-31
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-01
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-02
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-03
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-04
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-05
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-06
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-07
+Borger-Odoorn,0.0,2.0,Drenthe,2020-04-08
+Cuijk,1.0,15.0,Noord-Brabant,2020-03-31
+Cuijk,2.0,17.0,Noord-Brabant,2020-04-01
+Cuijk,2.0,19.0,Noord-Brabant,2020-04-02
+Cuijk,2.0,21.0,Noord-Brabant,2020-04-03
+Cuijk,1.0,22.0,Noord-Brabant,2020-04-04
+Cuijk,2.0,24.0,Noord-Brabant,2020-04-05
+Cuijk,1.0,25.0,Noord-Brabant,2020-04-06
+Cuijk,1.0,26.0,Noord-Brabant,2020-04-07
+Cuijk,1.0,27.0,Noord-Brabant,2020-04-08
+Landerd,2.0,52.0,Noord-Brabant,2020-03-31
+Landerd,2.0,54.0,Noord-Brabant,2020-04-01
+Landerd,2.0,56.0,Noord-Brabant,2020-04-02
+Landerd,2.0,58.0,Noord-Brabant,2020-04-03
+Landerd,2.0,60.0,Noord-Brabant,2020-04-04
+Landerd,3.0,63.0,Noord-Brabant,2020-04-05
+Landerd,2.0,65.0,Noord-Brabant,2020-04-06
+Landerd,2.0,67.0,Noord-Brabant,2020-04-07
+Landerd,2.0,69.0,Noord-Brabant,2020-04-08
+De Wolden,1.0,8.0,Drenthe,2020-03-31
+De Wolden,1.0,9.0,Drenthe,2020-04-01
+De Wolden,1.0,10.0,Drenthe,2020-04-02
+De Wolden,1.0,11.0,Drenthe,2020-04-03
+De Wolden,1.0,12.0,Drenthe,2020-04-04
+De Wolden,1.0,13.0,Drenthe,2020-04-05
+De Wolden,1.0,14.0,Drenthe,2020-04-06
+De Wolden,1.0,15.0,Drenthe,2020-04-07
+De Wolden,1.0,16.0,Drenthe,2020-04-08
+Noord-Beveland,0.0,2.0,Zeeland,2020-03-31
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-01
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-02
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-03
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-04
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-05
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-06
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-07
+Noord-Beveland,0.0,2.0,Zeeland,2020-04-08
+Wijdemeren,0.0,5.0,Noord-Holland,2020-03-31
+Wijdemeren,0.0,5.0,Noord-Holland,2020-04-01
+Wijdemeren,0.0,5.0,Noord-Holland,2020-04-02
+Wijdemeren,0.0,5.0,Noord-Holland,2020-04-03
+Wijdemeren,0.0,5.0,Noord-Holland,2020-04-04
+Wijdemeren,1.0,6.0,Noord-Holland,2020-04-05
+Wijdemeren,0.0,6.0,Noord-Holland,2020-04-06
+Wijdemeren,0.0,6.0,Noord-Holland,2020-04-07
+Wijdemeren,0.0,6.0,Noord-Holland,2020-04-08
+Noordenveld,0.0,5.0,Drenthe,2020-03-31
+Noordenveld,0.0,5.0,Drenthe,2020-04-01
+Noordenveld,0.0,5.0,Drenthe,2020-04-02
+Noordenveld,0.0,5.0,Drenthe,2020-04-03
+Noordenveld,0.0,5.0,Drenthe,2020-04-04
+Noordenveld,0.0,5.0,Drenthe,2020-04-05
+Noordenveld,0.0,5.0,Drenthe,2020-04-06
+Noordenveld,0.0,5.0,Drenthe,2020-04-07
+Noordenveld,0.0,5.0,Drenthe,2020-04-08
+Twenterand,1.0,9.0,Overijssel,2020-03-31
+Twenterand,1.0,10.0,Overijssel,2020-04-01
+Twenterand,1.0,11.0,Overijssel,2020-04-02
+Twenterand,1.0,12.0,Overijssel,2020-04-03
+Twenterand,1.0,13.0,Overijssel,2020-04-04
+Twenterand,1.0,14.0,Overijssel,2020-04-05
+Twenterand,1.0,15.0,Overijssel,2020-04-06
+Twenterand,1.0,16.0,Overijssel,2020-04-07
+Twenterand,1.0,17.0,Overijssel,2020-04-08
+Westerveld,0.0,6.0,Drenthe,2020-03-31
+Westerveld,1.0,7.0,Drenthe,2020-04-01
+Westerveld,1.0,8.0,Drenthe,2020-04-02
+Westerveld,1.0,9.0,Drenthe,2020-04-03
+Westerveld,0.0,9.0,Drenthe,2020-04-04
+Westerveld,1.0,10.0,Drenthe,2020-04-05
+Westerveld,0.0,10.0,Drenthe,2020-04-06
+Westerveld,0.0,10.0,Drenthe,2020-04-07
+Westerveld,0.0,10.0,Drenthe,2020-04-08
+Sint Anthonis,1.0,32.0,Noord-Brabant,2020-03-31
+Sint Anthonis,1.0,33.0,Noord-Brabant,2020-04-01
+Sint Anthonis,1.0,34.0,Noord-Brabant,2020-04-02
+Sint Anthonis,1.0,35.0,Noord-Brabant,2020-04-03
+Sint Anthonis,1.0,36.0,Noord-Brabant,2020-04-04
+Sint Anthonis,1.0,37.0,Noord-Brabant,2020-04-05
+Sint Anthonis,1.0,38.0,Noord-Brabant,2020-04-06
+Sint Anthonis,1.0,39.0,Noord-Brabant,2020-04-07
+Sint Anthonis,1.0,40.0,Noord-Brabant,2020-04-08
+Lingewaard,1.0,29.0,Gelderland,2020-03-31
+Lingewaard,1.0,30.0,Gelderland,2020-04-01
+Lingewaard,1.0,31.0,Gelderland,2020-04-02
+Lingewaard,1.0,32.0,Gelderland,2020-04-03
+Lingewaard,1.0,33.0,Gelderland,2020-04-04
+Lingewaard,2.0,35.0,Gelderland,2020-04-05
+Lingewaard,1.0,36.0,Gelderland,2020-04-06
+Lingewaard,1.0,37.0,Gelderland,2020-04-07
+Lingewaard,1.0,38.0,Gelderland,2020-04-08
+Cranendonck,3.0,61.0,Noord-Brabant,2020-03-31
+Cranendonck,4.0,65.0,Noord-Brabant,2020-04-01
+Cranendonck,4.0,69.0,Noord-Brabant,2020-04-02
+Cranendonck,4.0,73.0,Noord-Brabant,2020-04-03
+Cranendonck,3.0,76.0,Noord-Brabant,2020-04-04
+Cranendonck,4.0,80.0,Noord-Brabant,2020-04-05
+Cranendonck,3.0,83.0,Noord-Brabant,2020-04-06
+Cranendonck,3.0,86.0,Noord-Brabant,2020-04-07
+Cranendonck,3.0,89.0,Noord-Brabant,2020-04-08
+Steenwijkerland,1.0,11.0,Overijssel,2020-03-31
+Steenwijkerland,1.0,12.0,Overijssel,2020-04-01
+Steenwijkerland,1.0,13.0,Overijssel,2020-04-02
+Steenwijkerland,1.0,14.0,Overijssel,2020-04-03
+Steenwijkerland,1.0,15.0,Overijssel,2020-04-04
+Steenwijkerland,2.0,17.0,Overijssel,2020-04-05
+Steenwijkerland,1.0,18.0,Overijssel,2020-04-06
+Steenwijkerland,1.0,19.0,Overijssel,2020-04-07
+Steenwijkerland,1.0,20.0,Overijssel,2020-04-08
+Moerdijk,1.0,13.0,Noord-Brabant,2020-03-31
+Moerdijk,1.0,14.0,Noord-Brabant,2020-04-01
+Moerdijk,1.0,15.0,Noord-Brabant,2020-04-02
+Moerdijk,1.0,16.0,Noord-Brabant,2020-04-03
+Moerdijk,1.0,17.0,Noord-Brabant,2020-04-04
+Moerdijk,2.0,19.0,Noord-Brabant,2020-04-05
+Moerdijk,1.0,20.0,Noord-Brabant,2020-04-06
+Moerdijk,1.0,21.0,Noord-Brabant,2020-04-07
+Moerdijk,1.0,22.0,Noord-Brabant,2020-04-08
+Echt-Susteren,1.0,33.0,Limburg,2020-03-31
+Echt-Susteren,2.0,35.0,Limburg,2020-04-01
+Echt-Susteren,2.0,37.0,Limburg,2020-04-02
+Echt-Susteren,2.0,39.0,Limburg,2020-04-03
+Echt-Susteren,2.0,41.0,Limburg,2020-04-04
+Echt-Susteren,2.0,43.0,Limburg,2020-04-05
+Echt-Susteren,2.0,45.0,Limburg,2020-04-06
+Echt-Susteren,1.0,46.0,Limburg,2020-04-07
+Echt-Susteren,2.0,48.0,Limburg,2020-04-08
+Sluis,0.0,6.0,Zeeland,2020-03-31
+Sluis,0.0,6.0,Zeeland,2020-04-01
+Sluis,0.0,6.0,Zeeland,2020-04-02
+Sluis,0.0,6.0,Zeeland,2020-04-03
+Sluis,0.0,6.0,Zeeland,2020-04-04
+Sluis,0.0,6.0,Zeeland,2020-04-05
+Sluis,0.0,6.0,Zeeland,2020-04-06
+Sluis,0.0,6.0,Zeeland,2020-04-07
+Sluis,0.0,6.0,Zeeland,2020-04-08
+Drimmelen,0.0,30.0,Noord-Brabant,2020-03-31
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-01
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-02
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-03
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-04
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-05
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-06
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-07
+Drimmelen,0.0,30.0,Noord-Brabant,2020-04-08
+Bernheze,4.0,121.0,Noord-Brabant,2020-03-31
+Bernheze,5.0,126.0,Noord-Brabant,2020-04-01
+Bernheze,5.0,131.0,Noord-Brabant,2020-04-02
+Bernheze,5.0,136.0,Noord-Brabant,2020-04-03
+Bernheze,4.0,140.0,Noord-Brabant,2020-04-04
+Bernheze,6.0,146.0,Noord-Brabant,2020-04-05
+Bernheze,5.0,151.0,Noord-Brabant,2020-04-06
+Bernheze,4.0,155.0,Noord-Brabant,2020-04-07
+Bernheze,5.0,160.0,Noord-Brabant,2020-04-08
+Alphen-Chaam,1.0,27.0,Noord-Brabant,2020-03-31
+Alphen-Chaam,1.0,28.0,Noord-Brabant,2020-04-01
+Alphen-Chaam,1.0,29.0,Noord-Brabant,2020-04-02
+Alphen-Chaam,1.0,30.0,Noord-Brabant,2020-04-03
+Alphen-Chaam,1.0,31.0,Noord-Brabant,2020-04-04
+Alphen-Chaam,1.0,32.0,Noord-Brabant,2020-04-05
+Alphen-Chaam,1.0,33.0,Noord-Brabant,2020-04-06
+Alphen-Chaam,1.0,34.0,Noord-Brabant,2020-04-07
+Alphen-Chaam,1.0,35.0,Noord-Brabant,2020-04-08
+Bergeijk,1.0,15.0,Noord-Brabant,2020-03-31
+Bergeijk,1.0,16.0,Noord-Brabant,2020-04-01
+Bergeijk,1.0,17.0,Noord-Brabant,2020-04-02
+Bergeijk,1.0,18.0,Noord-Brabant,2020-04-03
+Bergeijk,1.0,19.0,Noord-Brabant,2020-04-04
+Bergeijk,1.0,20.0,Noord-Brabant,2020-04-05
+Bergeijk,1.0,21.0,Noord-Brabant,2020-04-06
+Bergeijk,1.0,22.0,Noord-Brabant,2020-04-07
+Bergeijk,1.0,23.0,Noord-Brabant,2020-04-08
+Bladel,1.0,22.0,Noord-Brabant,2020-03-31
+Bladel,1.0,23.0,Noord-Brabant,2020-04-01
+Bladel,1.0,24.0,Noord-Brabant,2020-04-02
+Bladel,1.0,25.0,Noord-Brabant,2020-04-03
+Bladel,1.0,26.0,Noord-Brabant,2020-04-04
+Bladel,1.0,27.0,Noord-Brabant,2020-04-05
+Bladel,1.0,28.0,Noord-Brabant,2020-04-06
+Bladel,1.0,29.0,Noord-Brabant,2020-04-07
+Bladel,1.0,30.0,Noord-Brabant,2020-04-08
+Gulpen-Wittem,1.0,12.0,Limburg,2020-03-31
+Gulpen-Wittem,1.0,13.0,Limburg,2020-04-01
+Gulpen-Wittem,2.0,15.0,Limburg,2020-04-02
+Gulpen-Wittem,1.0,16.0,Limburg,2020-04-03
+Gulpen-Wittem,1.0,17.0,Limburg,2020-04-04
+Gulpen-Wittem,2.0,19.0,Limburg,2020-04-05
+Gulpen-Wittem,1.0,20.0,Limburg,2020-04-06
+Gulpen-Wittem,1.0,21.0,Limburg,2020-04-07
+Gulpen-Wittem,1.0,22.0,Limburg,2020-04-08
+Tynaarlo,1.0,18.0,Drenthe,2020-03-31
+Tynaarlo,1.0,19.0,Drenthe,2020-04-01
+Tynaarlo,1.0,20.0,Drenthe,2020-04-02
+Tynaarlo,1.0,21.0,Drenthe,2020-04-03
+Tynaarlo,1.0,22.0,Drenthe,2020-04-04
+Tynaarlo,1.0,23.0,Drenthe,2020-04-05
+Tynaarlo,1.0,24.0,Drenthe,2020-04-06
+Tynaarlo,1.0,25.0,Drenthe,2020-04-07
+Tynaarlo,1.0,26.0,Drenthe,2020-04-08
+Midden-Drenthe,0.0,5.0,Drenthe,2020-03-31
+Midden-Drenthe,0.0,5.0,Drenthe,2020-04-01
+Midden-Drenthe,0.0,5.0,Drenthe,2020-04-02
+Midden-Drenthe,0.0,5.0,Drenthe,2020-04-03
+Midden-Drenthe,0.0,5.0,Drenthe,2020-04-04
+Midden-Drenthe,1.0,6.0,Drenthe,2020-04-05
+Midden-Drenthe,0.0,6.0,Drenthe,2020-04-06
+Midden-Drenthe,0.0,6.0,Drenthe,2020-04-07
+Midden-Drenthe,0.0,6.0,Drenthe,2020-04-08
+Overbetuwe,1.0,62.0,Gelderland,2020-03-31
+Overbetuwe,1.0,63.0,Gelderland,2020-04-01
+Overbetuwe,2.0,65.0,Gelderland,2020-04-02
+Overbetuwe,1.0,66.0,Gelderland,2020-04-03
+Overbetuwe,1.0,67.0,Gelderland,2020-04-04
+Overbetuwe,2.0,69.0,Gelderland,2020-04-05
+Overbetuwe,1.0,70.0,Gelderland,2020-04-06
+Overbetuwe,1.0,71.0,Gelderland,2020-04-07
+Overbetuwe,1.0,72.0,Gelderland,2020-04-08
+Hof van Twente,1.0,19.0,Overijssel,2020-03-31
+Hof van Twente,1.0,20.0,Overijssel,2020-04-01
+Hof van Twente,1.0,21.0,Overijssel,2020-04-02
+Hof van Twente,1.0,22.0,Overijssel,2020-04-03
+Hof van Twente,1.0,23.0,Overijssel,2020-04-04
+Hof van Twente,1.0,24.0,Overijssel,2020-04-05
+Hof van Twente,1.0,25.0,Overijssel,2020-04-06
+Hof van Twente,1.0,26.0,Overijssel,2020-04-07
+Hof van Twente,1.0,27.0,Overijssel,2020-04-08
+Neder-Betuwe,1.0,34.0,Gelderland,2020-03-31
+Neder-Betuwe,2.0,36.0,Gelderland,2020-04-01
+Neder-Betuwe,2.0,38.0,Gelderland,2020-04-02
+Neder-Betuwe,2.0,40.0,Gelderland,2020-04-03
+Neder-Betuwe,1.0,41.0,Gelderland,2020-04-04
+Neder-Betuwe,2.0,43.0,Gelderland,2020-04-05
+Neder-Betuwe,1.0,44.0,Gelderland,2020-04-06
+Neder-Betuwe,1.0,45.0,Gelderland,2020-04-07
+Neder-Betuwe,1.0,46.0,Gelderland,2020-04-08
+Rijssen-Holten,3.0,24.0,Overijssel,2020-03-31
+Rijssen-Holten,4.0,28.0,Overijssel,2020-04-01
+Rijssen-Holten,4.0,32.0,Overijssel,2020-04-02
+Rijssen-Holten,4.0,36.0,Overijssel,2020-04-03
+Rijssen-Holten,3.0,39.0,Overijssel,2020-04-04
+Rijssen-Holten,5.0,44.0,Overijssel,2020-04-05
+Rijssen-Holten,3.0,47.0,Overijssel,2020-04-06
+Rijssen-Holten,3.0,50.0,Overijssel,2020-04-07
+Rijssen-Holten,3.0,53.0,Overijssel,2020-04-08
+Geldrop-Mierlo,2.0,28.0,Noord-Brabant,2020-03-31
+Geldrop-Mierlo,3.0,31.0,Noord-Brabant,2020-04-01
+Geldrop-Mierlo,3.0,34.0,Noord-Brabant,2020-04-02
+Geldrop-Mierlo,3.0,37.0,Noord-Brabant,2020-04-03
+Geldrop-Mierlo,2.0,39.0,Noord-Brabant,2020-04-04
+Geldrop-Mierlo,4.0,43.0,Noord-Brabant,2020-04-05
+Geldrop-Mierlo,3.0,46.0,Noord-Brabant,2020-04-06
+Geldrop-Mierlo,2.0,48.0,Noord-Brabant,2020-04-07
+Geldrop-Mierlo,3.0,51.0,Noord-Brabant,2020-04-08
+Olst-Wijhe,1.0,10.0,Overijssel,2020-03-31
+Olst-Wijhe,1.0,11.0,Overijssel,2020-04-01
+Olst-Wijhe,1.0,12.0,Overijssel,2020-04-02
+Olst-Wijhe,1.0,13.0,Overijssel,2020-04-03
+Olst-Wijhe,1.0,14.0,Overijssel,2020-04-04
+Olst-Wijhe,2.0,16.0,Overijssel,2020-04-05
+Olst-Wijhe,1.0,17.0,Overijssel,2020-04-06
+Olst-Wijhe,1.0,18.0,Overijssel,2020-04-07
+Olst-Wijhe,1.0,19.0,Overijssel,2020-04-08
+Dinkelland,1.0,35.0,Overijssel,2020-03-31
+Dinkelland,1.0,36.0,Overijssel,2020-04-01
+Dinkelland,2.0,38.0,Overijssel,2020-04-02
+Dinkelland,1.0,39.0,Overijssel,2020-04-03
+Dinkelland,1.0,40.0,Overijssel,2020-04-04
+Dinkelland,2.0,42.0,Overijssel,2020-04-05
+Dinkelland,1.0,43.0,Overijssel,2020-04-06
+Dinkelland,1.0,44.0,Overijssel,2020-04-07
+Dinkelland,1.0,45.0,Overijssel,2020-04-08
+Westland,4.0,65.0,Zuid-Holland,2020-03-31
+Westland,5.0,70.0,Zuid-Holland,2020-04-01
+Westland,5.0,75.0,Zuid-Holland,2020-04-02
+Westland,5.0,80.0,Zuid-Holland,2020-04-03
+Westland,4.0,84.0,Zuid-Holland,2020-04-04
+Westland,6.0,90.0,Zuid-Holland,2020-04-05
+Westland,4.0,94.0,Zuid-Holland,2020-04-06
+Westland,3.0,97.0,Zuid-Holland,2020-04-07
+Westland,4.0,101.0,Zuid-Holland,2020-04-08
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-03-31
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-01
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-02
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-03
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-04
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-05
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-06
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-07
+Midden-Delfland,0.0,4.0,Zuid-Holland,2020-04-08
+Berkelland,0.0,5.0,Gelderland,2020-03-31
+Berkelland,1.0,6.0,Gelderland,2020-04-01
+Berkelland,1.0,7.0,Gelderland,2020-04-02
+Berkelland,1.0,8.0,Gelderland,2020-04-03
+Berkelland,1.0,9.0,Gelderland,2020-04-04
+Berkelland,1.0,10.0,Gelderland,2020-04-05
+Berkelland,1.0,11.0,Gelderland,2020-04-06
+Berkelland,0.0,11.0,Gelderland,2020-04-07
+Berkelland,1.0,12.0,Gelderland,2020-04-08
+Bronckhorst,0.0,11.0,Gelderland,2020-03-31
+Bronckhorst,0.0,11.0,Gelderland,2020-04-01
+Bronckhorst,0.0,11.0,Gelderland,2020-04-02
+Bronckhorst,0.0,11.0,Gelderland,2020-04-03
+Bronckhorst,0.0,11.0,Gelderland,2020-04-04
+Bronckhorst,0.0,11.0,Gelderland,2020-04-05
+Bronckhorst,0.0,11.0,Gelderland,2020-04-06
+Bronckhorst,0.0,11.0,Gelderland,2020-04-07
+Bronckhorst,0.0,11.0,Gelderland,2020-04-08
+Sittard-Geleen,5.0,119.0,Limburg,2020-03-31
+Sittard-Geleen,6.0,125.0,Limburg,2020-04-01
+Sittard-Geleen,7.0,132.0,Limburg,2020-04-02
+Sittard-Geleen,6.0,138.0,Limburg,2020-04-03
+Sittard-Geleen,6.0,144.0,Limburg,2020-04-04
+Sittard-Geleen,8.0,152.0,Limburg,2020-04-05
+Sittard-Geleen,6.0,158.0,Limburg,2020-04-06
+Sittard-Geleen,5.0,163.0,Limburg,2020-04-07
+Sittard-Geleen,6.0,169.0,Limburg,2020-04-08
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-03-31
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-01
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-02
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-03
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-04
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-05
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-06
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-07
+Kaag en Braassem,0.0,8.0,Zuid-Holland,2020-04-08
+Dantumadiel,0.0,3.0,Friesland,2020-03-31
+Dantumadiel,0.0,3.0,Friesland,2020-04-01
+Dantumadiel,0.0,3.0,Friesland,2020-04-02
+Dantumadiel,0.0,3.0,Friesland,2020-04-03
+Dantumadiel,0.0,3.0,Friesland,2020-04-04
+Dantumadiel,0.0,3.0,Friesland,2020-04-05
+Dantumadiel,0.0,3.0,Friesland,2020-04-06
+Dantumadiel,0.0,3.0,Friesland,2020-04-07
+Dantumadiel,0.0,3.0,Friesland,2020-04-08
+Zuidplas,2.0,19.0,Zuid-Holland,2020-03-31
+Zuidplas,3.0,22.0,Zuid-Holland,2020-04-01
+Zuidplas,3.0,25.0,Zuid-Holland,2020-04-02
+Zuidplas,3.0,28.0,Zuid-Holland,2020-04-03
+Zuidplas,2.0,30.0,Zuid-Holland,2020-04-04
+Zuidplas,3.0,33.0,Zuid-Holland,2020-04-05
+Zuidplas,3.0,36.0,Zuid-Holland,2020-04-06
+Zuidplas,2.0,38.0,Zuid-Holland,2020-04-07
+Zuidplas,3.0,41.0,Zuid-Holland,2020-04-08
+Peel en Maas,5.0,145.0,Limburg,2020-03-31
+Peel en Maas,6.0,151.0,Limburg,2020-04-01
+Peel en Maas,7.0,158.0,Limburg,2020-04-02
+Peel en Maas,6.0,164.0,Limburg,2020-04-03
+Peel en Maas,5.0,169.0,Limburg,2020-04-04
+Peel en Maas,7.0,176.0,Limburg,2020-04-05
+Peel en Maas,6.0,182.0,Limburg,2020-04-06
+Peel en Maas,5.0,187.0,Limburg,2020-04-07
+Peel en Maas,6.0,193.0,Limburg,2020-04-08
+Oldambt,0.0,2.0,Groningen,2020-03-31
+Oldambt,0.0,2.0,Groningen,2020-04-01
+Oldambt,0.0,2.0,Groningen,2020-04-02
+Oldambt,0.0,2.0,Groningen,2020-04-03
+Oldambt,0.0,2.0,Groningen,2020-04-04
+Oldambt,0.0,2.0,Groningen,2020-04-05
+Oldambt,0.0,2.0,Groningen,2020-04-06
+Oldambt,0.0,2.0,Groningen,2020-04-07
+Oldambt,0.0,2.0,Groningen,2020-04-08
+Zwartewaterland,2.0,47.0,Overijssel,2020-03-31
+Zwartewaterland,3.0,50.0,Overijssel,2020-04-01
+Zwartewaterland,3.0,53.0,Overijssel,2020-04-02
+Zwartewaterland,3.0,56.0,Overijssel,2020-04-03
+Zwartewaterland,2.0,58.0,Overijssel,2020-04-04
+Zwartewaterland,4.0,62.0,Overijssel,2020-04-05
+Zwartewaterland,3.0,65.0,Overijssel,2020-04-06
+Zwartewaterland,2.0,67.0,Overijssel,2020-04-07
+Zwartewaterland,3.0,70.0,Overijssel,2020-04-08
+Súdwest-Fryslân,1.0,24.0,Friesland,2020-03-31
+Súdwest-Fryslân,2.0,26.0,Friesland,2020-04-01
+Súdwest-Fryslân,2.0,28.0,Friesland,2020-04-02
+Súdwest-Fryslân,2.0,30.0,Friesland,2020-04-03
+Súdwest-Fryslân,1.0,31.0,Friesland,2020-04-04
+Súdwest-Fryslân,2.0,33.0,Friesland,2020-04-05
+Súdwest-Fryslân,1.0,34.0,Friesland,2020-04-06
+Súdwest-Fryslân,1.0,35.0,Friesland,2020-04-07
+Súdwest-Fryslân,1.0,36.0,Friesland,2020-04-08
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-03-31
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-01
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-02
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-03
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-04
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-05
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-06
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-07
+Bodegraven-Reeuwijk,0.0,12.0,Zuid-Holland,2020-04-08
+Eijsden-Margraten,3.0,56.0,Limburg,2020-03-31
+Eijsden-Margraten,3.0,59.0,Limburg,2020-04-01
+Eijsden-Margraten,4.0,63.0,Limburg,2020-04-02
+Eijsden-Margraten,3.0,66.0,Limburg,2020-04-03
+Eijsden-Margraten,3.0,69.0,Limburg,2020-04-04
+Eijsden-Margraten,4.0,73.0,Limburg,2020-04-05
+Eijsden-Margraten,3.0,76.0,Limburg,2020-04-06
+Eijsden-Margraten,3.0,79.0,Limburg,2020-04-07
+Eijsden-Margraten,3.0,82.0,Limburg,2020-04-08
+Stichtse Vecht,1.0,35.0,Utrecht,2020-03-31
+Stichtse Vecht,2.0,37.0,Utrecht,2020-04-01
+Stichtse Vecht,2.0,39.0,Utrecht,2020-04-02
+Stichtse Vecht,2.0,41.0,Utrecht,2020-04-03
+Stichtse Vecht,2.0,43.0,Utrecht,2020-04-04
+Stichtse Vecht,2.0,45.0,Utrecht,2020-04-05
+Stichtse Vecht,2.0,47.0,Utrecht,2020-04-06
+Stichtse Vecht,1.0,48.0,Utrecht,2020-04-07
+Stichtse Vecht,2.0,50.0,Utrecht,2020-04-08
+Hollands Kroon,1.0,26.0,Noord-Holland,2020-03-31
+Hollands Kroon,1.0,27.0,Noord-Holland,2020-04-01
+Hollands Kroon,2.0,29.0,Noord-Holland,2020-04-02
+Hollands Kroon,1.0,30.0,Noord-Holland,2020-04-03
+Hollands Kroon,1.0,31.0,Noord-Holland,2020-04-04
+Hollands Kroon,2.0,33.0,Noord-Holland,2020-04-05
+Hollands Kroon,1.0,34.0,Noord-Holland,2020-04-06
+Hollands Kroon,1.0,35.0,Noord-Holland,2020-04-07
+Hollands Kroon,1.0,36.0,Noord-Holland,2020-04-08
+Leidschendam-Voorburg,1.0,25.0,Zuid-Holland,2020-03-31
+Leidschendam-Voorburg,2.0,27.0,Zuid-Holland,2020-04-01
+Leidschendam-Voorburg,2.0,29.0,Zuid-Holland,2020-04-02
+Leidschendam-Voorburg,2.0,31.0,Zuid-Holland,2020-04-03
+Leidschendam-Voorburg,1.0,32.0,Zuid-Holland,2020-04-04
+Leidschendam-Voorburg,2.0,34.0,Zuid-Holland,2020-04-05
+Leidschendam-Voorburg,2.0,36.0,Zuid-Holland,2020-04-06
+Leidschendam-Voorburg,1.0,37.0,Zuid-Holland,2020-04-07
+Leidschendam-Voorburg,2.0,39.0,Zuid-Holland,2020-04-08
+Goeree-Overflakkee,7.0,119.0,Zuid-Holland,2020-03-31
+Goeree-Overflakkee,8.0,127.0,Zuid-Holland,2020-04-01
+Goeree-Overflakkee,8.0,135.0,Zuid-Holland,2020-04-02
+Goeree-Overflakkee,8.0,143.0,Zuid-Holland,2020-04-03
+Goeree-Overflakkee,7.0,150.0,Zuid-Holland,2020-04-04
+Goeree-Overflakkee,10.0,160.0,Zuid-Holland,2020-04-05
+Goeree-Overflakkee,7.0,167.0,Zuid-Holland,2020-04-06
+Goeree-Overflakkee,6.0,173.0,Zuid-Holland,2020-04-07
+Goeree-Overflakkee,8.0,181.0,Zuid-Holland,2020-04-08
+Pijnacker-Nootdorp,1.0,30.0,Zuid-Holland,2020-03-31
+Pijnacker-Nootdorp,1.0,31.0,Zuid-Holland,2020-04-01
+Pijnacker-Nootdorp,1.0,32.0,Zuid-Holland,2020-04-02
+Pijnacker-Nootdorp,1.0,33.0,Zuid-Holland,2020-04-03
+Pijnacker-Nootdorp,1.0,34.0,Zuid-Holland,2020-04-04
+Pijnacker-Nootdorp,1.0,35.0,Zuid-Holland,2020-04-05
+Pijnacker-Nootdorp,1.0,36.0,Zuid-Holland,2020-04-06
+Pijnacker-Nootdorp,1.0,37.0,Zuid-Holland,2020-04-07
+Pijnacker-Nootdorp,1.0,38.0,Zuid-Holland,2020-04-08
+Nissewaard,3.0,43.0,Zuid-Holland,2020-03-31
+Nissewaard,4.0,47.0,Zuid-Holland,2020-04-01
+Nissewaard,4.0,51.0,Zuid-Holland,2020-04-02
+Nissewaard,4.0,55.0,Zuid-Holland,2020-04-03
+Nissewaard,3.0,58.0,Zuid-Holland,2020-04-04
+Nissewaard,5.0,63.0,Zuid-Holland,2020-04-05
+Nissewaard,4.0,67.0,Zuid-Holland,2020-04-06
+Nissewaard,3.0,70.0,Zuid-Holland,2020-04-07
+Nissewaard,4.0,74.0,Zuid-Holland,2020-04-08
+Krimpenerwaard,3.0,41.0,Zuid-Holland,2020-03-31
+Krimpenerwaard,3.0,44.0,Zuid-Holland,2020-04-01
+Krimpenerwaard,4.0,48.0,Zuid-Holland,2020-04-02
+Krimpenerwaard,3.0,51.0,Zuid-Holland,2020-04-03
+Krimpenerwaard,3.0,54.0,Zuid-Holland,2020-04-04
+Krimpenerwaard,4.0,58.0,Zuid-Holland,2020-04-05
+Krimpenerwaard,3.0,61.0,Zuid-Holland,2020-04-06
+Krimpenerwaard,2.0,63.0,Zuid-Holland,2020-04-07
+Krimpenerwaard,3.0,66.0,Zuid-Holland,2020-04-08
+De Fryske Marren,1.0,23.0,Friesland,2020-03-31
+De Fryske Marren,1.0,24.0,Friesland,2020-04-01
+De Fryske Marren,1.0,25.0,Friesland,2020-04-02
+De Fryske Marren,1.0,26.0,Friesland,2020-04-03
+De Fryske Marren,1.0,27.0,Friesland,2020-04-04
+De Fryske Marren,1.0,28.0,Friesland,2020-04-05
+De Fryske Marren,1.0,29.0,Friesland,2020-04-06
+De Fryske Marren,1.0,30.0,Friesland,2020-04-07
+De Fryske Marren,1.0,31.0,Friesland,2020-04-08
+Gooise Meren,2.0,28.0,Noord-Holland,2020-03-31
+Gooise Meren,3.0,31.0,Noord-Holland,2020-04-01
+Gooise Meren,3.0,34.0,Noord-Holland,2020-04-02
+Gooise Meren,3.0,37.0,Noord-Holland,2020-04-03
+Gooise Meren,2.0,39.0,Noord-Holland,2020-04-04
+Gooise Meren,3.0,42.0,Noord-Holland,2020-04-05
+Gooise Meren,2.0,44.0,Noord-Holland,2020-04-06
+Gooise Meren,2.0,46.0,Noord-Holland,2020-04-07
+Gooise Meren,2.0,48.0,Noord-Holland,2020-04-08
+Berg en Dal,3.0,72.0,Gelderland,2020-03-31
+Berg en Dal,4.0,76.0,Gelderland,2020-04-01
+Berg en Dal,4.0,80.0,Gelderland,2020-04-02
+Berg en Dal,4.0,84.0,Gelderland,2020-04-03
+Berg en Dal,3.0,87.0,Gelderland,2020-04-04
+Berg en Dal,5.0,92.0,Gelderland,2020-04-05
+Berg en Dal,4.0,96.0,Gelderland,2020-04-06
+Berg en Dal,3.0,99.0,Gelderland,2020-04-07
+Berg en Dal,4.0,103.0,Gelderland,2020-04-08
+Meierijstad,8.0,251.0,Noord-Brabant,2020-03-31
+Meierijstad,9.0,260.0,Noord-Brabant,2020-04-01
+Meierijstad,10.0,270.0,Noord-Brabant,2020-04-02
+Meierijstad,10.0,280.0,Noord-Brabant,2020-04-03
+Meierijstad,8.0,288.0,Noord-Brabant,2020-04-04
+Meierijstad,11.0,299.0,Noord-Brabant,2020-04-05
+Meierijstad,9.0,308.0,Noord-Brabant,2020-04-06
+Meierijstad,7.0,315.0,Noord-Brabant,2020-04-07
+Meierijstad,9.0,324.0,Noord-Brabant,2020-04-08
+Waadhoeke,3.0,9.0,Friesland,2020-03-31
+Waadhoeke,3.0,12.0,Friesland,2020-04-01
+Waadhoeke,4.0,16.0,Friesland,2020-04-02
+Waadhoeke,3.0,19.0,Friesland,2020-04-03
+Waadhoeke,3.0,22.0,Friesland,2020-04-04
+Waadhoeke,4.0,26.0,Friesland,2020-04-05
+Waadhoeke,3.0,29.0,Friesland,2020-04-06
+Waadhoeke,3.0,32.0,Friesland,2020-04-07
+Waadhoeke,3.0,35.0,Friesland,2020-04-08
+Westerwolde,0.0,4.0,Groningen,2020-03-31
+Westerwolde,0.0,4.0,Groningen,2020-04-01
+Westerwolde,0.0,4.0,Groningen,2020-04-02
+Westerwolde,0.0,4.0,Groningen,2020-04-03
+Westerwolde,0.0,4.0,Groningen,2020-04-04
+Westerwolde,0.0,4.0,Groningen,2020-04-05
+Westerwolde,0.0,4.0,Groningen,2020-04-06
+Westerwolde,0.0,4.0,Groningen,2020-04-07
+Westerwolde,0.0,4.0,Groningen,2020-04-08
+Midden-Groningen,0.0,8.0,Groningen,2020-03-31
+Midden-Groningen,0.0,8.0,Groningen,2020-04-01
+Midden-Groningen,0.0,8.0,Groningen,2020-04-02
+Midden-Groningen,0.0,8.0,Groningen,2020-04-03
+Midden-Groningen,0.0,8.0,Groningen,2020-04-04
+Midden-Groningen,0.0,8.0,Groningen,2020-04-05
+Midden-Groningen,0.0,8.0,Groningen,2020-04-06
+Midden-Groningen,0.0,8.0,Groningen,2020-04-07
+Midden-Groningen,0.0,8.0,Groningen,2020-04-08
+Beekdaelen,1.0,44.0,Limburg,2020-03-31
+Beekdaelen,1.0,45.0,Limburg,2020-04-01
+Beekdaelen,1.0,46.0,Limburg,2020-04-02
+Beekdaelen,1.0,47.0,Limburg,2020-04-03
+Beekdaelen,1.0,48.0,Limburg,2020-04-04
+Beekdaelen,1.0,49.0,Limburg,2020-04-05
+Beekdaelen,1.0,50.0,Limburg,2020-04-06
+Beekdaelen,1.0,51.0,Limburg,2020-04-07
+Beekdaelen,1.0,52.0,Limburg,2020-04-08
+Montferland,1.0,11.0,Gelderland,2020-03-31
+Montferland,1.0,12.0,Gelderland,2020-04-01
+Montferland,1.0,13.0,Gelderland,2020-04-02
+Montferland,1.0,14.0,Gelderland,2020-04-03
+Montferland,1.0,15.0,Gelderland,2020-04-04
+Montferland,1.0,16.0,Gelderland,2020-04-05
+Montferland,1.0,17.0,Gelderland,2020-04-06
+Montferland,1.0,18.0,Gelderland,2020-04-07
+Montferland,1.0,19.0,Gelderland,2020-04-08
+Altena,2.0,46.0,Noord-Brabant,2020-03-31
+Altena,2.0,48.0,Noord-Brabant,2020-04-01
+Altena,2.0,50.0,Noord-Brabant,2020-04-02
+Altena,2.0,52.0,Noord-Brabant,2020-04-03
+Altena,2.0,54.0,Noord-Brabant,2020-04-04
+Altena,3.0,57.0,Noord-Brabant,2020-04-05
+Altena,2.0,59.0,Noord-Brabant,2020-04-06
+Altena,2.0,61.0,Noord-Brabant,2020-04-07
+Altena,2.0,63.0,Noord-Brabant,2020-04-08
+West Betuwe,4.0,40.0,Gelderland,2020-03-31
+West Betuwe,5.0,45.0,Gelderland,2020-04-01
+West Betuwe,6.0,51.0,Gelderland,2020-04-02
+West Betuwe,5.0,56.0,Gelderland,2020-04-03
+West Betuwe,5.0,61.0,Gelderland,2020-04-04
+West Betuwe,6.0,67.0,Gelderland,2020-04-05
+West Betuwe,5.0,72.0,Gelderland,2020-04-06
+West Betuwe,4.0,76.0,Gelderland,2020-04-07
+West Betuwe,5.0,81.0,Gelderland,2020-04-08
+Vijfheerenlanden,6.0,53.0,Utrecht,2020-03-31
+Vijfheerenlanden,7.0,60.0,Utrecht,2020-04-01
+Vijfheerenlanden,8.0,68.0,Utrecht,2020-04-02
+Vijfheerenlanden,7.0,75.0,Utrecht,2020-04-03
+Vijfheerenlanden,6.0,81.0,Utrecht,2020-04-04
+Vijfheerenlanden,9.0,90.0,Utrecht,2020-04-05
+Vijfheerenlanden,7.0,97.0,Utrecht,2020-04-06
+Vijfheerenlanden,5.0,102.0,Utrecht,2020-04-07
+Vijfheerenlanden,7.0,109.0,Utrecht,2020-04-08
+Hoeksche Waard,5.0,67.0,Zuid-Holland,2020-03-31
+Hoeksche Waard,6.0,73.0,Zuid-Holland,2020-04-01
+Hoeksche Waard,6.0,79.0,Zuid-Holland,2020-04-02
+Hoeksche Waard,6.0,85.0,Zuid-Holland,2020-04-03
+Hoeksche Waard,5.0,90.0,Zuid-Holland,2020-04-04
+Hoeksche Waard,7.0,97.0,Zuid-Holland,2020-04-05
+Hoeksche Waard,5.0,102.0,Zuid-Holland,2020-04-06
+Hoeksche Waard,4.0,106.0,Zuid-Holland,2020-04-07
+Hoeksche Waard,5.0,111.0,Zuid-Holland,2020-04-08
+Het Hogeland,0.0,9.0,Groningen,2020-03-31
+Het Hogeland,1.0,10.0,Groningen,2020-04-01
+Het Hogeland,1.0,11.0,Groningen,2020-04-02
+Het Hogeland,1.0,12.0,Groningen,2020-04-03
+Het Hogeland,0.0,12.0,Groningen,2020-04-04
+Het Hogeland,1.0,13.0,Groningen,2020-04-05
+Het Hogeland,0.0,13.0,Groningen,2020-04-06
+Het Hogeland,0.0,13.0,Groningen,2020-04-07
+Het Hogeland,0.0,13.0,Groningen,2020-04-08
+Westerkwartier,1.0,21.0,Groningen,2020-03-31
+Westerkwartier,2.0,23.0,Groningen,2020-04-01
+Westerkwartier,2.0,25.0,Groningen,2020-04-02
+Westerkwartier,2.0,27.0,Groningen,2020-04-03
+Westerkwartier,1.0,28.0,Groningen,2020-04-04
+Westerkwartier,2.0,30.0,Groningen,2020-04-05
+Westerkwartier,2.0,32.0,Groningen,2020-04-06
+Westerkwartier,1.0,33.0,Groningen,2020-04-07
+Westerkwartier,2.0,35.0,Groningen,2020-04-08
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-03-31
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-01
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-02
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-03
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-04
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-05
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-06
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-07
+Noardeast-Fryslân,0.0,6.0,Friesland,2020-04-08
+Molenlanden,2.0,25.0,Zuid-Holland,2020-03-31
+Molenlanden,3.0,28.0,Zuid-Holland,2020-04-01
+Molenlanden,3.0,31.0,Zuid-Holland,2020-04-02
+Molenlanden,3.0,34.0,Zuid-Holland,2020-04-03
+Molenlanden,2.0,36.0,Zuid-Holland,2020-04-04
+Molenlanden,3.0,39.0,Zuid-Holland,2020-04-05
+Molenlanden,3.0,42.0,Zuid-Holland,2020-04-06
+Molenlanden,2.0,44.0,Zuid-Holland,2020-04-07
+Molenlanden,3.0,47.0,Zuid-Holland,2020-04-08

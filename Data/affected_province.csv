@@ -1,0 +1,353 @@
+municipality Name,Municipal Code,Provincienaam
+Tilburg,855,Noord-Brabant
+Diemen,384,Noord-Holland
+Delft,503,Zuid-Holland
+Coevorden,109,Drenthe
+Altena,1959,Noord-Brabant
+Houten,321,Utrecht
+Utrecht,344,Utrecht
+Haarlem,392,Noord-Holland
+Alphen aan den Rijn,484,Zuid-Holland
+Rotterdam,599,Zuid-Holland
+Eindhoven,772,Noord-Brabant
+Helmond,794,Noord-Brabant
+Loon op Zand,809,Noord-Brabant
+Oss,828,Noord-Brabant
+Zaltbommel,297,Gelderland
+Amsterdam,363,Noord-Holland
+Beverwijk,375,Noord-Holland
+Blaricum,376,Noord-Holland
+Hardinxveld-Giessendam,523,Zuid-Holland
+Gooise Meren,1942,Noord-Holland
+Hoeksche Waard,1963,Zuid-Holland
+Zeewolde,50,Flevoland
+Borne,147,Overijssel
+Culemborg,216,Gelderland
+De Bilt,310,Utrecht
+Soest,342,Utrecht
+Best,753,Noord-Brabant
+Dongen,766,Noord-Brabant
+Sint-Michielsgestel,845,Noord-Brabant
+Gemert-Bakel,1652,Noord-Brabant
+Sittard-Geleen,1883,Limburg
+Stichtse Vecht,1904,Utrecht
+Pijnacker-Nootdorp,1926,Zuid-Holland
+Almere,34,Flevoland
+Arnhem,202,Gelderland
+Beuningen,209,Gelderland
+Nijmegen,268,Gelderland
+Renkum,274,Gelderland
+Wijk bij Duurstede,352,Utrecht
+'s-Gravenhage,518,Zuid-Holland
+Westvoorne,614,Zuid-Holland
+Woerden,632,Utrecht
+West Maas en Waal,668,Gelderland
+Breda,758,Noord-Brabant
+Oisterwijk,824,Noord-Brabant
+Uden,856,Noord-Brabant
+Waalre,866,Noord-Brabant
+Waalwijk,867,Noord-Brabant
+Maastricht,935,Limburg
+Simpelveld,965,Limburg
+Utrechtse Heuvelrug,1581,Utrecht
+Lansingerland,1621,Zuid-Holland
+Lingewaard,1705,Gelderland
+Bronckhorst,1876,Gelderland
+Beekdaelen,1954,Limburg
+West Betuwe,1960,Gelderland
+Hellendoorn,163,Overijssel
+Zeist,355,Utrecht
+Amstelveen,362,Noord-Holland
+Bloemendaal,377,Noord-Holland
+Landsmeer,415,Noord-Holland
+Zaanstad,479,Noord-Holland
+Oegstgeest,579,Zuid-Holland
+Ridderkerk,597,Zuid-Holland
+'s-Hertogenbosch,796,Noord-Brabant
+Heusden,797,Noord-Brabant
+Schouwen-Duiveland,1676,Zeeland
+Bernheze,1721,Noord-Brabant
+Dinkelland,1774,Overijssel
+Leidschendam-Voorburg,1916,Zuid-Holland
+Meierijstad,1948,Noord-Brabant
+Vijfheerenlanden,1961,Utrecht
+Emmen,114,Drenthe
+Almelo,141,Overijssel
+Zwolle,193,Overijssel
+Maasdriel,263,Gelderland
+Wijchen,296,Gelderland
+IJsselstein,353,Utrecht
+Heemstede,397,Noord-Holland
+Huizen,406,Noord-Holland
+Albrandswaard,613,Zuid-Holland
+Bergen op Zoom,748,Noord-Brabant
+Boekel,755,Noord-Brabant
+Deurne,762,Noord-Brabant
+Goirle,785,Noord-Brabant
+Waterland,852,Noord-Holland
+Zundert,879,Noord-Brabant
+Roermond,957,Limburg
+Landerd,1685,Noord-Brabant
+Krimpenerwaard,1931,Zuid-Holland
+Tubbergen,183,Overijssel
+Tiel,281,Gelderland
+Voorst,285,Gelderland
+Noordwijk,575,Zuid-Holland
+Etten-Leur,777,Noord-Brabant
+Haaren,788,Noord-Brabant
+Veldhoven,861,Noord-Brabant
+Vught,865,Noord-Brabant
+Venlo,983,Limburg
+Leudal,1640,Limburg
+Neder-Betuwe,1740,Gelderland
+Opsterland,86,Friesland
+Ermelo,233,Gelderland
+Rheden,275,Gelderland
+Aalsmeer,358,Noord-Holland
+Alkmaar,361,Noord-Holland
+Schagen,441,Noord-Holland
+Gouda,513,Zuid-Holland
+Leiden,546,Zuid-Holland
+Waddinxveen,627,Zuid-Holland
+Goes,664,Zeeland
+"Nuenen, Gerwen en Nederwetten",820,Noord-Brabant
+Peel en Maas,1894,Limburg
+Berg en Dal,1945,Gelderland
+Smallingerland,90,Friesland
+Enschede,153,Overijssel
+Apeldoorn,200,Gelderland
+Amersfoort,307,Utrecht
+Woudenberg,351,Utrecht
+Den Helder,400,Noord-Holland
+Langedijk,416,Noord-Holland
+Purmerend,439,Noord-Holland
+Borsele,654,Zeeland
+Veere,717,Zeeland
+Geertruidenberg,779,Noord-Brabant
+Hilvarenbeek,798,Noord-Brabant
+Son en Breugel,848,Noord-Brabant
+Heerlen,917,Limburg
+Stein,971,Limburg
+Lelystad,995,Flevoland
+Heeze-Leende,1658,Noord-Brabant
+Roosendaal,1674,Noord-Brabant
+Cuijk,1684,Noord-Brabant
+Cranendonck,1706,Noord-Brabant
+Drimmelen,1719,Noord-Brabant
+Bergeijk,1724,Noord-Brabant
+Groningen,14,Groningen
+Leeuwarden,80,Friesland
+Hoogeveen,118,Drenthe
+Raalte,177,Overijssel
+Buren,214,Gelderland
+Harderwijk,243,Gelderland
+Veenendaal,345,Utrecht
+Velsen,453,Noord-Holland
+Barendrecht,489,Zuid-Holland
+Hellevoetsluis,530,Zuid-Holland
+Katwijk,537,Zuid-Holland
+Krimpen aan den IJssel,542,Zuid-Holland
+Nieuwkoop,569,Zuid-Holland
+Vlaardingen,622,Zuid-Holland
+Reimerswaal,703,Zeeland
+Vlissingen,718,Zeeland
+Boxtel,757,Noord-Brabant
+Pekela,765,Groningen
+Eersel,770,Noord-Brabant
+Oosterhout,826,Noord-Brabant
+Landgraaf,882,Limburg
+Geldrop-Mierlo,1771,Noord-Brabant
+Súdwest-Fryslân,1900,Friesland
+Bodegraven-Reeuwijk,1901,Zuid-Holland
+Nissewaard,1930,Zuid-Holland
+De Fryske Marren,1940,Friesland
+Druten,225,Gelderland
+Duiven,226,Gelderland
+Elburg,230,Gelderland
+Oldebroek,269,Gelderland
+Nunspeet,302,Gelderland
+Dronten,303,Flevoland
+Heemskerk,396,Noord-Holland
+Heiloo,399,Noord-Holland
+Dordrecht,505,Zuid-Holland
+Wassenaar,629,Zuid-Holland
+Boxmeer,756,Noord-Brabant
+Gilze en Rijen,784,Noord-Brabant
+Gennep,907,Limburg
+Nederweert,946,Limburg
+Horst aan de Maas,1507,Limburg
+Laarbeek,1659,Noord-Brabant
+Moerdijk,1709,Noord-Brabant
+Zwartewaterland,1896,Overijssel
+Goeree-Overflakkee,1924,Zuid-Holland
+Noordoostpolder,171,Flevoland
+Oldenzaal,173,Overijssel
+Ommen,175,Overijssel
+Staphorst,180,Overijssel
+Bergen (NH.),373,Noord-Holland
+Castricum,383,Noord-Holland
+Zandvoort,473,Noord-Holland
+Maassluis,556,Zuid-Holland
+Zwijndrecht,642,Zuid-Holland
+Terneuzen,715,Zeeland
+Someren,847,Noord-Brabant
+Kerkrade,928,Limburg
+Koggenland,1598,Noord-Holland
+Maasgouw,1641,Limburg
+De Wolden,1690,Drenthe
+Sint Anthonis,1702,Noord-Brabant
+Alphen-Chaam,1723,Noord-Brabant
+Bladel,1728,Noord-Brabant
+Overbetuwe,1734,Gelderland
+Eijsden-Margraten,1903,Limburg
+Dalfsen,148,Overijssel
+Deventer,150,Overijssel
+Haaksbergen,158,Overijssel
+Barneveld,203,Gelderland
+Doesburg,221,Gelderland
+Ede,228,Gelderland
+Heumen,252,Gelderland
+Rozendaal,277,Gelderland
+Nieuwegein,356,Utrecht
+Haarlemmermeer,394,Noord-Holland
+Heerhugowaard,398,Noord-Holland
+Oudewater,589,Utrecht
+Schiedam,606,Zuid-Holland
+Tholen,716,Zeeland
+Asten,743,Noord-Brabant
+Mill en Sint Hubert,815,Noord-Brabant
+Rucphen,840,Noord-Brabant
+Steenbergen,851,Noord-Brabant
+Beek,888,Limburg
+Sluis,1714,Zeeland
+Gulpen-Wittem,1729,Limburg
+Hof van Twente,1735,Overijssel
+Westland,1783,Zuid-Holland
+Midden-Groningen,1952,Groningen
+Westerkwartier,1969,Groningen
+Molenlanden,1978,Zuid-Holland
+Harlingen,72,Friesland
+Hengelo,164,Overijssel
+Epe,232,Gelderland
+Heerde,246,Gelderland
+Nijkerk,267,Gelderland
+Putten,273,Gelderland
+Leusden,327,Utrecht
+Lopik,331,Utrecht
+Enkhuizen,388,Noord-Holland
+Hoorn,405,Noord-Holland
+Stede Broec,532,Noord-Holland
+Leiderdorp,547,Zuid-Holland
+Rijswijk,603,Zuid-Holland
+Middelburg,687,Zeeland
+De Ronde Venen,736,Utrecht
+Tytsjerksteradiel,737,Friesland
+Oirschot,823,Noord-Brabant
+Meerssen,938,Limburg
+Valkenburg aan de Geul,994,Limburg
+Oude IJsselstreek,1509,Gelderland
+Teylingen,1525,Zuid-Holland
+Halderberge,1655,Noord-Brabant
+Noordenveld,1699,Drenthe
+Kampen,166,Overijssel
+Wageningen,289,Gelderland
+Zutphen,301,Gelderland
+Hilversum,402,Noord-Holland
+Oostzaan,431,Noord-Holland
+Ouder-Amstel,437,Noord-Holland
+Alblasserdam,482,Zuid-Holland
+Capelle aan den IJssel,502,Zuid-Holland
+Sliedrecht,610,Zuid-Holland
+Kapelle,678,Zeeland
+Brunssum,899,Limburg
+Voerendaal,986,Limburg
+Steenwijkerland,1708,Overijssel
+Echt-Susteren,1711,Limburg
+Tynaarlo,1730,Drenthe
+Urk,184,Flevoland
+Lochem,262,Gelderland
+Zevenaar,299,Gelderland
+Eemnes,317,Utrecht
+Uithoorn,451,Noord-Holland
+Hillegom,534,Zuid-Holland
+Voorschoten,626,Zuid-Holland
+Zoetermeer,637,Zuid-Holland
+Grave,786,Noord-Brabant
+Valkenswaard,858,Noord-Brabant
+Bergen (L.),893,Limburg
+Venray,984,Limburg
+Roerdalen,1669,Limburg
+Wijdemeren,1696,Noord-Holland
+Hollands Kroon,1911,Noord-Holland
+Montferland,1955,Gelderland
+Brummen,213,Gelderland
+Doetinchem,222,Gelderland
+Baarn,308,Utrecht
+Bunnik,312,Utrecht
+Edam-Volendam,385,Noord-Holland
+Texel,448,Noord-Holland
+Brielle,501,Zuid-Holland
+Gorinchem,512,Zuid-Holland
+Papendrecht,590,Zuid-Holland
+Wormerland,880,Noord-Holland
+Mook en Middelaar,944,Limburg
+Midden-Drenthe,1731,Drenthe
+Midden-Delfland,1842,Zuid-Holland
+Berkelland,1859,Gelderland
+Kaag en Braassem,1884,Zuid-Holland
+Noardeast-Fryslân,1970,Friesland
+Heerenveen,74,Friesland
+Assen,106,Drenthe
+Meppel,119,Drenthe
+Hardenberg,160,Overijssel
+Aalten,197,Gelderland
+Westervoort,293,Gelderland
+Uitgeest,450,Noord-Holland
+Weesp,457,Noord-Holland
+Baarle-Nassau,744,Noord-Brabant
+Beesel,889,Limburg
+Weert,988,Limburg
+Oost Gelre,1586,Gelderland
+Rijssen-Holten,1742,Overijssel
+Weststellingwerf,98,Friesland
+Losser,168,Overijssel
+Hattem,244,Gelderland
+Winterswijk,294,Gelderland
+Medemblik,420,Noord-Holland
+Drechterland,498,Noord-Holland
+Twenterand,1700,Overijssel
+Westerveld,1701,Drenthe
+Olst-Wijhe,1773,Overijssel
+Zuidplas,1892,Zuid-Holland
+Scherpenzeel,279,Gelderland
+Hendrik-Ido-Ambacht,531,Zuid-Holland
+Lisse,553,Zuid-Holland
+Woensdrecht,873,Noord-Brabant
+Reusel-De Mierden,1667,Noord-Brabant
+Aa en Hunze,1680,Drenthe
+Delfzijl,10,Groningen
+Montfoort,335,Utrecht
+Rhenen,340,Utrecht
+Het Hogeland,1966,Groningen
+Bunschoten,313,Utrecht
+Beemster,370,Noord-Holland
+Laren,417,Noord-Holland
+Zoeterwoude,638,Zuid-Holland
+Vaals,981,Limburg
+Noord-Beveland,1695,Zeeland
+Veendam,47,Groningen
+Achtkarspelen,59,Friesland
+Ooststellingwerf,85,Friesland
+Wierden,189,Overijssel
+Hulst,677,Zeeland
+Westerwolde,1950,Groningen
+Loppersum,24,Groningen
+Stadskanaal,37,Groningen
+Opmeer,432,Noord-Holland
+Dantumadiel,1891,Friesland
+Waadhoeke,1949,Friesland
+Appingedam,3,Groningen
+Renswoude,339,Utrecht
+Borger-Odoorn,1681,Drenthe
+Oldambt,1895,Groningen
+Terschelling,93,Friesland

@@ -1,0 +1,353 @@
+municipality Name,Number
+'s-Gravenhage,4371
+'s-Hertogenbosch,2682
+Aa en Hunze,71
+Aalsmeer,306
+Aalten,152
+Achtkarspelen,40
+Alblasserdam,188
+Albrandswaard,513
+Alkmaar,1181
+Almelo,478
+Almere,1249
+Alphen aan den Rijn,893
+Alphen-Chaam,431
+Altena,932
+Amersfoort,1315
+Amstelveen,1624
+Amsterdam,10408
+Apeldoorn,1301
+Appingedam,16
+Arnhem,1212
+Assen,228
+Asten,296
+Baarle-Nassau,41
+Baarn,181
+Barendrecht,591
+Barneveld,552
+Beek,271
+Beekdaelen,826
+Beemster,70
+Beesel,255
+Berg en Dal,1210
+Bergeijk,283
+Bergen (L.),76
+Bergen (NH.),403
+Bergen op Zoom,463
+Berkelland,165
+Bernheze,2050
+Best,512
+Beuningen,438
+Beverwijk,511
+Bladel,379
+Blaricum,158
+Bloemendaal,376
+Bodegraven-Reeuwijk,225
+Boekel,1052
+Borger-Odoorn,27
+Borne,380
+Borsele,162
+Boxmeer,474
+Boxtel,435
+Breda,4813
+Brielle,177
+Bronckhorst,248
+Brummen,161
+Brunssum,494
+Bunnik,187
+Bunschoten,158
+Buren,217
+Capelle aan den IJssel,1069
+Castricum,475
+Coevorden,536
+Cranendonck,994
+Cuijk,307
+Culemborg,366
+Dalfsen,399
+Dantumadiel,45
+De Bilt,910
+De Fryske Marren,390
+De Ronde Venen,445
+De Wolden,185
+Delft,724
+Delfzijl,107
+Den Helder,205
+Deurne,1016
+Deventer,936
+Diemen,219
+Dinkelland,623
+Doesburg,136
+Doetinchem,426
+Dongen,431
+Dordrecht,1131
+Drechterland,211
+Drimmelen,521
+Dronten,452
+Druten,451
+Duiven,197
+Echt-Susteren,572
+Edam-Volendam,337
+Ede,996
+Eemnes,64
+Eersel,396
+Eijsden-Margraten,871
+Eindhoven,2763
+Elburg,408
+Emmen,382
+Enkhuizen,286
+Enschede,1138
+Epe,566
+Ermelo,584
+Etten-Leur,1051
+Geertruidenberg,254
+Geldrop-Mierlo,538
+Gemert-Bakel,1649
+Gennep,330
+Gilze en Rijen,495
+Goeree-Overflakkee,1855
+Goes,350
+Goirle,628
+Gooise Meren,631
+Gorinchem,664
+Gouda,990
+Grave,383
+Groningen,1515
+Gulpen-Wittem,273
+Haaksbergen,248
+Haaren,411
+Haarlem,1802
+Haarlemmermeer,1212
+Halderberge,332
+Hardenberg,714
+Harderwijk,503
+Hardinxveld-Giessendam,274
+Harlingen,90
+Hattem,231
+Heemskerk,526
+Heemstede,695
+Heerde,711
+Heerenveen,332
+Heerhugowaard,587
+Heerlen,1663
+Heeze-Leende,342
+Heiloo,296
+Hellendoorn,337
+Hellevoetsluis,353
+Helmond,2012
+Hendrik-Ido-Ambacht,151
+Hengelo,756
+Het Hogeland,170
+Heumen,392
+Heusden,751
+Hillegom,144
+Hilvarenbeek,286
+Hilversum,503
+Hoeksche Waard,1287
+Hof van Twente,357
+Hollands Kroon,414
+Hoogeveen,306
+Hoorn,451
+Horst aan de Maas,709
+Houten,1072
+Huizen,344
+Hulst,146
+IJsselstein,642
+Kaag en Braassem,126
+Kampen,1434
+Kapelle,108
+Katwijk,537
+Kerkrade,723
+Koggenland,198
+Krimpen aan den IJssel,292
+Krimpenerwaard,749
+Laarbeek,677
+Landerd,949
+Landgraaf,696
+Landsmeer,190
+Langedijk,328
+Lansingerland,1039
+Laren,159
+Leeuwarden,441
+Leiden,826
+Leiderdorp,141
+Leidschendam-Voorburg,503
+Lelystad,746
+Leudal,1038
+Leusden,314
+Lingewaard,516
+Lisse,96
+Lochem,272
+Loon op Zand,591
+Lopik,287
+Loppersum,17
+Losser,98
+Maasdriel,193
+Maasgouw,407
+Maassluis,302
+Maastricht,3588
+Medemblik,344
+Meerssen,334
+Meierijstad,4280
+Meppel,177
+Middelburg,283
+Midden-Delfland,96
+Midden-Drenthe,119
+Midden-Groningen,147
+Mill en Sint Hubert,169
+Moerdijk,286
+Molenlanden,568
+Montferland,222
+Montfoort,244
+Mook en Middelaar,169
+Neder-Betuwe,533
+Nederweert,427
+Nieuwegein,561
+Nieuwkoop,240
+Nijkerk,355
+Nijmegen,3538
+Nissewaard,817
+Noardeast-Fryslân,127
+Noord-Beveland,40
+Noordenveld,89
+Noordoostpolder,241
+Noordwijk,274
+"Nuenen, Gerwen en Nederwetten",260
+Nunspeet,886
+Oegstgeest,291
+Oirschot,282
+Oisterwijk,550
+Oldambt,35
+Oldebroek,584
+Oldenzaal,355
+Olst-Wijhe,215
+Ommen,261
+Oost Gelre,241
+Oosterhout,743
+Ooststellingwerf,18
+Oostzaan,170
+Opmeer,37
+Opsterland,155
+Oss,2915
+Oude IJsselstreek,242
+Ouder-Amstel,198
+Oudewater,363
+Overbetuwe,986
+Papendrecht,259
+Peel en Maas,2421
+Pekela,54
+Pijnacker-Nootdorp,581
+Purmerend,1157
+Putten,146
+Raalte,393
+Reimerswaal,186
+Renkum,442
+Renswoude,61
+Reusel-De Mierden,112
+Rheden,543
+Rhenen,105
+Ridderkerk,555
+Rijssen-Holten,505
+Rijswijk,390
+Roerdalen,322
+Roermond,843
+Roosendaal,855
+Rotterdam,9044
+Rozendaal,41
+Rucphen,260
+Schagen,454
+Scherpenzeel,115
+Schiedam,595
+Schouwen-Duiveland,218
+Simpelveld,287
+Sint Anthonis,506
+Sint-Michielsgestel,655
+Sittard-Geleen,2456
+Sliedrecht,214
+Sluis,141
+Smallingerland,205
+Soest,697
+Someren,506
+Son en Breugel,471
+Stadskanaal,21
+Staphorst,248
+Stede Broec,348
+Steenbergen,359
+Steenwijkerland,290
+Stein,613
+Stichtse Vecht,678
+Súdwest-Fryslân,414
+Terneuzen,515
+Terschelling,6
+Texel,91
+Teylingen,268
+Tholen,719
+Tiel,540
+Tilburg,6039
+Tubbergen,431
+Twenterand,228
+Tynaarlo,322
+Tytsjerksteradiel,111
+Uden,2748
+Uitgeest,145
+Uithoorn,263
+Urk,312
+Utrecht,5682
+Utrechtse Heuvelrug,591
+Vaals,142
+Valkenburg aan de Geul,367
+Valkenswaard,666
+Veendam,45
+Veenendaal,488
+Veere,193
+Veldhoven,565
+Velsen,1172
+Venlo,1724
+Venray,587
+Vijfheerenlanden,1060
+Vlaardingen,911
+Vlissingen,362
+Voerendaal,211
+Voorschoten,191
+Voorst,338
+Vught,696
+Waadhoeke,320
+Waalre,182
+Waalwijk,1027
+Waddinxveen,252
+Wageningen,192
+Wassenaar,225
+Waterland,258
+Weert,788
+Weesp,211
+West Betuwe,843
+West Maas en Waal,405
+Westerkwartier,389
+Westerveld,146
+Westervoort,112
+Westerwolde,50
+Westland,1108
+Weststellingwerf,75
+Westvoorne,231
+Wierden,185
+Wijchen,793
+Wijdemeren,122
+Wijk bij Duurstede,217
+Winterswijk,108
+Woensdrecht,142
+Woerden,794
+Wormerland,219
+Woudenberg,180
+Zaanstad,1554
+Zaltbommel,326
+Zandvoort,220
+Zeewolde,190
+Zeist,869
+Zevenaar,430
+Zoetermeer,604
+Zoeterwoude,54
+Zuidplas,414
+Zundert,444
+Zutphen,335
+Zwartewaterland,876
+Zwijndrecht,429
+Zwolle,1796
